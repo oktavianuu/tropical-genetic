@@ -158,7 +158,7 @@
     {
       "text": "Figure 1. Electrophorogram of rice Rc gene sequence restriction results using BstUI restriction enzyme in silico. Ket: Kiri (Ladder Life 1 kb Plus); (1) OP542211.1; (2) OP542215.1; (3) OP542216.1; (4) OP542217.1; (5) OP542219.1; (6) OP542220.1; (7) OP542222.1; (8) OP542225.1; (9) OP542226.1; (10) OP542227.1; (11) OP542207.1; (12) OP542208.1; (13) OP542209.1; (14) OP542210.1; (15) OP542212.1; (16) OP542213.1; (17) OP542214.1; (18) OP542218.1; (19) OP542221.1; (20) OP542223.1; (21) OP542224.1",
       "style": "Caption",
-      "label": "Figure Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "Restriction with the BstUI enzyme on 21 DNA sequences of the Rc-bHLH gene resulted in two allele variations. The first allele produces one DNA band with a length of 400 bp for the Oryza sativa sequence and 370 bp for the Oryza rufipogon sequence while the second allele produces two DNA bands with a length of 320 bp and 110 bp (Figure 1).",
@@ -168,7 +168,7 @@
     {
       "text": "Table 2. Frequency of bHLH Protein (Rc) Gene Allele of NCBI Rice Based on In Silico RFLP Results",
       "style": "Caption",
-      "label": "Table Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "In table 2 it can be seen that the percentage of presence of the DNA band size of the first allele is 47.62% and the percentage of the presence of the second allele is 52.38%. The first allele appears with a frequency of 0.48 while the second allele appears with a frequency of 0.52. The presence of genetic variations in the Rc gene coding for the bHLH protein is caused by gene mutations, where some alleles are not passed on to later plants. Two loci have been identified using classical genetic analysis, Rc (brown pericarp and seed coat) and Rd (red pericarp and seed coat). Rc in the absence of Rd produces brown seeds, whereas Rd alone has no phenotype (white rice). Although Rc is referred to as a mutant allele because its phenotype differs from that of common rice cultivars, the action of Rc is dominant over white pericarp (rc) (Sweeney et al. 2006).",

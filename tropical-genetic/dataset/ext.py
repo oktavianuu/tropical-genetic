@@ -16,7 +16,7 @@ figure_pattern = re.compile(r"^Fig(?:ure)?\s*\d+", re.I)
 
 # Keywords for automatic section detection
 section_keywords = {
-    "Abstract": ["abstract", "abstrak", "Abstrak", "Abstract"],
+    "Abstract": ["abstract", "abstrak"],
     "Introduction": ["introduction"],
     "Materials and Methods": ["materials and methods", "methodology", "methods"],
     "Results and Discussion": ["results", "discussion", "results and discussion"],
@@ -26,6 +26,11 @@ section_keywords = {
 
 def label_paragraph(text, style):
     lower = text.lower()
+    for label, keywords in section_keywords.items():
+        for kw in keywords:
+            if kw.lower() in lower:
+                return label
+
     
     # Check for email
     if email_pattern.search(text):

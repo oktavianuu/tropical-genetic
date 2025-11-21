@@ -173,12 +173,12 @@
     {
       "text": "Table 1. Characteristics of the results of the first pair of primer designs",
       "style": "Normal",
-      "label": "Table Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "Table 2. Characteristics of the results of the second pair of primer designs",
       "style": "Normal",
-      "label": "Table Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "The first pair of primer sequences (Table 1) can amplify the PCR product length of 417 bp by showing that the forward primer has a base length of 23 bp and the reverse primer has a base length of 20 bp. The %GC of this primer pair were 43.5% and 50%, respectively. The difference in primary Tm between forward and reverse is 0.4oC. The forward primer has no secondary structure, while the reverse primer has 41.9 hairpins and 9.7 self dimers. Although there is a secondary structure, the results of the primary design are still acceptable because they are still relatively low and can be tolerated. Based on the ideal primary criteria, this primary pair has met the requirements of good primary criteria. This is also reinforced by the DNA Fold image which shows the absence of bonds between the nucleotide bases. After that, it was checked using the PrimerBLAST tool for the primary specificity test, it was seen that the template target species detected were:",
@@ -253,12 +253,12 @@
     {
       "text": "Figure 7. Gradient PCR test results using E.coli-AA primers",
       "style": "Normal",
-      "label": "Figure Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "Figure 8. Gradient PCR test results using E.coli-AIP primers",
       "style": "Normal",
-      "label": "Figure Caption"
+      "label": "Results and Discussion"
     },
     {
       "text": "4. Conclusions",
