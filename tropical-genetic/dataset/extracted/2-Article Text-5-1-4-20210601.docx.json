@@ -1,0 +1,362 @@
+{
+  "paragraphs": [
+    {
+      "text": "Design of primer Ipomoea batatas chloroplast gene matK",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "S. Syamsurizal1*, Ardi1, Des M1, Resti Fevria1, Yusni Atifah1, Elsa Badriyya2 and Afifatul Achyar1",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Negeri Padang (UNP), Padang, Indonesia; 25131",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "2Department of Pharmacology and Clinical Pharmacy, Faculty of Pharmacy , Universitas Andalas (Unand), Padang, Indonesia; 25166",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Correspondence should be addressed to S. Syamsurizal: 08126709150,E-mail address: syam_unp@fmipa.unp.ac.id",
+      "style": "Normal (Web)",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Heading 1 InTech",
+      "label": "Abstract"
+    },
+    {
+      "text": "Introduction: Sweet potato varieties (Ipomoea batatas) Pucuk Hitam Panyalaian and Madu Pucuk Hitam Panyalaian have the potential to be a superior commodity in West Sumatra, but the information of genetic diversity is very limited. Data on the diversity of sweet potato germplasm is beneficial in the selection of plants to obtain superior cultivars in plant breeding. Aim: The aim of the study was to find specific primers for the study of sweet potato genetic markers using Ipomoea batatas chloroplast genes matK. Methods: DNA extraction from sweet potato young leaves; designing forward and reverse primers Ipomoea batatas chloroplast genes matK; PCR; sequencing; bioinformatics analysis and species identification by comparing the NCBI database. Results: Plant DNA barcoding PCR using designed primers matK were successfully resulting single DNA band in different amplicon size in some samples. This indicating that the designed primers used were able to distinguish variation in one species.",
+      "style": "Body Text (InTech)",
+      "label": "Introduction"
+    },
+    {
+      "text": "Keywords: Ipomoea batatas, plant DNA barcoding, matK.",
+      "style": "Body Text (InTech)",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Heading 1 InTech",
+      "label": "Introduction"
+    },
+    {
+      "text": "Sweet potatoes have good prospects and opportunities to ensure food security, especially if rice and maize production does not meet the food needs of the community. Sweet potatoes are a food source that is not foreign to most Indonesian people. The ease of getting it makes people like to eat foods made from sweet potatoes. In the market you can find sweet potatoes of various colors, ranging from white, pale yellow, orange, to purple.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Many benefits can be obtained from this sweet potato. Sweet potatoes are rich in antioxidants (Pochapski et al., 2011), the content is higher when the color of sweet potatoes gets thicker (Cai et al., 2016). Sweet potatoes are also useful for: Helping the body's immunity, because it is rich in beta carotene, sweet potatoes also contain other nutrients such as vitamin C, B complex, iron, and phosphorus (Bartke et al., 2006). This makes sweet potatoes a great immune booster. Besides sweet potatoes are good for overcoming inflammation, overcome asthma, reduce inflammation of the joints, help digestion and a source of carbohydrates for people with diabetes (Jones & de Brauw, 2015). Sweet Potato also find to have antidiabetic and anticancer activity. (Mohanraj & Sivasankar, 2014)",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sweet potatoes are widely used and cultivated in West Sumatra, but are still traditional and have not been certified as superior and healthy. The West Sumatra sweet potato production centers include Bukittinggi, Batusangkar and Agam. Therefore, it is necessary to develop superior standardized sweet potatoes and certified organic sweet potatoes. Strategic efforts to obtain such products require analysis of molecular biology to obtain phylogeny data and tissue culture propagation techniques(Badriyya & Achyar, 2020).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Analysis of molecular biology of sweet potato genetic diversity in West Sumatra was carried out using the DNA barcoding plant method(Fazekas et al., 2012). DNA barcoding is a standardized approach to identify plants and animals by using short gene sequences taken from a standardized portion of the genome, called DNA barcodes. The DNA sequence for barcoding must be able to distinguish each species, but it has a primer annealed region that is conserved or universal for all species. In plants,  finding efficient DNA barcode candidates is quite challenging because the of  high diversity of plant genomes (Wattoo et al., 2016)",
+      "style": "HTML Preformatted",
+      "label": "Unknown"
+    },
+    {
+      "text": "Based on the recommendation of consortium for the Barcode of Life (BOLD) in plant working group, the unique DNA barcode for plant identification is the chloroplast matK (maturase K). These gene meet the criteria needed by a DNA barcode, which is short ± 1500 bp and ± 1400 bp respectively, has a conserved area for universal primer but still capable to distinguish each species. The genes found in the chloroplast are inherited maternally and recoverable even from herbarium samples(Hollingsworth et al., 2011).",
+      "style": "HTML Preformatted",
+      "label": "Unknown"
+    },
+    {
+      "text": "In this study, we designed primer for Ipomoea batatas identification based on matK chloroplast genes as DNA barcode to discover more about genetic diversity of sweet potatoes in West Sumatra.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2. Materials and Methods",
+      "style": "Heading 1 InTech",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "This research is a descriptive study that describes the design results primers used to detect the presence of matK cloroplast genes as DNA barcode. Identify the matK chloroplast genes was performed using the PCR method. Primers are designed based on the Ipomoea batatas cultivar Xushu 18 chloroplast genome sequence using the Geneious program. In this study, a pair of primer were used and the PCR product PCR was analyzed by 1,5% agarose gel electrophoresis (Vivantis).",
+      "style": "Heading 1 InTech",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "2.1 Plant Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Five varieties of sweet potatoes were studied, four of which were varieties cultivated by farmers in West Sumatra namely Pucuk Hitam Panyalaian, Madu Pucuk Hitam Panyalaian, Madu Papua dan 100 Hari, while one sample was wild sweet potato. The morphology of these varieties were observed and described.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2 Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Primer Design",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Primers were designed using “Geneious 7.0.6 (https://www.geneious.com)” based on Ipomoea batatas cultivar Xushu 18 chloroplast genome sequence (NCBI Reference Sequence: NC_026703.1, nucleotides 1.977-3.485 for matK) that were multiple aligned with other species of Ipomoea genus such as I. tabascana (NC_041207.1), I.ramosissima (NC_041205.1), I. x leucantha (NC_041208.1), I. splendor-sylvae (NC_041206.1). Primers specificity were checked by PrimerBLAST and then synthesized by Macrogen, Inc. in South Korea.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA Extraction",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Young leaves at the 3 uppermost nodes were collected and stored in -20oC until the day of DNA extraction. DNA was extracted using simplified SDS protocol demonstrated by (Kiptantiyawati et al., 2014) with slightly modifications. The quality and quantity of DNA was analyzed using NanoDrop spectrophotometer (Thermo Scientific). The isolated DNA was stored at -20°C.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "matK PCR",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "PCR conditions of matK amplification was identification. Each PCR tubes were contained of 12.5 μL of 2x PCR buffer for KOD FX Neo, 5 μL of 2 mM dNTPs, 0.5 μL of KOD FX Neo (1.0U/μl) TOYOBO (Catalog number KFX-201), 0.75 μL of 10 mM forward primer and reverse primer, 1 μL of DNA template (100 ng/μL) and a certain volume of PCR grade water to get 25 μL final reaction volume. PCR was performed using C1000 thermal cycler (Bio-Rad) and the cycling conditions were initial denaturation at 94oC for 3 minutes followed by 35 cycles of denaturation at 98oC for 10 seconds, annealing at 63oC for 30 seconds and extension at 68oC for 1 minute, and followed by final extension at 68oC for 5 minutes. The PCR products were separated and visualized in 1,5% agarose gel staining with GelRed (Biotium).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sequencing and Bioinformatic Analysis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "matK PCR product of each samples were sequenced using Sanger Sequencing methods by 1st BASE DNA Sequencing Services. Raw sequencing data from forward and reverse primer of each gene were contig using “Geneious 7.0.6 (https://www.geneious.com)” and then BLAST in NCBI.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Heading 1 InTech",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Biology molecular analysis started with bioinformatic study of gene of interest based on Ipomoea batatas cultivar Xushu 18 chloroplast genome sequence (NCBI Reference Sequence: NC_026703.1). Designed primer used in this study were matK-F (5’-CAC TTG CTC ATG ATC GTG GTT-3’) and matK-R (5’-CGT TGA GGG GGT TAG TGG AA-3’). Primers detailed information generated by Geneious 7.0.6 was described in Table 1",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Designed primers information generated by Geneious 7.0.6. *The amplicon size was determined according to Ipomoea batatas cultivar Xushu 18 chloroplast genome sequence (NCBI Reference Sequence: NC_026703.1)",
+      "style": "Caption",
+      "label": "Table Caption"
+    },
+    {
+      "text": "Some of cultivated sweet potatoes in West Sumatra studied here were Pucuk Hitam Panyalaian, Madu Pucuk Hitam Panyalaian, Madu Papua dan 100 Hari (Figure 1). Young leaves at the 3 uppermost nodes were collected and processed for total genomic DNA extraction.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 1.Morphology of four varieties of cultivated sweet potatoes in West Sumatra",
+      "style": "Caption",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "DNA extraction process from plants sometimes are quite challenging because of the presence of plant metabolites such as polysaccharide, polyphenols and protein contaminants that will be the inhibitors in downstream processes(Sharma et al., 2008). Simplified SDS protocol described by (Kiptantiyawati et al., 2014) offered non-hazardous, rapid and inexpensive DNA extraction process. Quality of DNA extracted from five varieties of sweet potatoes using simplified SDS protocol were sufficient (260/280 ratio average 1,6 ) for amplification matK (Table 2), except for Pucuk Hitam Panyalaian variety that had lowest value of 260/280 ratio indicating poor purity.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 2. Quantity and quality of sweet potatoes DNA extracts",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "Plant DNA barcoding PCR using primers matK-F and matK-R were successfully resulting single DNA band in expected amplicon size approximately 900s bp for samples Madu Pucuk Hitam Panyalaian and Madu Papua, except for sample 100 Hari which gives the results of a lower-sized DNA band, approximately 700s bp. Unfortunately, there were no DNA band observed in PCR product of Pucuk Hitam Panyalaian and wild sweet potato. Low purity of DNA samples is thought to be the cause of PCR unsuccessful.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "In plant DNA barcoding PCR, quality of DNA plays an important role. Sometimes, the presence of metabolites in plants effect DNA quality during extraction and even closely related species may require different DNA extraction procedure (Khanuja et al., 1999). This explanation answers the question why some samples did not show the expected results.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 2:\tElectrophoregram of matK PCR products. Label 1: Madu Pucuk Hitam; 2: Hitam Pucuk; 3: Madu Papua; 4: 100 Hari; 5: Wild sweet potato; L100bp: DNA ladder 100 bp",
+      "style": "Caption",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Confirmation of matK amplicons of each samples were sequenced using Sanger methods by 1st Base Sequencing Services. Different amplicon size resulted in some samples indicating that the designed primers used were able to distinguish variation in one species. Plant DNA barcoding gives contribution in two aspects in biological science those are to provide insight into species level taxonomies and to assist in the process of identifying unknown specimens to known species (Hollingsworth et al., 2011).",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Conclusion",
+      "style": "Heading 2 InTech",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Plant DNA barcoding PCR using designed primers matK was successfully resulting single DNA band in different amplicon size in some samples. This indicating that the designed primers used were able to distinguish variation in one species.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Heading 1 InTech",
+      "label": "Section Heading"
+    },
+    {
+      "text": "Profound Thanks towards Research Institution and Community Service (LPPM) of Universitas Negeri Padang, and  this study was supported by PNBP UNIVERSITAS NEGERI PADANG, in the scheme of “Hibah Penelitian Unggulan Perguruan Tinggi Dasar (PUPTD)”, Contract Number: 927/UN35.13/LT/2019 Fiscal Year 2019.",
+      "style": "Body Text (InTech)",
+      "label": "Unknown"
+    },
+    {
+      "text": "References",
+      "style": "Heading 1 InTech",
+      "label": "References"
+    },
+    {
+      "text": "Badriyya, E., & Achyar, A. (2020). Primer Construction to detect SNP rs11196205 Transcription Factor 7 Like 2 (TCF7L2) Using Amplification Refractory Mutation System (ARMS) PCR to detect Type-2 Diabetes Mellitus. Bioscience, 4(2), 151. https://doi.org/10.24036/0202042108497-0-00",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bartke, N., Fischbeck, A., & Humpf, H.-U. (2006). Analysis of sphingolipids in potatoes (Solanum tuberosum L.) and sweet potatoes  (Ipomoea batatas (L.) Lam.) by reversed phase high-performance liquid chromatography electrospray ionization tandem mass spectrometry (HPLC-ESI-MS/MS). Molecular Nutrition & Food Research, 50(12), 1201–1211. https://doi.org/10.1002/mnfr.200600140",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Cai, Z., Qu, Z., Lan, Y., Zhao, S., Ma, X., Wan, Q., Jing, P., & Li, P. (2016). Conventional, ultrasound-assisted, and accelerated-solvent extractions of anthocyanins from purple sweet potatoes. Food Chemistry, 197, 266–272. https://doi.org/10.1016/j.foodchem.2015.10.110",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Fazekas, A., Kuzmina, M., Newmaster, S., & Hollingsworth, P. (2012). DNA Barcoding Methods for Land Plants. Methods in Molecular Biology (Clifton, N.J.), 858, 223–252. https://doi.org/10.1007/978-1-61779-591-6_11",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Hollingsworth, P. M., Graham, S. W., & Little, D. P. (2011). Choosing and using a plant DNA barcode. PLoS ONE, 6(5). https://doi.org/10.1371/journal.pone.0019254",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Jones, K. M., & de Brauw, A. (2015). Using Agriculture to Improve Child Health: Promoting Orange Sweet Potatoes Reduces Diarrhea. World Development, 74, 15–24. https://doi.org/10.1016/j.worlddev.2015.04.007",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Khanuja, S., Shasany, A., Darokar, M., & Kumar, S. (1999). Rapid Isolation of DNA from Dry and Fresh Samples of Plants Producing Large Amounts of Secondary Metabolites and Essential Oils. Plant Molecular Biology Reporter - PL MOL BIOL REP, 17, 74. https://doi.org/10.1023/A:1007528101452",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kiptantiyawati, N., Syarifah, N. L., Maulia, P., Sulistiyowati, E., Putra, M. R., Yudiansyah, Khumaida, N., & Ardie, S. (2014). Sample preservation procedures and simple dna isolation protocols for the tuberous crop, cassava (Manihot esculenta crantz.). Asia-Pacific Journal of Molecular Biology and Biotechnology, 22, 164–170.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Mohanraj, R., & Sivasankar, S. (2014). Sweet Potato (Ipomoea batatas [L.] Lam)-A valuable medicinal food: A review. Journal of Medicinal Food, 17(7), 733–741.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Pochapski, M. T., Fosquiera, E. C., Esmerino, L. A., dos Santos, E. B., Farago, P. V., Santos, F. A., & Groppo, F. C. (2011). Phytochemical screening, antioxidant, and antimicrobial activities of the crude leaves’ extract from Ipomoea batatas (L.) Lam. Pharmacognosy Magazine, 7(26), 165.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sharma, K., Mishra, A. K., & Misra, R. S. (2008). A simple and efficient method for extraction of genomic DNA from tropical tuber crops. African Journal of Biotechnology, 7(8), 1018–1022. https://doi.org/10.4314/ajb.v7i8.58596",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Wattoo, J. I., Saleem, M. Z., Shahzad, M. S., Arif, A., & Hameed, A. (2016). rbcl matK. Journal of Biological Sciences, 4(1), 3–7.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Article history:  Received …………; Revised ……………….; Accepted …………………..",
+      "style": "Body Text (InTech)",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Gene Target",
+          "Primer Details",
+          "DNA Fold",
+          "Amplicon Size*"
+        ],
+        [
+          "matK",
+          "",
+          "",
+          "932 bp"
+        ],
+        [
+          "matK",
+          "",
+          "",
+          "932 bp"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Leaves and tuber of Pucuk Hitam Panyalaian",
+          "Leaves and tuber of Madu Pucuk Hitam Panyalaian"
+        ],
+        [
+          "Leaves and tuber of Madu Papua",
+          "Leaves and tuber of 100 Hari"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Sweet potatoes variety",
+          "DNA yield (μg)",
+          "260/280 Ratio"
+        ],
+        [
+          "Pucuk Hitam Panyalaian",
+          "30.2",
+          "1.51"
+        ],
+        [
+          "Madu Pucuk Hitam Panyalaian",
+          "6.82",
+          "1.66"
+        ],
+        [
+          "Madu Papua",
+          "6.29",
+          "1.55"
+        ],
+        [
+          "100 Hari",
+          "90.45",
+          "1.65"
+        ],
+        [
+          "Wild sweet potato",
+          "35.07",
+          "1.63"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

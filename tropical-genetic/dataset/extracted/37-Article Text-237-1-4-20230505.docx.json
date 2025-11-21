@@ -1,0 +1,225 @@
+{
+  "paragraphs": [
+    {
+      "text": "The Potential of Microsatellite Markers on the Identification of Various Ethnic Alleles in Indonesia",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Husnul Sri Mulyani Harja1, Cut Muthiadin2,",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Cut Muthiadin",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1,2Department of Biology, State Islamic University Alauddin Makassar, Romanpodong Gowa, 92113",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Tel.: +62 82191399068. Email address: 60300119066@uin alauddin.ac.id",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Indonesia is an archipelagic country with a high level of population diversity such as religion, ethnicity, culture and also genetic diversity. Environmental factors also have an impact on the genetic variation and diversity of the population, including high mobility and migration triggering the tendency for inter-ethnic marriages to occur. This environmental factor is one of the reasons for research based on DNA analysis on ethnicity in Indonesia for the purpose of forensic identification. One of the DNA analyzes for forensic identification is the microsatellite DNA analysis method with a high sensitivity level.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA analysis; DNA; forensics; microsatellite markers",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1.Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Indonesia is a country with a high level of ethnic and cultural diversity. The diversity of each ethnic group in Indonesia is formed from a long history of migration of the world's population. Based on the early history of the Indonesian Archipelago, the Austronesian race came from South China in two waves, namely the proto-Malays in the period 2000 BC and the Deutero-Malays in the early Christian era. The ethnic Batak, Dayak and Toraja people are proto-Malays, while the Sundanese, Javanese and Balinese are Deutero-Malays. Differences in origin and migration of the world's population bring varied culture and genetics. The cultural and genetic differences brought by each community group have resulted in the formation of the cultural and genetic uniqueness of the Indonesian population. Genetic mixtures from the world population migration process forms a variety of ethnic alleles in each region of Indonesia from Sabang to Merauke (Junitha & Carolina, 2016).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The process of migration of the Indonesian population has increased every year. Based on data published by the Ministry of Home Affairs and the Directorate General of Population and Civil Registry, there were 6,577,916 cases of migration of the Indonesian population throughout 2021. The high migration and mobility of the Indonesian population is one of the causes of inter-ethnic, cultural and national marriages. This condition gives rise to genetic variations between ethnicities such as physical form (Damayanti, 2015).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Migration and high mobility have an impact on increasing the population of Indonesia every year. Inter-ethnic marriage and population growth which continues to increase every year in Indonesia are the reasons for forensic identification based on DNA analysis it is important to solve criminal cases, accidents and disaster victims whose identities are not identified (Junitha et al., 2011). To make it easier to identify forensic cases (tracing the victim's identity), it is necessary to have a DNA database of Indonesian ethnicities through research on determining the variety of alleles in the ethnic population of Indonesia (Junitha & Carolina, 2016).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA analysis is an excellent identification used to solve criminal problems, accidents and disaster victims if the bodies found cannot be identified physically (Shewale, JG et al., 2013). DNA analysis technology that continues to develop greatly assists the process of determining the victim's identity, especially if the samples are found in small quantities, contaminated and degraded (Hidayat, T. et al., 2018). There are two types of genetic markers that are generally used in forensic identification, namely mitochondrial DNA and nuclear DNA (Butler, 2015). However, the nature of mitochondrial DNA has the disadvantage that it is only inherited from the mother's lineage and is less precise in discriminating against individual DNA profiles compared to nuclear DNA which is derived from the father and mother (Budowle et al. 2003). Since 1994, almost all DNA profiles have only used microsatellite locus analysis of nuclear DNA which has been developed into a package of human identification microsatellite genetic markers (Riantiet al., 2018).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Basically, the chemical structure of DNA in every human being is the same, the difference is the sequence of base pairs that make up DNA. Differences in the DNA base sequence in each person can be identified with satellite DNA analysis technology (Aziz, A., 2010). Satellite DNA is the DNA found at the centromere of a chromosome. In satellite DNA analysis for forensic purposes, microsatellite DNA markers are generally used which are also called Short Tandem Repeat (STR) (Butler, 2007 & Junitha, et al., 2017). Microsatellite DNA also called STR has high accuracy in revealing the victim's identity. In the human genome there are very many around 500 thousand loci, polymorphic (high mutation), and high amplification success at low quantity and quality of DNA making it good for forensic identification (Junitha & Alit, 2011). Short Tandem Repeat (STR) is a DNA sequence that repeats 1-6 bp in length and forms a series with a length of up to 100 bp. In each individual STR varies. In the field of forensics high variation is used for individual identification purposes (Busyra, 2021). The advantages of STR analysis are that the resulting DNA examination has a high level of sensitivity and specificity (Purwanti, 2014).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2. Construct Theory",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Research conducted by (Junitha & Wijana, 2017) identified allele variations and discriminating power of four primary pairs, namely DYS19, DYS390, DYS393 and DYS395 from the Pande clan, Bali. The sample used is epithelial cells (buccal swab) collected from 59 men of the Pande clan. DNA extraction was carried out using the phenol chloroform method, four pairs of primers were used to amplify the DNA sample in a PCR machine with annealing temperature of 52-55°C. Amplicons were electrophoresed on 10% polyacrylamide gel (PAGE) and visualized with silver nitrate staining. Allele size was determined by plotting the migration distance of a standard 100 bp ladder DNA and the migration distance of the amplicon on semilog paper. Genetic diversity was calculated using the Parra formula and discriminating power was calculated using the Butler formula using the Microsoft Excel program. The results of this study indicate that the four loci DYS19, DYS390, DYS393 and DYS395 have high discriminating power in the Pande clan and are very well used in DNA analysis. The results of this study indicate that the locus of this microsatellite marker is well used in DNA analysis for both paternity and forensics. For the purposes of calculating discriminatory values ​​that require data on allele variance and frequency from each locus, research on other Y-chromosome loci and autosomal microsatellites needs to be investigated. In addition, the results of this study only describe the family tree from the father, so research on other chromosomes is needed.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Research conducted by (Yudianto et al., 2022) analyzed nucleotide sequence variations in the D-loop mtDNA region which can determine the identity of certain individuals or populations and maternal kinship. This study applied PCR amplification and sequencing strategies to HVS-1 143 bp (nt 16268-16410) and HVS-2 126 bp (nt 34-159) from the D-loop mtDNA region. The sample used is a buccal swabcollected from 50 pure Madurese families consisting of a mother and two children. Female-female, male-female, and male-male sibling homology analyzes revealed 11 variants or morphs in 126bp HVS-2 D-Loop mtDNA (nt 34-159). the highest variance was in female-female (129G→C: 15%), male (120C→A: 11.5%)-female (120C: A: 11.5%), and male-male (131T→C: 11,5). Female-female and male-female homology analysis showed 11 variants in 143bp HVS-1 mtDNA D-Loop (nt 16259-16410). The highest variance in female-female, namely 16387A→G, 16387A→C: 15%; male-female: 16393C→T, 16393C→A: 11.5%; while the homology analysis of male siblings (male-male) showed 13 variants with the highest percentage: 16367A→G, 16367A→C: 11%.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "When Y-STR is compared to mtDNA, Y-STR is easier to analyze and interpret because commercial kits allow Polymerase Chain Reaction (PCR) amplification of 12, 17, 23, or more Y-STR loci. Far fewer laboratories perform mtDNA analysis because it avoids the mtDNA contamination that occurs at the higher number of copies per cell. Y-STR offers better resolution than mtDNA when it comes to distinguishing genetic lineages. Higher rates of STR mutations lead to more variation in the Y-STR haplotype compared to mtDNA. Some cases can be resolved genetically by studying the mutation rate of the Y-STR locus (Butler, 2015).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Research conducted by (Yuliwulandar et al., 2010) identified genotypes, serology and class I HLA gene supertypes in the Javanese, Indonesia. As many as 237 healthy individuals with Javanese and Sundanese backgrounds up to 3 generations and above became probands in this study, with a 5 ml sample of venous blood collected in an EDTA tube for DNA extraction using the QIAampTM DNA Blood Mini Kit (Qiagen Sciences, Maryland , USA). HLA allele genotyping was performed using the Luminex MultiAnalyte Profiling system (xMAP) with the WAKFLOW HLA typing kit (Wakunaga, Hiroshima, Japan). HLA allele frequencies were calculated using the Microsoft Excel program. Haplotype frequencies were calculated based on the maximum likelihood method based on the expectation maximization algorithm using ARLEQUIN v.3 software. 0. HLA serologies and supertypes were determined based on currently available HLA databases (http://www.immuneepitope.org/, http://www.imgt.org). Based on the genotype, serology and supertype groups, the frequency of HLA-A and HLA-B gene polymorphisms was that the number of HLA-A genotypes was 18 types, while that of HLA-B was 39 types. In HLA-A, the most frequently found genotypes were A*24:07 (21.52%), A*33:03 (15.61%) and A*24:02 (14.35%). In HLA-B, the most frequently occurring genotypes were B*15:13 (11.18%) and B*15:02 (11.6%). Several genotypes can be classified into the same serological group. Based on the serology, the majority of the samples had serological type A24 for HLA-A. For HLA-B, the majority of serologic types are B75 and B77. B75 and B77 are split serology of B22. Based on its supertype, not all alleles found in Indonesia have been studied or reported for their supertype groups. In order to obtain a more accurate classification of HLA supertypes, it is necessary to carry out further research to identify specific peptide types for certain HLA alleles. The Human Leukocyte Antigen (HLA) gene plays an important role in the human body's defense system. This gene is also known as the most polymorphic gene in the structure of the human genome. Therefore it is very important to identify the HLA gene in each population, including the Javanese population. The Human Leukocyte Antigen (HLA) gene plays an important role in the human body's defense system. This gene is also known as the most polymorphic gene in the structure of the human genome. Therefore it is very important to identify the HLA gene in each population, including the Javanese population. The Human Leukocyte Antigen (HLA) gene plays an important role in the human body's defense system. This gene is also known as the most polymorphic gene in the structure of the human genome. Therefore it is very important to identify the HLA gene in each population, including the Javanese population.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Research conducted by (Manela et al., 2022) on the Minangkabau ethnicity of West Sumatra, Indonesia, analyzed the allele frequencies of 21 STR (Short Tandem Repeat) loci. These data are very important for calculating the paternity index and the probability of a match for forensic identification. This study analyzed the GlobalFiller STR locus in 25 unrelated individuals from the Minangkabau ethnic group. DNA was extracted using the Prefiller kit and amplified with the GlobalFiller kit by the GeneAmp PCR System, followed by capillary electrophoresis using an ABI Prism 3500 Genetic Analyzer. Data analysis was performed using Easy DNA and FORSTAT software. There were 162 alleles with allele frequencies between 0.02 – 0.36 that were observed. The highest expected heterozygosity and the highest discriminatory power were found at the SE33 locus, and the highest match probability is at the D2S441 locus. Chi-square test showed that all STR loci follow Hardy-Weinberg equilibrium (p > 0.05). All loci were highly polymorphic (PIC > 0.5). The combined discriminatory capacity of each locus in the population is 99.999%. The 21 STR locus data is useful for forensic analysis and genetic studies of the Minangkabau population.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "According to (Sosiawan et al, 2019 & Yudianto, 2020) the number of repetitions of the STR marker varies and is specific between individuals, so it is effectively used as a marker for genetic-based human identification such as tracing human origins and paternity, genetic diseases and disease mutations, as well as identification of forensic cases . In human identification such as tracing origins, STR is chosen because it has high variation, is specific between individuals andsignificant differences between populations.If used as a forensic identification marker, it has several advantages, namely it can be used on DNA that is degraded due to conditions and other factors present at the crime scene.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "From several literature reviews it can be concluded that microsatellite DNA analysis is a method of DNA analysis with the advantages of analysis which is very effective when adjusted to the research objectives. From some of these studies it can be concluded that each method has advantages and disadvantages. Y-chromosome and mitochondrial samples require a large number of samples to describe the genetic diversity of a particular ethnicity. HLA and STR gene samples can only provide information at certain loci, so they cannot describe the genetic diversity of a particular ethnicity as a whole. However, from these studies it can be concluded that these four methods cannot be compared directly because the uses of each method are different. Y chromosome functions to trace the evolutionary process, human and genetic origins from father to son; mitochondria function to trace the process of evolution, human origins and maternal genetics to all children; the HLA gene functions to track disease, disease susceptibility and effective drugs in community groups; STR gene has been widely developed as a marker in the forensic field and as a genetic characteristic in certain groups of people. For this reason, research on the potential of microsatellite markers for the identification of various ethnic-ethnic alleles in Indonesia must be adjusted to the objectives of the research so that the results obtained are achieved. STR gene has been widely developed as a marker in the forensic field and as a genetic characteristic in certain groups of people. For this reason, research on the potential of microsatellite markers for the identification of various ethnic-ethnic alleles in Indonesia must be adjusted to the objectives of the research so that the results obtained are achieved. STR gene has been widely developed as a marker in the forensic field and as a genetic characteristic in certain groups of people. For this reason, research on the potential of microsatellite markers for the identification of various ethnic-ethnic alleles in Indonesia must be adjusted to the objectives of the research so that the results obtained are achieved.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Aziz, A. (2010). STR loci profile DYS 439, D21S11, and D23S317 the monozygotic twins. Research Bulletin of RSUD Dr Soetomo, 12(4), 185-188.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Budowle, B., Allard, MW, Wilson, MR, & Chakraborty, R. (2003). Forensics and mitochondrial DNA: applications, debates, and foundations. Annual review of genomics and human genetics, 4(1), 119-141.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Busyra, B. (2021). Genetic Data from the Four Loci Of Short Tandem Repeat (STR): TPOX, D3S1358, D7S820, and CFS1PO in the Indonesian Population. Indonesian Journal of Forensics and Medicolegal, 2(2), 150-155.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Butler, JM (2007). Short tandem repeat typing technologies used in human identity testing. Biotechniques, 43(4), Sii-Sv.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Butler, JM (2015). The future of forensic DNA analysis. Philosophical transactions of the royal society B: biological sciences, 370(1674), 20140252.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Damayanti, R. (2015). Academic Study of the 30 Year Program Plan for Presenting New Indonesian Humans (Opportunities for Conditioning Inter-Ethnic, Racial, National and Religious Marriages in Indonesia). Jakarta: Ministry of Women's Empowerment and Child Protection Center for Health Research, University of Indonesia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Hidayat, T., & Susanti, R. (2018). Genetic analysis of the locus of CSF1PO, TH01, and TPOX short tandem repeats in ethnic Minangkabau. Andalas Medical Magazine, 41(3), 94-100.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Junitha, IK & Wijana, MS (2017). Identification of Alleles and Distinguishing Strength of Four Y-Chromosome Microsatellite Loci of DNA in the Pande Clan Community in Bali for Forensic Purposes. Indonesian Journal of Legal and Forensic Science, 7, 1-8.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Junitha, IK, & Alit, IB (2011). Variety of Autosomal DNA Microsatellite Alleles in the Balinese Community Aga Sembiran Village, Buleleng Regency, Bali. Biota: Scientific Journal of the Life Sciences, 63-69.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Junitha, IK, & Carolina, YC (2016). Allele Variety and Distinguishing Strength of Five Autosomal DNA Microsatellite Loci in Batak People in Denpasar and Badung. Indonesian Journal of Legal and Forensic Sciences, 6, 282202.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Manela, C., Susanti, R., Tjong, DH, & Yudianto, A. (2022). Genetic Analysis of 21 Short Tandem Repeats (STR) Locus In Minangkabau Population, West Sumatra, Indonesia. African Journal of Infectious Diseases, 16(2), 35.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Purwanti, SH (2014). From Bali bombing to Sukhoi tragedy: The Success Story of Indonesian DVI in Uncovering Various Cases. PT. Rayyana Communications.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Rianti, P., Cristin, E., & Widodo, PT (2018). Forensic DNA Profiles in the Evidence of Two Murder Cases in Indonesia. Journal of Biological Resources, 4(2), 48-56.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Shewale, JG, & Liu, RH (Eds.). (2013). Forensic DNA analysis: current practices and emerging technologies.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sosiawan, A., Yudianto, A., Furqoni, AH, Nzilibili, SMM, & Nuraini, I. (2019). Full-sibling allelic frequency and sharing among Madurese: STR technique by 12 locus and the sex-typing amelogenin gene. Egyptian Journal of Forensic Sciences, 9(1), 1-10.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Yudianto, A. (2020). Reference Book Forensic Examination of DNA Bones and Teeth: Identification on CODIS STR Locus DNA, Y-STRs, and mtDNA. Yogyakarta: CV. Synthesis Prophetica.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Yudianto, A. (2020). Cell Free Fethal DNA Non-Invasive Methods in Identification Examination. Scopindo Media Pustaka.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Yudianto, A., Sosiawan, A., Palupi, R., & Novita, M. (2022) Sibling Analysis Using Mitochondrial DNA Displacement Loop (Mtdna D-Loop) Region in the Identification of Madurese Population. Sapporo Medical Journal, 56(4), 1-8.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Yuliwulandari, R., Rochani, JT, & Indrawati, I. (2010). Genotyping, Serology and Class I HLA Gene Supertypes in the Javanese, Indonesia. YARSI Journal of Medicine, 18(2), 086-093.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": []
+}

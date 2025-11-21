@@ -1,0 +1,1179 @@
+{
+  "paragraphs": [
+    {
+      "text": "Identification of Single Nucleotide Polymorphisms on the D-loop region of mtDNA in Sundanese Population",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Wolly Candramila1,*, Sony Heru Sumarsono2, Bambang Suryobroto3, Maelita Ramdani Moeis2",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1University of Tanjungpura, Jl. Prof. Dr. Hadari Nawawi, Bansir Laut, Kec. Pontianak Tenggara, Kota Pontianak 78124",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2Bandung Institute of Technology, Jl. Ganesa 10, Lebak Siliwangi, Kec. Coblong, Kota Bandung 40116",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3IPB University, Jl. Raya Dramaga, Babakan, Kec. Dramaga, Kota Bogor, Jawa Barat 16680",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Tel.: +62 812-2064-4655. Email address: wolly.candramila@fkip.untan.ac.id",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Identification of sequence polymorphism on the D-loop region of mtDNA has been done for various purposes, including health and medical treatment. In this research, single nucleotide polymorphisms were identified in the D-loop region of mtDNA of the Sundanese population in western Java. A total of 118 unrelated and healthy Sundanese probands were collected from closed-traditional kampung adat and open communities distributed in 14 cities and regencies in western Java. DNA amplification and direct sequencing of the D-loop region was proceeded using primers L15990 and H409. Multi-alignment was conducted not only intrapopulation but also with D-loop sequence data stored in GenBank for comparison. In this research, we categorized high frequency SNPs as less effective for identification in population studies because of their present in other population outside Indonesia. Meanwhile, lower-frequency SNPs showed typical variants of Sundanese haplotypes. On the other hand, rare or low-frequency SNPs should be re-examined in larger size of samples to have better understanding about risk factor for many diseases.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "SNPs, D-loop region, Sundanese, multi-alignment, mtDNA",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "The hypervariable (HV) I and II regions that lie on the D-loop region of the mitochondrial DNA are conventionally used for determining the identity in population studies (Budowle et al. 2002; Sharma et al. 2005; Tuladhar et al. 2014; Ranasinghe et al. 2015) and forensic purposes (Andréasson et al. 2002; Coble et al. 2006). In progress, databases of single nucleotide polymorphism (SNP) on the D-loop region of mtDNA are continuously being identified in many other populations and for other purposes. Studies showed that the sequence polymorphisms on the D-loop regions were significantly associated with many diseases, such as cancers (Guo et al. 2016; Kong et al. 2014) and chronic kidney failure (Xu et al. 2015). Murakami et al. (2002) also found that polymorphism on the D-loop region might cause different durability in training among individuals. However, there is still limited information about single nucleotide polymorphisms (SNPs) on the D-loop region among populations in Indonesia when compared to more than 1300 ethnics encompassing the whole areas of the archipelago.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The Sundanese people are the second-largest ethnic in Indonesia mainly distributed in western Java (Badan Pusat Statistik 2011). Migration and mixed marriage processes urged the people to be distributed to many other regions in Indonesia. Being highly distributed to many regions and its maternal inheritability through mixed marriage process may also cause these specific SNPs found in the Sundanese population can be exhibited in other cross-marriage ethnic and vice versa. More information about these SNPs will help better understanding about potential genetic identity and its changing through mutation processes. In this research, we identified SNPs of the HVI and HVII on the D-loop regions of mtDNA among Sundanese population in western Java.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Probands Criteria and Ethical Clearance",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "A total of 118 unrelated Sundanese probands were collected from two types of settlement areas in West Java Province, including random open communities and seven closed-traditional kampung adat. Probands were healthy individuals distributed in 14 cities and regencies in western Java. Parent’s origin and pure Sundanese ethnicity were checked and those who fully understood the informed consent and volunteered freely were included in the research. Ethical clearance (No.222/FKUP-RSHS/KEPK/Kep./EC/2010) for the whole activities of the research was released by the Faculty of Medicine, Padjadjaran University & RSUP dr. Hassan Sadikin in Bandung.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2. Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.2.1. DNA Collection",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Whole DNA samples were extracted from blood as described in Sambrook et al. (1989). Blood collection was conducted from March 2011 until March 2014. Extracted DNA were added with 200 l of elution buffer, left for 5 minutes until fine diluted, and then stored at -20°C for further use.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.2. DNA Amplification",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The amplification of the D-loop region of mtDNA was done by polymerase chain reaction method using L15990 (5’-TTAACTCCACCATTAGCACC-3’) and H409 (5’-Ctgttaaaagtgcataccgcc-3’) as forward and reverse primers, subsequently. The numbers following the L and H chains denote the 3’ end of the primer in accordance to the mtDNA sequence of Anderson et al. (1981) and Andrews et al. (1999). Primer H409 was previously used by Sigurðardóttir et al. (2000), meanwhile, L15990 was originally designed based on the nucleotide specificity found in the blasting result of the D-loop sequence. Primers were synthesized in such specific orders by Integrated DNA Technologies, Singapore. The amplification reaction was following the product protocol for DreamTaq Green PCR Master Mix (2X) from Thermo Scientific (Thermo Fisher Scientific, Inc.). Initial denaturation was set at 95°C for 3 minutes, followed by another denaturation at 95°C for 30 seconds, primer annealing at 54 until 58°C for 30 seconds, and elongation step at 72°C for 1 minute and 15 seconds. The whole cycle was repeated 30-35 times and followed by final elongation at 72°C for 10 minutes. DNA amplification was using T100TM Thermal Cycler (Bio-Rad Laboratories, Inc., USA). The PCR product was visualized on 1% agarose gel soaked in 0,5 g/ml EtBr solution for 15 minutes.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.3. DNA Sequencing",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The PCR products were purified using Xprep Gel & PCR Purification Kit (PhileKorea Technology, Inc., Korea). The direct sequencing method of Sanger et al. (1977) with the same primer designs as amplification was used to read the amplified DNA. The bidirectional sequencing protocols were done at Macrogen, Inc., South Korea.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.3. Data Analysis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sequencing data in the chromatogram and the nucleotide orders were analyzed in DNA Baser v4 (DNA Baser Sequence Assembler v4.x, Heracle Biosoft SRL, www.DnaBaser.com). Only samples with nucleotide reading peaks characterized by QV≧ 22 would be further analyzed. Multiple alignments were done with MUSCLE 3.8 (Edgar 2004) in MEGA5.2 (Tamura et al. 2011). The alignment results were re-corrected manually in TextPad format. A manual correction was following phylogenetic alignment steps by Bandelt & Parson (2008) as a review of the recommendation by (Wilson et al. 2002a,b). Sequence polymorphisms were identified both in HVI and HVII in the D-loop region of mtDNA. The determination of mutation types was done by comparing the samples to the homolog D-loop sequence of rCRS (revised Cambridge Reference Sequence, NC_012920) by Andrews et al. (1999). The comparison was also done with other homolog sequences stored in GenBank (http://www.ncbi.nlm.nih.gov/genbank/) notably for Asian (Japan, AF346989 and AF346990; Mongolia/China, AY255146 and JN857056; India, FJ383814 and AY713976; and Thailand, FJ442939 and GU810079), East European (JF937679), Papua New Guinean (AY289092 and AY289083), and African (D38112) populations. Mutations found in only one individual are not counted.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "D-loop sequence polymorphism was analyzed on position 16180 until 365 of the circular mtDNA with a total length of 824 base pairs. The sequence analysis was grouped into two positions of HVI and HVII regions. We found 181 variants and 68 multiallelic positions following alignment of the raw sequence data. After rejecting variants found in only one individual, the types of mutation in HVI and HVII regions were confirmed for 79 and 91 SNPs, respectively (Table 1). Sequence polymorphism per base were slightly higher in HVII (0.2593) than HVI (0.2095). Transitions (51.8%) are more frequent than other types of mutation (transversion 37.1%; insertion 7.1%; deletion 4.1%). As found in coding regions, transitions are favored several folds over transversion but the evolutionary basis for conservative protein selection is not large enough (Stoltzfus & Norris 2015).",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Target regions used in this study and the number of SNPs",
+      "style": "Normal (Web)",
+      "label": "Table Caption"
+    },
+    {
+      "text": "*Base position according to Andrews et al. (1999); TS: Transition; TV: Transversion; Indel: Insertion/Deletion",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Total types of base mutation encountered on the HVI and HVII are shown in Table 2. Transition T16519C (87%) was most frequent among all samples in HVI region, meanwhile, insertion 302.3C (57%), 315.1C (98%), and transition A73G (99%) are most frequent than other mutations in HVII region. Mutations T16519C, 315.1C, and A73G were also found in other compared populations stored in GenBank (http://www.ncbi.nlm.nih.gov/genbank/), however, insertion 302.3C was only found in Papua New Guinean and East European sequence data. These SNPs are assumed to be less effective for population identification.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 2. Types of base mutation on HVI and HVII regions of mtDNA identified in this study",
+      "style": "Normal (Web)",
+      "label": "Table Caption"
+    },
+    {
+      "text": "The types of mutation with lower frequency were found in transitions C16223T (47%), T152C (29%), T16209C (25%), T16304C (24%), and C16261T (20%). Transition C16223T and T152C were more likely found in Asian populations, namely Japanese, Chinese, Thailand as well as in Taiwanese (63%) (Tsai et al. 2001), meanwhile, transition C16261T was also found in Papua New Guinean and India. On the other hand, transitions T16209C and T16304 were only found in Sundanese.  These two mutations were encountered in some of the common haplotypes found in the Sundanese population, namely Haplotypes A, B, C, and D for transition T16304C and Haplotypes H, I, J, and K for transition T16209C (Candramila et al. 2021).",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Other types of mutation with lower frequency were transitions T146C (19%), T16217C (17%), C64T (16%), C150T (16%), A16235G (15%), A16272G (15%), G316A (15%), A210G (14%), G225A (14%), T16311C (10%), and T16362C (10%), and transversions C16266A (14%) and T72G (10%). Mutations A16235G, A16272G, G316A, A210G, and G225A were only found in Sundanese samples. As reported by Candramila et al. (2021), transition A16235G was common for Haplotype K, A210G for Haplotype J, and A16272G, G316A and G225A for Haplotype A1. Meanwhile, transition T146C was common in Haplotype A2 of the Sundanese population but this mutation was also found in Papua New Guinean (AY289083), Thailand (FJ442939), as well as in Taiwanese Han population (Tsai et al. 2001).",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Most SNPs identified in this study were found in less than 10% of samples. The analysis of low-frequency SNPs is valuable in determining the risk factor for common diseases (Kryukov et al. 2007). Babron et al. (2012) found that different frequency categories showed different stratification patterns. D-loop sequence polymorphisms were also reported for their association with various diseases. For example, Xu et al. (2015) reported six SNPs (73G, 146C, 150T, 194T, 195C and 310C) as risk factors for chronic kidney disease, meanwhile, Govatati et al. (2013) showed that 189G/310TC/16189C haplotype may be associated with an increased risk for endometriosis. Moreover, polymorphisms at C16069T, T16126C, T16189C, T16519C and C16223T were correlated with an increased risk of Huntington Disease (HD) while SNPs at C16150T, T16086C and T16195C were associated with a decreased risk of Huntington's disease (Mousavizadeh et al. 2014). Most of the polymorphisms associated with those diseases were also found in Sundanese samples, however, more ongoing research with a large sample size and functional evaluation of identified SNPs are needed to validate the findings.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "We identified 170 sequence nucleotide polymorphisms and 14 multiallelic positions in HV I and II regions of the mtDNA. High-frequency SNPs (T16519C 87%, 302.3C 57%, 315.1C 98%, and A73G 99%) were also found in populations outside Indonesia, therefore, less effective for identification in population study. Meanwhile, lower-frequency SNPs were more common for Sundanese haplotypes (T16304C 24%, T16209C 25%, A16235G 15%, A210G 14%, A16272G 15%, G316A 15%, G225A 14%, and T146C 19%). On the other hand, rare or low-frequency SNPs may be associated with risk factor for many diseases and failures, but more studies are needed to support the findings in Sundanese population.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "WC designed the research and wrote the manuscript, SHS, BS, and MRM supervised all the process.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The authors thank Ministry of Research, Technology, and Higher Education for the fund of Doctoral Research Program Year 2012 and the governmental offices in West Java Province for the permit of the research in all sampling locations, as well as all participants to make this research came to reality.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conflict of Interest",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "None.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Region",
+          "Base Position*",
+          "Number of SNPs",
+          "Region Size",
+          "SNPs per base",
+          "Multiallelic SNPs",
+          "TS*",
+          "TV*",
+          "Indel*"
+        ],
+        [
+          "HVI",
+          "16192-16568",
+          "79",
+          "377",
+          "0.2095",
+          "5",
+          "53",
+          "24",
+          "2"
+        ],
+        [
+          "HVII",
+          "6-356",
+          "91",
+          "351",
+          "0.2593",
+          "9",
+          "35",
+          "39",
+          "17"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Region & Base Length",
+          "Position",
+          "Type of Mutation",
+          "Freq.\n(%)",
+          "Region & Base Length",
+          "Position",
+          "Type of Mutation",
+          "Freq. (%)"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16519C",
+          "Transition",
+          "87",
+          "HVII (6-356) 351 bp",
+          "A73G",
+          "Transition",
+          "99"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16223T",
+          "Transition",
+          "47",
+          "HVII (6-356) 351 bp",
+          "315,1C",
+          "Insertion",
+          "98"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16209C",
+          "Transition",
+          "25",
+          "HVII (6-356) 351 bp",
+          "302,3C",
+          "Insertion",
+          "57"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16304C",
+          "Transition",
+          "24",
+          "HVII (6-356) 351 bp",
+          "T152C",
+          "Transition",
+          "29"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16261T",
+          "Transition",
+          "20",
+          "HVII (6-356) 351 bp",
+          "T146C",
+          "Transition",
+          "19"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16217C",
+          "Transition",
+          "17",
+          "HVII (6-356) 351 bp",
+          "C64T",
+          "Transition",
+          "16"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16235G",
+          "Transition",
+          "15",
+          "HVII (6-356) 351 bp",
+          "C150T",
+          "Transition",
+          "16"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16272G",
+          "Transition",
+          "15",
+          "HVII (6-356) 351 bp",
+          "G316A",
+          "Transition",
+          "15"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16266A",
+          "Transversion",
+          "14",
+          "HVII (6-356) 351 bp",
+          "A210G",
+          "Transition",
+          "14"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16311C",
+          "Transition",
+          "10",
+          "HVII (6-356) 351 bp",
+          "G225A",
+          "Transition",
+          "14"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16362C",
+          "Transition",
+          "10",
+          "HVII (6-356) 351 bp",
+          "T72G",
+          "Transversion",
+          "10"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16234T",
+          "Transition",
+          "8",
+          "HVII (6-356) 351 bp",
+          "302,2C",
+          "Insertion",
+          "9"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16257A",
+          "Transversion",
+          "8",
+          "HVII (6-356) 351 bp",
+          "309,1C",
+          "Insertion",
+          "9"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16358T",
+          "Transition",
+          "8",
+          "HVII (6-356) 351 bp",
+          "A111C",
+          "Transversion",
+          "8"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16292T",
+          "Transition",
+          "8",
+          "HVII (6-356) 351 bp",
+          "C186G",
+          "Transversion",
+          "8"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16558A",
+          "Transition",
+          "8",
+          "HVII (6-356) 351 bp",
+          "356,3A",
+          "Insertion",
+          "8"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16213A",
+          "Transition",
+          "7",
+          "HVII (6-356) 351 bp",
+          "G275A",
+          "Transition",
+          "7"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16294T",
+          "Transition",
+          "7",
+          "HVII (6-356) 351 bp",
+          "A297C",
+          "Transversion",
+          "7"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16434A",
+          "Transition",
+          "7",
+          "HVII (6-356) 351 bp",
+          "C61T",
+          "Transition",
+          "5"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16384A",
+          "Transition",
+          "6",
+          "HVII (6-356) 351 bp",
+          "T74G",
+          "Transversion",
+          "5"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16290T",
+          "Transition",
+          "5",
+          "HVII (6-356) 351 bp",
+          "T195C",
+          "Transition",
+          "5"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16355T",
+          "Transition",
+          "5",
+          "HVII (6-356) 351 bp",
+          "T318C",
+          "Transition",
+          "5"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16444T",
+          "Transition",
+          "5",
+          "HVII (6-356) 351 bp",
+          "C6A",
+          "Transversion",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16501T",
+          "Transition",
+          "5",
+          "HVII (6-356) 351 bp",
+          "A16C",
+          "Transversion",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16197del",
+          "Deletion",
+          "4",
+          "HVII (6-356) 351 bp",
+          "G81A",
+          "Transition",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16293C",
+          "Transversion",
+          "4",
+          "HVII (6-356) 351 bp",
+          "C91G",
+          "Transversion",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16390A",
+          "Transition",
+          "4",
+          "HVII (6-356) 351 bp",
+          "G94A",
+          "Transition",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16402C",
+          "Transversion",
+          "4",
+          "HVII (6-356) 351 bp",
+          "C132T",
+          "Transition",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16221T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C151T",
+          "Transition",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16258G",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "G207A",
+          "Transition",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16263C",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C258A",
+          "Transversion",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16297C",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A278T",
+          "Transversion",
+          "4"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16298C",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "T55G",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16431A",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A200G",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16192T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "T204G",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16197T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C253T",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16198C",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C295T",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16228A",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C343T",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16258C",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A28C",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16276A",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "G92A",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16278T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "G103C",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16326C",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A160T",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16327T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A165C",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16343T",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A183G",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16386A",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "T199C",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16437G",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A257C",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16451T",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "A278del",
+          "Deletion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16496A",
+          "Transition",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C298A",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16560A",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "302,2A",
+          "Insertion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16568G",
+          "Transversion",
+          "3",
+          "HVII (6-356) 351 bp",
+          "C320T",
+          "Transition",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16193T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C324G",
+          "Transversion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16197G",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "356,3C",
+          "Insertion",
+          "3"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16204A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T42C",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16224C",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G62del",
+          "Deletion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16228T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "A77C",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16241G",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G79C",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16242T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G109A",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16248A",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G124A",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16255A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T125A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16265C",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T131G",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16266T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C132del",
+          "Deletion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16270T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T142C",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16274A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G143A",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16279A",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "A153G",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16293G",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "A181C",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16301A",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "A183del",
+          "Deletion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16319A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "G187A",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16335G",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C190A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16381del",
+          "Deletion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T199A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16398A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T199del",
+          "Deletion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16467T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T206G",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16469G",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T209A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16492T",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T220G",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16498A",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C222G",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16502G",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "A227G",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "G16526C",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "T236A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "C16542T",
+          "Transition",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C242A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "T16555A",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "C264T",
+          "Transition",
+          "2"
+        ],
+        [
+          "HVI (16192-16568) 377 bp",
+          "A16564C",
+          "Transversion",
+          "2",
+          "HVII (6-356) 351 bp",
+          "269,1A",
+          "Insertion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "A270C",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "A272C",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "C273A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "C285A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "C299A",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "302,1C",
+          "Insertion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "302,3A",
+          "Insertion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "309,1T",
+          "Insertion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "T310C",
+          "Transition",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "315,1G",
+          "Insertion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "A341T",
+          "Transversion",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "HVII (6-356) 351 bp",
+          "C353A",
+          "Transversion",
+          "2"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

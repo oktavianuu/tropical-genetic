@@ -1,0 +1,288 @@
+{
+  "paragraphs": [
+    {
+      "text": "Analysis of Genetic Variation of the Voltage-Gated Sodium Chanel Gene Sequence in Aedes aegypti NCBI PopSet (2325355280) Using In Silico RFLP",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Hafizhah Putrizalda1), Afifatul Achyar2)",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1)Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Negeri Padang",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2)Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Negeri Padang",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Departmen  Biology, Faculty Mathematics and Natural Science, Padang State University,  Street of Prof. Dr. Hamka, Air Tawar Barat, Padang Utara, Padang, Sumatera Barat, 25132",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Email : hafizhahzalda28@gmail.com",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "ABSTRACT",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Aedes aegypti is a mosquito that belongs to the Culicinae Culicids family, order Diptera, class Insecta. This mosquito has the potential to transmit dengue hemorrhagic fever (DHF). DHF is a disease characterized by sudden fever, bleeding both in the skin and in the body and can cause shock and death. In-silico is a research approach whose use will be discussed with advances in technology and available databases. This approach is very commonly used in medical and other healthcare settings. The method used is to use the NCBI site, screen restriction enzymes with an insilico web and continue with the benchling site. The results obtained were using the NheI enzyme and producing two alleles namely Allele A1 and Allele A2. The A2 allele dominates because it has a fragment percentage of 63,3%.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Keywords : Aedes aegypti, in-silico, sequence gen",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Population genetics is the branch of genetics that deals with the genetic composition of populations. information on the subject of population genetic diversity can be used as information to define micro-level development discourse occurring at the genetic level (Arisuryanti & Daryono, 2007;Campbell et al., 2003). Genetic diversity at the population/individual/species level can be analyzed based on different marker profiles, both molecular and protein. Markers commonly used in discussing genetic diversity include Random Amplified Polymorphic DNA (RAPD), Amplified Fragment Length Polymorphism (AFLP), Random Fragment Length Polymorphism (RFLP), Single Sequence Repeats (SSRs) as well as isozymes and allozymes. Random Fragment Lenght Polymorphism (RFLP) analysis is a technique commonly used to detect genetic variation at the DNA sequence level. RFLP detection is carried out by comparing group profiles prepared after cutting DNA with different object/person restriction enzymes (Zulfahmi, 2013).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Diversity is a normal phenomenon in living things. Both in plant, animal and human life. This diversity is easy to see in appearance, which is a collection of characteristics of each living creature. Some characteristics are similar, while others are different. The existence of differences and similarities in these observable characteristics means that animals grouped based on the classification system in taxonomy still show diversity among members of each population.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The visible external physical characteristics of every living creature are easy to recognize because no tools are needed to see them. However, some physical properties down to the molecular level can only be identified with special tools or laboratory research techniques which sometimes require high precision. In this context, it needs to be understood that all characteristics found in one generation of a population are also present in the next generation. So this is where the inheritance process occurs, and this inheritance follows the applicable inheritance laws. In other words, these traits are genetic.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Aedes aegypti is a mosquito belonging to the Culicinae Culicids family, order Diptera, class Insecta. This mosquito has the potential to transmit dengue hemorrhagic fever (DHF). DHF is a disease characterized by sudden fever, bleeding both on the skin and in the body and can cause shock and death. Dengue fever specifically attacks children, including babies, although nowadays the majority of those affected are increasing (Rahayu et al., 2012). Aedes aegypti is closely related to Anopheles gambiae and Drosophila melangester. Latest data from Nene et al., (2020) The Aedes aegypti genome sequence consists of five times 1.38 billion base pairs larger than the size of the Anopheles gambiae genome. Nearly 50% of the Aedes aegypti genome consists of transposable elements contributing to the factor a 4 to 6-fold increase in the average gene length and the relative size of the relative intergenic regions Anopheles gambiae and Drosophila melanogaster.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 1. Taxonomy of Aedes aegypti (http://www.itis.gov)",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Adult female Aedes aegypti mosquitoes have a blackish brown body. The body size of an adult female Aedes aegypti mosquito is 3-4 mm, regardless of the length of her legs. The body and limbs are covered with silver-white striated scales. There are two curved lines on the back of the vertical body to the left and right which are characteristic of this mosquito species (Ginanjar, 2008). The female mosquito's abdomen is pointed and has cerci that are longer than the cerci of other mosquitoes (Gillot, 2005). Usually male mosquitoes have a smaller body than females and have 9 thick hairs on the antennae of male mosquitoes. These two features can be seen with the naked eye (Ginandar, 2008).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Efforts to control mosquitoes, which are vectors of this disease, need to be carried out in addition to treatment of sufferers. This is an important effort to reduce cases caused by mosquitoes. Seventeen the binding of pyrethroid insecticides to VGSC gives rise to a phenomenon known as knockdown, namely rapid movement followed by paralysis and death. Ten the mechanism for the emergence of resistance to pyrethroids is a change in the structure of VGSC in the mosquito's central nervous system as the main target of pyrethroids, resulting in a decrease in affinity for the insecticide.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Molecularly, in the VGSC gene, there is a change in one nucleotide base in the amino acid leucine to phenylalanine which is associated with resistance (5, 6). VGSC gene mutations cause knockdown resistance (kdr) allele polymorphism, namely the kds, kdr-w and kdr-e alleles. The mutation was first detected in Anopheles gambiae from West Africa, so it was given the term kdr-w which was caused by a change in the amino acid leucine to phenylalanine (TTA to TTT), namely L1014 to 1014F. Then the second mutation is called kdr-e or East African which results in a change in the amino acid leucine to serine (TTA to TCA, namely L1014 to 1014S) (7, 8). Mutations in the VGSC gene have also occurred in Anopheles culifacies mosquitoes at codon 1014 from India (9) and in Indonesia itself have been reported in Anopheles sundaicus, Anopheles aconitus, Anopheles subpictus and Anopheles vagus mosquitoes.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "In-silico is a term to describe \"performing on a computer or through computer simulation\". The term in-silico was first used by the public in 1989 at the \"Cellular Automata: Theory and Application\" workshop in Los Alamos, New Mexico. Pedro Miramontes, a mathematician from the National Autonomous University of Mexico, presented his results on \"DNA and RNA Physiochemical Constraints, Cellular Automata and Molecular Evolution\". In his explanation, Miramontes used the term \"in silice\" to characterize biological research that uses computers entirely.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "In-silico is a research approach whose use will be discussed with advances in technology and available databases. This approach is very commonly used in medical and other health care settings. Although this research is relatively new, advances in technology and information databases are already available. This approach is very commonly used in medical and other health care settings. Although in-silico studies are relatively new, they are very widely used. The availability of publicly available, open, and free databases (DNA, RNA, etc.) offers researchers the opportunity to use this information to solve medical problems and advance medical and health sciences.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The voltage-gated sodium channel-like target gene sequence used in this in-silico test was obtained from NCBI fasta with Popset number: 2325355280 sent by Mashlawi, A.M at https://www.ncbi.nlm.nih.gov/popset/2325355280. In the Popset there are 53 gene sequences coding for restriction enzyme candidate screening that will be used in in-silico RFLP on the site http://insilico.ehu.es/restriction/. This tool will compare the restriction patterns of many DNA sequences tested as well as the restriction enzymes that cut them.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "On the site http://insilico.ehu.es/restriction/, select \"Compare reconstruct pattern of many sequences\". This gene sequence has been downloaded in fasta format beforehand, entered in the existing column. In the next step, the results of the alignment of each sequence will be seen and the same sequences will be discarded to facilitate the analysis process. Next, select the option \"only restriction enzymes with known bases (no N,R,Y...)\" to get restriction enzymes with good results. Then select the option \"Get the list restriction enzyme\" to get the restriction enzyme results that will be used in the next stage, namely Restriction-Fragment Length Polymorphism (RFLP) in-silico or virtual restriction carried out using tools on the site https://www .benchling.com/. This site is free, but you must register first using your email or Google account. The initial stage carried out was to import 30 voltage-gated sodium channel-like gene sequences that had been downloaded from NCBI into the project folder on the Benchling website. Next, make the cut by clicking the scissors symbol in the right corner of the screen. Then select “find enzyme” and select the name of the restriction enzyme that was previously determined during screening. Next, click the \"run digest\" menu to carry out restrictions. The electrophorogram image is obtained by clicking on the \"virtual digest\" menu.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Restriction Enzyme Candidate Screening",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Screening for restriction enzyme candidates is carried out on the website (http://insilico.ehu.es/restriction/) by means of before entering the fasta sequence in in-silico, we first take the fasta on the NCBI website. The NCBI PopSet used for this restriction enzyme is PopSet: 2325355280. Where the organism is Aedes aegypti with a target gene voltage-gated sodium channel-like gene. When you have finished screening restriction enzymes, select one of the enzymes that has a variety of cutting edges in each sequence sample. The results of restriction enzyme screening from the Voltage-Gated Sodium Chanel gene sequence in Aedes aegypti can be seen in Figure 2.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 2. Restriction enzyme screening",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "RFLP In-silico",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "This in-silico restriction is carried out by logging into the benchling website. This is done by importing 30 sequences into the database, after which you will see information about the enzyme that cuts at what nucleotide position and produces what size fragments and you will also see ladder information from these sequences.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The restriction enzyme used is the NheI enzyme because this enzyme has cutting variations in each sequence sample. The results of in-silico RFLP using the NheI restriction enzyme can be seen in Figure 3.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 3. Restriction electrophorogram using the NheI enzyme",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Restriction using the NheI enzyme on the Voltage-Gated Sodium Chanel gene sequence in Aedes aegypti using 30 gene sequences produced two different gene variations, namely the A1 allele has a band fragment measuring 500 bp and the A2 allele has a band fragment measuring 250 bp. In the fragment obtained there was only 1 band which indicated that there was no cutting by the restriction enzyme along the fragment so it remained intact.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Analysis using the in-silico RFLP method on Aedes aegypti",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "Based on Table 1, using the NheI restriction enzyme which has a G'CTAG_C recognition site, we obtained two alleles, namely A1 and A2 with two different fragment sizes, where the A1 allele has an RNA fragment of 500 bp and the A2 allele has a fragment size of 250 bp. Of the 30 sequence fragments used, 11 sequences have a fragment length of 500 bp and 19 sequences have a fragment length of 250 bp. The fragment percentages of the two alleles are also different, where the A1 allele has a percentage of 36.7% and the A2 allele has a percentage of 63.3%. The allele frequency of the two alleles is also different, the A1 allele is 0.367 and the A2 allele is 0.633. The A2 allele dominates the population in PopSet 2325355280 compared to the A1 allele.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The percentage of genetic variation shows the level of genetic diversity of an organism which also shows the tolerance range of the organism to adapt for its survival. Organisms that have high diversity will be easier to adapt than organisms that have low diversity.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Based on the results obtained in the process of screening restriction enzymes and carrying out RFLP in-silico, it was found that the enzyme used in the RFLP process was the NheI enzyme. Using this enzyme produces two fragment alleles, namely Allele A1 and Allele A2. Allele A1 has a fragment measuring 500 bp and Allele A2 has a fragment size of 250 bp. Allele A2 is more dominant than Allele A1 because it has a presentation of 63.3%.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Anggraini, S. F., Kusuma, A. R., Bunga, D., Pela, M., Jannah, V. F., Putri, W. P., and Achyar, \tA. 2021. Analysis Of Genetic Varion Of 4-Like Subunit 4-Like NADH Dehydrogenase \tGene Sequences In Aedes Aegypti Popset: 1831566147 Using RFLP In-Silico. In \tProceedings of the National Biology Seminar. 1(1): 102-110.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Arisuryanti, T and Daryono, B.S. 2007. Population Genetics. Yogyakarta: Faculty of Biology, \tGadjah Mada University.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Campbell, R and Mitchell. 2003. Biology Volume 2. Jakarta: Erlangga.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Gillot, C. 2005. Entomology. New York: Plenum Press",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ginanjar, G. 2008. Dengue Fever. Yogyakarta: PT Bentang Pustaka.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Khaerunnisa, S and Awaluddin, R. 2020. In silico research for beginners. Airlangga \tUniversity Press.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Nene, V., Wortman, J., Lawson D., Hass, B., Hass, D., Odra., Tuzhijian., Loftus, B. 2007. \tGenome Sequence of Aedes aegypti, a Major Arbovirus Vector. Sciencemag, 316.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Rahayu, D., Wiwiek, S.W., and Adatul, M. 2012. Modeling The Influence of Climate on The \tIncidence of Dengue Fever in Surabaya. ITS Science and Arts Journal. 1: 69-74.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sofro, A. S. M. 1994. Genetic Diversity. Andi Publisher.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Zulfahmi. 2013. DNA Markers For Plant Genetic Analysis. Journal of Agrotechnology. (3)2: \t41-52.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Enzim Restriksi",
+          "Situs Pengenalan Restriksi",
+          "Ukuran Fragmen (bp)",
+          "Alel",
+          "Jumlah Kehadiran Fragmen\n(N = 30)",
+          "Presentase Kehadiran Fragmen \n(%)",
+          "Frekuensi Alel"
+        ],
+        [
+          "NheI",
+          "G’CTAG_C",
+          "500 bp",
+          "A1",
+          "11",
+          "36,7%",
+          "0,367"
+        ],
+        [
+          "",
+          "",
+          "250 bp",
+          "A2",
+          "19",
+          "63,3%",
+          "0,633"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

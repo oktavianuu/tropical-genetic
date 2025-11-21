@@ -1,0 +1,513 @@
+{
+  "paragraphs": [
+    {
+      "text": "Maternal Genetic Variation of Betawi Population: A 2001 Survey",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Wolly Candramila1⁎, Bambang Suryobroto2, Yasmine Zaki Shahab3",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1Study Program of Biology Education, Faculty of Teachers Training and Education, University of Tanjungpura, Jl. Prof. Dr. Hadari Nawawi, Pontianak 78124",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2Department of Biology, Faculty of Mathematics and Natural Science, IPB University, Gedung Biologi, Jl. Agatis Kampus IPB Dramaga, Bogor 16680",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3Department of Anthropology, Faculty of Social and Political Science, University of Indonesia, Jl. Prof. Dr. Selo Soemardjan, Depok, Jawa Barat 16424",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Tel.: +62 812-2064-4655. Email address: wolly.candramila@fkip.untan.ac.id",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Betawi identity was assessed based on the diversity of maternal lines using genetic markers in the D-loop region of mitochondrial DNA. The results of the cleavage by the restriction enzymes DdeI, HaeII, HaeIII, and HinfI showed five patterns of genetic variants which were later named Haplotype I, II, III, IV, and V. Haplotype I had the highest frequency of 75.6%, followed by Haplotype III 11.5%, and Haplotype II 10.3%. Haplotypes IV and V were only found in 1 individual each and were assumed to be individual mutations. The highest haplotype in the Betawi population showed the same restriction enzyme cleavage pattern with all comparison samples from the Sunda and Malay populations. Meanwhile, Haplotype II and III were strongly suspected as the result of the divergence of Haplotype I and can also be found in other ethnic groups in Indonesia. This finding confirms Jakarta as a location for ethnic mixing which then produces a new local culture as Betawi Culture.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Restriction enzyme, D-loop region, haplotype, maternal lineage, Betawi people, Indonesia",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "The Betawi population was considered a native of Jakarta which was the result of the intermingling of various ethnicities that occurred more than 450 years ago . This population was allegedly formed from the marriage of people from all over the archipelago as well as from outside Indonesia. Meanwhile, Hanna (1988) stated that the Betawi population was the result of mixed marriages between Chinese men and indigenous women. In addition, Saidi (1997) argued that the Betawi population was originated from West Kalimantan Malay migrants who intermarry with Javanese natives. The three theories conclude a similar phenomenon, namely that the Betawi population was the result of inter-ethnic mixing which then according to Surjomihardjo (1973) produced a distinctive culture known as Betawi culture.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "In this study, the results of data analysis from sampling activities in 2001 were presented to see maternal genetic variation using the mitochondrial DNA D-loop region marker. The search for Betawi identity using genetic markers has never been done before. In the D-loop region itself there are two highly variable segments, Hypervariable 1 and 2, which extend from bases 16024 to 16569 and from bases 1 to 575 . The high variation in these two areas makes it possible to look for the peculiarities of each population and the diversity between populations. Compared to the current sequencing method, the use of polymerase chain reaction (PCR) and restriction fragment length polymorphism (RFLP) methods still provides enough data to see genetic diversity in a population. The number of haplotypes observed as a result of enzyme cleavage in the target DNA sequence can provide information about the genetic variation of a population.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Probands were Betawi people living in Jakarta and its surrounding areas including Depok, Tangerang, and Bekasi. Ethnic recognition of probands was traced within three generations and confirmed by his/her neighbourhood community. The three generations confirmation was done to reveal the Betawi identity once acknowledged during the foundation of Perkoempoelan Kaoem Betawi by Muhammad Husni Thamrin, a well-known Betawi leader, in 1923.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "As outgroups, Sundanese and Malay samples were also collected as part of Jakarta population in 1930 according to Castles (1967). Sundanese probands were those living in traditional Sundanese community according to Warnaen, et al. (1987) which identified according to their recognition of being Sundanese and being recognized by the neighbourhood. Meanwhile, Malay probands were acknowledged based on traditional Malay community groupings in Indonesia according to Koentjaraningrat (1990). The Malay groupings in Indonesia include Malay populations in Medan, Riau, Laut, Utan, Benua (Riau Islands), Sekah (Bangka Belitung Coast), Juru (Lepar Island), and Pontianak. Place of origin of probands and their parents were traced by interview. Informed consent was obtained before interview and samples collection.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2. Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.2.1. DNA Extraction and Amplification",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA samples were collected from blood or buccal swab. Samples were stored in the freezer (4°C) for blood and room temperature for buccal swab. DNA was extracted from white blood cells or epithelial cells of buccal swab started by centrifugal lysis and addition of Proteinase-K. DNA extraction was followed by phenol-chloroform-isoamyl alcohol method. The DNA phase was transferred into dialysis tube and incubated overnight in dialysis solution (10mM Tris-Cl; 1mM EDTA). Next, the DNA phase was transferred into new tube and added by 0,1mg/ml RNase. The extraction was repeated with phenol-chloroform-isoamyl alcohol method without RNase addition. Before storing, the DNA was added by chloroform.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA amplification was performed with PCR method using the primers of L16159 (5’-TACTTGACCACCTGTAGTAC-3’) and H408 (5’-CTGTTAAAAGTGCATACCGCCA-3’). The numbers showed on both sequences indicate the 3’ end of the primers based on the mtDNA sequence according to Anderson, et al. (1981). The PCR premix with a total volume of 25l was composed of 2.5l 10x buffer, 2l MgCl2, 2l 2mM dNTP, 0.4l each of 100pmol primer L16159 dan H408, 0.5l 0.83 units of DNA Taq Polymerase, 2l template DNA, and 15.2l of distilled water. Before amplification, DNA was denatured in 94°C for 4 minutes, followed with re-denaturation in another 94°C for 1 minute. Primer annealing was performed in 53-56°C for 1 minute and sequence elongation was set in 72°C for 1 minute. The whole amplification process was done within 30 cycles.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.2. Enzymatic Restriction and Product Visualization",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Amplified DNA was restricted using the following enzymes as listed in Table 1. Premix composition for enzymatic restriction with a total volume of 5ml was 3l of PCR product, 0.15l of restriction enzyme, 0.5l of buffer, and 1.35l of distilled water. The restriction products were separated by electrophoresis in 8% of polyacrylamide gel. DNA fragments visualization was done with silver staining following Tegelstrom (1986).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. List of restriction enzymes used in this research and their specific recognition sites and incubation temperature applied",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "2.2.3. Data Analysis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Restriction sites mapping was built based on different pattern of electrophoresis. Different molecules will show different restriction sites. Every molecule was categorized into a haplotype as an alternative form of gene descended from one parent (a haploid). Restriction pattern on each haplotype was transformed into restriction sites mapping. The position of restriction was aligned with African sequence of Anderson, et al. (1981). Each restriction pattern of haplotypes found in Betawi population was compared with Sundanese and Malay samples. All restriction sites mapping was also aligned with DNA sequences from other populations (outside Indonesia) in GENBANK, namely Africa (Acc.# J01415 and AJ401536), China (AJ401608), and India (AF382013). Relationship between haplotypes was built based on restriction sites polymorphisms following Excoffier, Smouse, & Quatro (1992). Restriction haplotypes is defined as combination of yes and no restriction site.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "A total of 78 Betawi, 16 Sundanese, and 9 Malay individuals were voluntarily participated in this study; informed consent was obtained from all participants. Subject’s place of origin in the Betawi population was determined based on districts. Sundanese subjects were originated from various locations in western part of Java Island, including Bandung (n=2), Banten (1), Kuningan (1), Bogor (2), Cirebon (1), Ciamis (2), Sumedang (2), Sukabumi (2), Indramayu (1), and Purwakarta (1). Malay subjects were represented by 9 individuals originated from some provinces in Kalimantan (Sambas, n=1; Sanggau, 2) and Sumatera (Riau, n=4; Belitung, 1; Bangka, 1).",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "PCR products of 860 bp were successfully amplified using a pair of primers L16159 and H408. The PCR process took place optimally under conditions where the initial denaturation phase was in 94°C for four minutes, additional denaturation in 94°C for one minute, primer annealing ranged in 53-56°C for one minute, sequence elongation in 72°C for one minute, and additional elongation in 72°C for five minutes.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Enzymatic restriction patterns were found with HaeIII, HinfI, DdeI and HaeII (Table 2). On the contrary, BamHI, HindIII, MboI, and EcoRI gave no restriction sites. Restriction enzymes HaeIII and HinfI gave more than one restriction type (polymorphic), meanwhile, DdeI and HaeII gave uniformed restriction type (monomorphic). In total, we found 8 restriction sites on all PCR products namely types A, B, C, D, E, F, G, H, and I. Variation of the restriction sites by the enzymes was then called as haplotype.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 2. Types of enzyme’s restriction on the PCR product in this study",
+      "style": "Normal (Web)",
+      "label": "Table Caption"
+    },
+    {
+      "text": "According to the eight restriction types, we found 5 haplotypes which then called Haplotype I, II, III, IV, and V (Table 3). Haplotype I showed the highest frequency of 75.6% which was found in 59 from 78 Betawi individuals. Haplotype III was found in 9 and Haplotype II in 8 individuals or 10,3% and 11,5%, subsequently. Meanwhile, both Haplotype IV and V was only found each in 1 individual and assumed to be individual mutations.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 3. Variation of restriction sites by all enzymes (haplotypes) in the Betawi samples",
+      "style": "Normal (Web)",
+      "label": "Table Caption"
+    },
+    {
+      "text": "The restriction sites of each haplotype were then aligned with the reference mtDNA sequence of Anderson, et al. (1981) to determine the location of the mutation (Figure 1).  The unavailable restriction site is considered as a point mutation which causes a change in DNA sequence that is not recognized by the enzyme. However, the change in DNA sequence did not caused different total base pairs observed.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 1. Mapping of restriction sites by DdeI (blue), HaeIII (yellow), HinfI (green), and HaeII (red) on D-loop region (base position 16140 until 429) of mtDNA in Haplotype I (HI), II (HII), III (HIII), IV (HIV) and V(HV) of Betawi, Sundanese and Malay (SM) populations compared with sequences of Anderson, et al. (1981), Chinese (GenBank Acc.#AJ401608) and Indian (AF382013)",
+      "style": "Normal (Web)",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Assuming the point mutation causing the difference in restriction sites, the best maternal genetic affinities between haplotype was then mapped (Figure 2). Haplotype I was common among Betawi population and found in all Sundanese and Malay samples. Considering the wide distribution of Sundanese and Malay populations in western Java, Sumatra and Kalimantan, Haplotype I was assumed to be the prototype and common in Indonesia as well. Haplotype II and III were diverged from Haplotype I. The divergence into Haplotype II was observed with the loss of restriction site of HinfI at base number 136, meanwhile the loss of restriction site of HaeIII at base number 35 resulted in Haplotype III. Moreover, Haplotype IV and V were assumed to be diverged from Haplotype III confirmed with mutations on base 229, 16429 and 9, subsequently.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 2. Haplotype affinities in Betawi population and outgroups Sundanese, Malay, Afrika (AFR), China (CHI), and India (IND) based on the recognition of polymorphic enzymatic restriction sites of DdeI (C][TNAG), HaeIII (GG][CC), and HinfI (G][ANTC). Base position was in accordance with the reference mtDNA sequence of Anderson, et al. (1981).",
+      "style": "Normal (Web)",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Haplotypes II and III were not found in Sundanese and Malay samples. These haplotypes were most likely originated from other populations in Indonesia. Considering the prediction rate of mutation on mtDNA of 2-4% per one million years as reported by Cann, Brown, & Wilson (1984) and Cann, Stoneking, & Wilson (1987), one base substitution may take 1500-3000 years to happen. However, the Betawi population was only acknowledged for nearly 450 years ago according to Castles (1967). In order that, Haplotypes II and III were strongly introduced by other ethnics in Indonesia which later became two of maternal genetic variants in Betawi population.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "The five maternal genetic variations among Betawi people and the haplotype with the highest percentage which was similar with all Sundanese and Malay populations confirmed Jakarta as a mixing place of populations and ethnicities in Indonesia. These variations reflected the condition of Betawi population in 2001. The current genetic variation may be dependant to the level of mix-marriage between ethnicities including Betawi people in the last two-decades. As is the case with ethnic groups in a highly multicultural society, such as Jakarta, the next interesting phenomenon is the dynamics of ethnic identity for its holders.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Betawi population were composed of five haplotypes or maternal lineages. Haplotype I was the most common found in Betawi population as well as in Sundanese and Malay. Haplotype II and III were introduced as components of maternal genetic variants from other ethnics in Indonesia during the formation of Betawi identity. Haplotype IV and V were most probably diverged from Haplotype III and found in small number of people in Betawi population. These five maternal lineages that composed the Betawi population confirmed Jakarta as a mixing place of various populations and ethnicities in Indonesia. Current genetic variation may be dependant on the level of mix-marriage between individual with different ethnics.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "All authors designed the research and discussed the results. WC analysed the data and wrote the manuscript.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "This research was made possible by the support of many people. Greatest gratitude to the late Prof. Nawangsari Soegiri, who was also a part of the research team, for the inspiring discussions throughout the process of the research. May God rest her in peace and grant her His Jannah, aamiin. WC thanks to Imam Civi Cartealy and Eka Yuniawati for the help during the sampling and lab works. Authors thank all Betawi participants in Jakarta, Depok, Tangerang, and Bekasi for voluntarily joining the research back in 2001. WC thanks Mr. Ridwan Saidi and members of Lembaga Kebudayaan Betawi for mutual conversation and inspiring talks regarding Betawi identity.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Conflict of Interest",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The research has not any conflict of interest.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "References (APA style)",
+      "style": "Normal",
+      "label": "References"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Restriction Enzymes",
+          "Recognition Sites",
+          "Incubation Temperature"
+        ],
+        [
+          "HaeIII",
+          "GG][CC",
+          "37°C"
+        ],
+        [
+          "HinfI",
+          "G][ANTC",
+          "37°C"
+        ],
+        [
+          "DdeI",
+          "C][TnAG",
+          "37°C"
+        ],
+        [
+          "HaeII",
+          "AGCGC][T",
+          "37°C"
+        ],
+        [
+          "HindIII",
+          "A][AGCTT",
+          "37°C"
+        ],
+        [
+          "EcoRI",
+          "G][AATTC",
+          "37°C"
+        ],
+        [
+          "MboI",
+          "][GATC",
+          "37°C"
+        ],
+        [
+          "BamHI",
+          "G][GATCC",
+          "37°C"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Restriction Enzyme",
+          "Recognition Sites",
+          "Type",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)",
+          "DNA Band Length (bp)"
+        ],
+        [
+          "HaeIII",
+          "GG][CC",
+          "A",
+          "",
+          "",
+          "45",
+          "102",
+          "",
+          "",
+          "",
+          "318",
+          "395",
+          "",
+          "440"
+        ],
+        [
+          "HaeIII",
+          "GG][CC",
+          "B",
+          "",
+          "",
+          "",
+          "102",
+          "",
+          "",
+          "",
+          "318",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HaeIII",
+          "GG][CC",
+          "C",
+          "",
+          "",
+          "",
+          "102",
+          "201",
+          "239",
+          "",
+          "318",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HaeIII",
+          "GG][CC",
+          "D",
+          "19",
+          "28",
+          "",
+          "102",
+          "",
+          "",
+          "290",
+          "",
+          "",
+          "421",
+          ""
+        ],
+        [
+          "HinfI",
+          "G][ANTC",
+          "E",
+          "139",
+          "155",
+          "265",
+          "301",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HinfI",
+          "G][ANTC",
+          "F",
+          "139",
+          "",
+          "",
+          "301",
+          "420",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "DdeI",
+          "C][TNAG",
+          "G",
+          "241",
+          "619",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "HaeII",
+          "AGCGC][T",
+          "H",
+          "97",
+          "126",
+          "246",
+          "391",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Hap.",
+          "Restriction Pattern",
+          "Restriction Pattern",
+          "Restriction Pattern",
+          "Restriction Pattern",
+          "n (ind.)",
+          "Freq."
+        ],
+        [
+          "Hap.",
+          "HaeIII",
+          "HinfI",
+          "DdeI",
+          "HaeII",
+          "n (ind.)",
+          "Freq."
+        ],
+        [
+          "I",
+          "A\n45+102+318+395",
+          "E\n139+155+265+301",
+          "G\n241+619",
+          "H\n97+126+245+391",
+          "59",
+          "0.756"
+        ],
+        [
+          "II",
+          "A\n45+102+318+395",
+          "F\n139+301+420",
+          "G\n241+619",
+          "H\n97+126+245+391",
+          "9",
+          "0.103"
+        ],
+        [
+          "III",
+          "B\n102+318+440",
+          "E\n139+155+265+301",
+          "G\n241+619",
+          "H\n97+126+245+391",
+          "8",
+          "0.115"
+        ],
+        [
+          "IV",
+          "C\n102+201+239+318",
+          "E\n139+155+265+301",
+          "G\n241+619",
+          "H\n97+126+245+391",
+          "1",
+          "0.013"
+        ],
+        [
+          "V",
+          "D\n19+28+102+290+421",
+          "E\n139+155+265+301",
+          "G\n241+619",
+          "H\n97+126+245+391",
+          "1",
+          "0.013"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

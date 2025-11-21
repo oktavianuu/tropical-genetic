@@ -1,0 +1,283 @@
+{
+  "paragraphs": [
+    {
+      "text": "Phylogenetic analysis in silico of orchid species Dendrobium based on rbcl marker",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Muhammad Febriansyah, Mahfut ⁎",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Department of Biology, Faculty of Mathematics and Natural Sciences, University of Lampung. Lampung, Indonesia 35145",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Tel.: +62 81260615502. Email address: mahfut.mipa@fmipa.unila.ac.id",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Dendrobium is one of the genera of the third largest Orchidaceae family which reaches about 1184 species in the world. In Indonesia, this genus of orchids is a wealth of genetic resources that are abundant in the Eastern region, such as Papua and Maluku. These genetic resources have not been optimally utilized as elders in crossbreeding to produce offspring that have characteristics according to what consumers want. Due to the limitations of these morphological characteristics, another character is needed that can support the systematics of orchids, namely molecular characters. Plant kinship analysis can use molecular characters in the form of DNA strands that can overcome the weaknesses of morphological data that are known to have limitations and tend to be influenced by the environment. This study aims to analyze the kinship of several types of Dendrobium based on the rbcL gene and add to the basic data source of germplasm from the genus Dendrobium. The samples used were nucleotide sequences of 11 nucleotide sequences consisting of 10 types of Dendrobium (D. anosmum, D. jinghuanum, D. catenatum, D. nobile, D. jenkinsii, D. pahangense, D. nobile, D. pulchellum, D. fimbriatum, and D. pulchellum) which is used as an in group and 1 species of the genus Phalaenopsis namely Phalaenopsis equestris which is used as an outgroup. The results of Dendrobium  kinship analysis with an in silico based rbcL gene molecular approach show that species in the same genus are not necessarily closely related. The species that is a member of the out group is Phalaenopsis equestris,. Phalaenopsis equestris forms its own tree branches, while the other 10 species are on the same phylogeny tree branches.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Keywords: Dendrobium, in silico, orchid, phylogenetic analysis, rbcL gene",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Orchid is the common name for all plants of the Orchidaceae family (orchids). According to the Agency for the Assessment and Application of Technology (Wardani and Sri, et al., 2011) stated that it is estimated that around 5000 types of orchids are spread across Indonesia. The four orchids that are national flagship are Phalaenopsis, Dendrobium, Vanda, and Catleya (Muhit, 2010). Orchidaceae has about 20,000 species distributed in 899 genera and represents 7% of the total flowering plant species found in the world (Erzurumlu et al., 2018). Asia has 482 species of orchids with the largest number of orchid species coming from the genus Dendrobium. One of the areas that has the largest distribution of Dendrobium is Indonesia up to 95 species (Perwitasari, 2019).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Dendrobium is one of the genera of the third largest Orchidaceae family which reaches about 1184 species in the world. In Indonesia, this genus of orchids is a wealth of genetic resources that are abundant in the Eastern region, such as Papua and Maluku. These genetic resources have not been optimally utilized as elders in crossbreeding to produce offspring that have characteristics according to what consumers want (Widiastoety et al., 2010). Because of the limitations of morphological characteristics, another character is needed that can support the systematics of orchids, namely molecular characters (Zulfahmi, 2013). Molecular markers are specific segments of DNA that represent differences at the genome level. Because it relates to genetic material, the level of accuracy of molecular markers is more appropriate in producing kinship patterns. Characterization of genetic diversity and kinship relationships of Dendrobium  orchids is essential for sustainable conservation and increasing the usefulness of plant genetic resources (Wang et al., 2009).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Plant kinship analysis can use molecular characters in the form of DNA strands that can overcome the weaknesses of morphological data that are known to have limitations and tend to be influenced by the environment (Suparman, 2012). According to Julisaniah (2008), molecular characters are more effective and provide more accurate data on existing characters. The molecular character of plants can be taken from the DNA sequences of chloroplasts and mitochondria (Suparman, 2012). In this study, the rbcL gene was used, the Consortium Barcode of Life (2009) recommended the rbcL gene as  a plant barcode and plant kinship analysis. The rbcL gene is a gene found in chloroplast organelles. This gene encodes a large subunit of the photosynthesis enzyme ribulose 1,5-bisphosphate carboxylase/oxiginase (RuBisKo) and a major carbon acceptor in all photosynthetic eukaryotics and cyanobacteria (Bhattacharyya, 2016). The rbcL gene has a stable structure, does not undergo recombination and is inherited unilaterally, and the mutation rate and evolution of the rbcL gene sequence are very slow compared to other chloroplast genes (Basith, 2015). This study aims to analyze the kinship of several types of Dendrobium based on the rbcL gene and add to the basic data source of germplasm from the genus Dendrobium.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The tools used in this study include hardware such as an Asus Vivobook Go 14 (E410) laptop with a 4 Gigabyte Random Access Memory (RAM) specification with an internet connection via wi-fi. The software used in this study is in the form of Microsoft Office Windows 10, Notepad application, and the eleventh version (XI) and ATK MEGA application. The material used in this study is a nucleotide sequence of 11 nucleotide sequences consisting of 10 types of Dendrobium (D. anosmum, D. jinghuanum, D. catenatum, D. nobile, D. jenkinsii, D. pahangense, D. nobile, D. pulchellum, D. fimbriatum, and D. pulchellum) which is used as in group and 1 species of the genus Phalaenopsis namely Phalaenopsis equestris which is used as an outgroup from  the NCBI genebank (Table 1).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2. Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "This research is an exploratory descriptive research and was conducted from October to December 2023 at the University of Lampung. The downloaded rbcL gene sequence was aligned with Clustal W, then preparation and construction of the phylogenetic tree was carried out with  the MEGA XI software application. The construction  of the Dendrobium  phylogenetic tree uses the Maximum Likelihood statistical method, the Bootstrap method 1000 times repeats and the Maximum Likelihood tree model.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Nucleotide sequence sample data of the Dendrobium  species from Genebank",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "The rbcL gene sequence from Dendrobium that was successfully downloaded from the NCBI genbank lama varied in length. Kinship analysis can be performed when the Dendrobium rbcL gene sequence has been prepared. Alignment and preparation of rbcL gene sequences from 10 species of Dendrobium using   the eleventh version of MEGA software (XI) was then carried out using ClustalW to obtain the same gene sequence length (Figure 1). The results of the preparation of 10 species  of Dendrobium obtained an rbcL gene sequence length of 459 bp.",
+      "style": "Normal (Web)",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 1. rbcL gene sequences of 10 species of Dendrobium",
+      "style": "Normal (Web)",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Based on the results of rbcL gene sequence analysis of ten (10) species of Dendrobium, differences in nucleotide base sequences were obtained. The difference occurs due to mutations. In Dendrobium jinghuannum there is a difference in the 6th and 25th nucleotides, while in Dendrobium nobile there is a difference in the 88th nucleotide. In Dendrobium nobile and Dendrobium pahangense, there is a transition mutation in the 25th and 184th nucleotides where A (Adenine) becomes G (Guanine) and T (Thymine) becomes C (Cytosine). In four (4) species  of Dendrobium (D. jinghuannum, D. catenatum, D. nobile, and D. pulcehllum) there is also a transition mutation where C (Cytosine) becomes T (Thymine). In transition mutations, there is a change in a base pair that results in a change in the genetic code, but does not change the amino acid so that it does not result in a change in protein function (Stansfield, 2006). In the rbcL gene sequence of ten (10) species of Dendrobium, transverse mutations were also found. The occurrence of transverse mutations can result in changes in the amino acids formed, thus affecting gene expression (Nur, 2016).",
+      "style": "Normal (Web)",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Phylogenetic tree reconstruction uses an outgroup from the genus Phanaleonopsis, Phalaenopsis equistris. The cladogram with the Maximum Likelihood  method is divided into two main clades (Figure 2). Class I consists of 6 species, namely D. nobile, D. nobile, D. jinghuanum, D. catenatum, D. pulchellum and D. pulchellum with a bootstrap  value of 58 which means that the 6 species are related but not close. The top 3 species are D. nobile,",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "D. nobile, and D. jinghuanum are included in clad IA and are joined and supported by a bootstrap  value of 60 which means that the kinship of the 3 species of Dendrobium is close. The other 3 species are D. catenatum, D. pulchellum and D. pulchellum are included in clad IB and are joined and supported by bootstrap values55 which means that the kinship of the 3 species of Dendrobium is close.",
+      "style": "Normal (Web)",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 2. The phylogenetic results  of Dendrobium based on the rbcL gene used the Maximum Likelihood method.",
+      "style": "Normal (Web)",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Klad II is also divided into two sub-clades, namely sub-clad IIA and sub-clad IIB with a bootstrap value  of 58 which means that the species has a kinship relationship but is not close. Subclade IIA consists of D. anosmum and D. pahangense and is supported with  a bootstrap value of 4 which means it has no kinship relationship. Sub-clad IIB consisting of",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "D. jenkinsii and D. fimbriatum are supported with  a bootstrap value of 27 which means they also have no kinship relationship.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The results of Dendrobium  kinship analysis with an in silico based rbcL gene molecular approach show that species in the same genus are not necessarily closely related. The species that is a member of the out group is Phalaenopsis equestris,. Phalaenopsis equestris forms its own tree branches, while the other 10 species are on the same phylogeny tree branches.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Based on the results of the research that has been carried out, it can be concluded that the rbcL gene can be used to reveal the kinship of Dendrobium, and proves that evolutionary studies can be carried out with a molecular approach. As a result of in silico analysis and phylogeny tree construction, fourteen species  of Dendrobium form the main group and the out group. The main group consists of ten species that form 2 clusters, while the out group consists of one species of Dendrobium. Dendrobium  species belonging to the same genus do not necessarily have a closer kinship. This occurs due to genetic variation or differences in nucleotide sequences in the rbcL gene sequence.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Basith, A. 2015. Opportunities of rbcL Gene as Chloroplast DNA-Based Barcode DNA to Reveal the Genetic Diversity of Black Rice (Oryza sativa L.) Local in Indonesia. Proceedings  of the XII National Seminar on Biology Education at FKIP Sebelas Maret University of Surakarta, 938-941.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bhattacharyya, B. 2016. Systematic Botany Edition 2. EGC Medical Book Publisher: Jakarta. Consortium Barcode of Life (CBOL). 2009. A DNA Barcode for Land Plants. Civil servant: Jakarta.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Julisaniah, NI. 2008. Kinship Analysis of Cucumber (Cucumis sativus L.) Using RAPD-PCR and Isozyme Methods. Biodiversity. Volume 9 (2): 99-102.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Muhit, A. 2010. Techniques for Using Several Types of Alternative Planting Media and Growth Regulators in Abdul Muhit Moon Orchid Compote. Agricultural Engineering Bulletin. Volume 15 (2): 60-62.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Nur. A., Syahruddin. K. 2016. Wheat: Development Opportunities in Indonesia Application of Mutation Technology in the Formation of Tropical Wheat Varieties. Jakarta: Indonesian Agency for Agricultural Research and Development (IAARD) Press.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Stansfield, WD. 2006. Molecular and Cell Biology. Erlangga: Jakarta.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Suparman. 2012. Molecular Markers in Plant Kinship Identification and Analysis and Its Implications for Genetics Courses. Journal of BIOEDUCATION. Volume 1 (1): 59-68.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Wang, H. Z., Feng S., Lu, J., Shi, N., Liu, J. 2009. Phylogenetic study and molecular identification of 31 Dendrobium species using inter-simple sequence repeat (ISSR) markers. Scientia Horticulurae. Volume 8 (6): 1-8.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Widiastoety, D., Solvia N., and Soedarjo, M. 2010. The Potential of Dendrobium Orchids in Improving the Variety and Quality of Cut Flower Orchids. Journal of Agricultural Research and Development. Volume 29 (3): 101-106.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Zulfahmi. 2013. DNA Markers for Plant Genetic Analysis. Journal of Agrotechnology. Volume 3 (2): 41-52.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Species Name",
+          "Genebank\nAccesion Number",
+          "Location",
+          "Long\nSequence (bp)"
+        ],
+        [
+          "Dendrobium anosmum",
+          "MZ223421",
+          "Vietnamese",
+          "582"
+        ],
+        [
+          "Dendrobium jinghuanum",
+          "MN399855",
+          "China",
+          "1202"
+        ],
+        [
+          "Dendrobium catenatum",
+          "MG324302",
+          "Vietnamese",
+          "537"
+        ],
+        [
+          "Dendrobium nobile",
+          "MG324301",
+          "Vietnamese",
+          "537"
+        ],
+        [
+          "Dendrobium jenkinsii",
+          "MF579380",
+          "Thailand",
+          "628"
+        ],
+        [
+          "Dendrobium pahangense",
+          "JF428045",
+          "Malaysia",
+          "493"
+        ],
+        [
+          "Dendrobium nobile",
+          "AB519785",
+          "Japanese",
+          "1324"
+        ],
+        [
+          "Dendrobium pulchellum",
+          "AB519789",
+          "Japanese",
+          "1324"
+        ],
+        [
+          "Dendrobium pulchellum",
+          "AB519790",
+          "Japanese",
+          "1324"
+        ],
+        [
+          "Dendrobium fimbriatum",
+          "AB519784",
+          "Japanese",
+          "1324"
+        ],
+        [
+          "Phalaenopsis equestris",
+          "AF0742211",
+          "USA",
+          "1250"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "paragraphs": [
+    {
+      "text": "Molecular Assessment Of Native Fish Diversity In UNESCO Heritage Site, Tasik Raban, Malaysia Using DNA Barcoding.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ramizah A.R.1, Nurul Fizatul Nabilah O.1, Adibah A.B.1, Syazwan S.1, Intan Faraha A.G.2, Amirrudin A.3 and Siti Azizah M.N.4",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1Department of Biology, Faculty of Science and Mathematics, Universiti Pendidikan Sultan Idris (UPSI), 35900, Tanjong Malim, Perak.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2 Department of Science and Biotechnology, Faculty of Engineering and Life Sciences, 45600, Bestari Jaya, Selangor.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3School of Marine and Environmental Sciences, Universiti Malaysia Terengganu, 21030, Kuala Terengganu, Terengganu, Malaysia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "4Institut Bioteknologi Marin, Universiti Malaysia Terengganu, 21030, Kuala Terengganu, Terengganu, Malaysia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Corresponding author(s)",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Adibah A.B. (adibah@fsmt.upsi.edu.my); +60132911205",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Despite the fact that freshwater fishes has been studied for over a century, Malaysia's conservation status and management are still in their infancy. The poor progress of freshwater fish taxonomy and conservatory management is primarily due to a lack of interest and funding. There are still numerous unsolved taxonomic issues of freshwater fishes in Malaysia and this had a negative impact on national ichthyological research. As a result, the current research aims to aid the success of the molecular DNA barcode project, particularly in inland reservoirs such as Tasik Raban, Perak which is located in the UNESCO Heritage Site. The Cytochrome c oxidase subunit 1 (COI) marker was used in this project to ensure that native fishes were taxonomically and molecularly barcoded and ready to be accessible through internet databases. Such public references can aid in raising awareness about the management of local fish variety. Taxonomy and molecular characterisation data can be utilised to plan future conservation efforts, particularly for depleted, unknown, or cryptic native species.",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Keyword: DNA barcoding, declining, freshwater fishes, Cytochrome c oxidase subunit 1 (COI).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Introduction",
+      "style": "List Paragraph",
+      "label": "Introduction"
+    },
+    {
+      "text": "Malaysia is home to a staggering number of fish species, both freshwater and marine, spanning over 186 families and 704 genera (Chong et al, 2010). According to Chong et al. (2010), 48% of all known species are threatened, with freshwater fishes having the largest rate of threatened species (87%). Multiple studies have indicated that freshwater species are extremely threatened (Jamilah, 2009; Chong et al., 2010; Reid et al., 2013), with habitat loss accounting for 76% of the reason, overfishing accounting for 27%, and bycatch accounting for 23%.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Tasik Raban is a man-made lake in Perak, located at 4°58′ N 100°57′ E, north of Lenggong (Shakinaz & Dalila, 2013). Because of its abundance of freshwater fish, this location is known as a popular fishing area and is a known site for fish products industry (Shakinaz & Dalila, 2013). In 2012, the United Nations Educational, Scientific, and Cultural Organization (UNESCO) designated Lenggong as one of four world heritage sites (Shakinaz & Dalila, 2013).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Khaw (2008) recorded 174 fish, representing 20 different fish species from ten different families, in his community investigation at Tasik Raban. Meanwhile, Shakinaz and Dalila's most recent studies on fish species in Tasik Raban in 2012 recorded only 19 fish species. This figure has decreased since Khaw's 2008 study, which reported 20 species from ten families. However, both researchers showed differences in the list of fish families collected and only morphological inventory of the fish species has been done. Since 2012, there is no recent studies have been conducted.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Fish inventories usually are time-consuming because researchers commonly rely on the traditional method of long-term surveys and large fish catchment areas, which are often regarded as expensive and labor-intensive. Because there is a scarcity of information about fish biodiversity, it is timely to conduct an assessment to monitor changes in fish diversity for future conservation management.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA Barcoding project is a modern inventory approach that has been launched all over the world, and the field is expanding. However, in Malaysia, the field has not been thoroughly investigated, and few barcoding projects, particularly for freshwater fishes, have been undertaken. The most recent barcoding project involves only marine fishes, as demonstrated by Jaafar., (2012), Akib et al., (2015), and Bakar et al., (2016, 2018). Therefore, this study is proposed to help the progress of the DNA barcode project, particularly for inland reservoirs such as Tasik Raban in Perak. Information on taxonomy and molecular characterization resulted from current research is expected to be used to plan further conservation program especially for depleted, unrecognized and cryptic native species found in this UNESCO Heritage Site.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Methodology",
+      "style": "List Paragraph",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Sampling Collection",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Native fish samples were collected at Tasik Raban, Lenggong, Perak. Collection of fishes were made under the observation of Capture Fisheries Research Divison from Fisheries Research Institute (FRI), Malaysia. Specimens were first be identified based on morphological criteria (e.g.; colour, meristic counts) and classified as best as possible to species level (Shakinaz & Dalila, 2013). Photographs of each fresh specimen were taken for inventory purposes before fin clips are sampled and stored in 98% ethanol prior to molecular work. Specimens collected are placed in a proper container and filled with 70% alcohol for long term storage. Specimens were deposited to Museum Zoology, Universiti Pendidikan Sultan Idris as catalogue specimens.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA extraction",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Genomic DNA of specimens were extracted following the extraction method described in Bakar et al. (2018) using DNeasy® mericon® Food kit. PCR amplification of the CO1 locus was performed using combinations of primers F1, F2, R1 and R2 (Ward et al., 2005). Reactions contained total volume of 50 µl with 5.0 µl of Buffer (10x EconoTaq Reaction Buffer), 4.0 µl of dNTP mix (2.5 mM each), 0.8 µl of each primer (100 µm), 0.6 µl of EconoTaq (5 U/ml), 2.0 µl (20 ng/ml) of DNA template, and 37.6 µl of double distilled water (ddH2O). All reagents were obtained from EconoTaq® (Cat. No.: 30031-3).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "PCR amplification was then carried out according to the following regime: initial denaturation at 94oC for 2 min, 35 cycles of denaturation at for 30s, annealing at optimized temperature for 30s, extension at 72oC for 30s, and a final extension at 72oC for 10 min. Successful PCR products were sequenced by NHK Bioscience Solution Sdn. Bhd. using ABI3730xl Genetic Analyzer (Applied Biosystem). Figure 1 shows steps of DNA barcoding procedures in Genomic Lab, UPSI.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 1. Steps of DNA Barcoding for native fish species molecular inventory.",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "DNA analysis",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "All sequences were analyzed using MEGA X (Kumar et al., 2018) to obtain consensus sequences and to check the occurrence of deletions, insertions, and stop codons. The sequences were aligned using tools available on BOLD v4.0; http://v4.boldsystems.org/ (Ratnasingam & Hebert, 2007). The analyses of genetic distances were restricted to sequences >500 bp. Pair-wise distances at different taxonomic levels (conspecific, congeneric and confamilial) were estimated by using the Kimura 2-parameter (K2P) distance model (Kimura, 1980) implemented in BOLD (Distance Summary tool) and Neighbour-Joining (NJ) tree was constructed to gain insight regarding the relationship between collected specimens. Whenever a discrepancy is found between DNA-based and traditional taxonomy, the specimen was re-examined to confirm that its morphological identification is correct, and the alignment and trace files will again be re-analyzed to confirm results.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Results and Discussion",
+      "style": "List Paragraph",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Collected specimens",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "In this study, 38 fish specimens were collected. Table 1 shows a list of the collected samples with scientific nomenclature and common names used by the Tasik Raban community. Overall, it is intriguing to discover invasive fish species in Tasik Raban, which should be monitored because the species will predate native fishes and cause native fish populations to decline. All specimens collected were preserved (Figure 2) in Museum Zoology, Universiti Pendidikan Sultan Idris with 70% ethanol for future references as catalogue specimens.",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Table 1. List of specimens collected in Tasik Raban.",
+      "style": "List Paragraph",
+      "label": "Table Caption"
+    },
+    {
+      "text": "*invasive species found.",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 2. Preserved specimen deposited to Museum Zoology, Universiti Pendidikan Sultan Idris as catalogue specimens.",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Using sequence data, variation at different taxonomic levels are obtained as given in Table 2. The values of mean K2P distance observed increased with taxonomic rank: 0% to 1.38% within species, 13.58% to 13.8% within genera and 11.15% to 22.89% within families. These data are critical in identifying any new or cryptic species in the research area that may not have been discovered previously through taxonomic analysis alone.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 2. Summary of K2P genetic divergence within different taxonomic levels.",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "The NJ phenogram derived from the complete barcode data set, resulted in 15 non-overlapping species clusters as in Figure 3. This phenogram was separated into major species clusters supported by bootstrap values of >54%. Generally all collected specimens can be assigned to respective species nomenclature using both morphological and molecular data obtained. No new or cryptic native species was detected.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 3. Neighbour-Joining tree for collected specimens from Tasik Raban.",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "This study demonstrated the utility of DNA barcoding in filling a knowledge gap in the Malaysian freshwater fish’s inventory. The diversity documented here will be a valuable resource for future researchers and managers seeking accurate information on the species composition of native fisheries, ultimately assisting in the development of effective conservation plans. Accurate species identification will be critical in unlocking the wealth of hidden biological diversity in countries such as Malaysia, which has a diverse and abundant freshwater fauna.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conclusion",
+      "style": "List Paragraph",
+      "label": "Conclusions"
+    },
+    {
+      "text": "The application of molecular analysis in Tasik Raban has proven to be advantageous. Because the data is stored indefinitely, the identification process is greatly accelerated, making it easier to identify. The data gathered as a result of this process demonstrates the diversity of native fish. The diversity of the sample was preserved, and it could be used in future research.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ramizah A.R. = Specimens acquisition, preservation, wet lab and data analysis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Nurul Fizatul Nabilah O. = Specimens acquisition, wet lab and data analysis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Adibah A.B. = Funding acquisition, preservation, wet lab and data analysis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Syazwan S. = Funding acquisition, preservation, wet lab and data analysis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Intan Faraha A.G. = Specimens acquisition and preservation.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Amirrudin A. = Data analysis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Siti Azizah M.N. = Data analysis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "This work was supported by Ministry of Higher Education: Fundamental Research Grant Scheme 2019- 0007-107-02(FRGS/1/2018/STG05/UPSI/03/1).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Competing Interests",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The authors declare that they have no known competing financial interests or personal relationships which have, or could be perceived to have, influenced the work reported in this article.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "No",
+          "Common name",
+          "Scientific name"
+        ],
+        [
+          "",
+          "Kelabau",
+          "Osteochilus melanopleura"
+        ],
+        [
+          "",
+          "Baung",
+          "Hemibagrus nemurus"
+        ],
+        [
+          "",
+          "Patin Siam",
+          "Pangasianodon hypophthalmus"
+        ],
+        [
+          "",
+          "Patung",
+          "Pristolepis fasciata"
+        ],
+        [
+          "",
+          "Lampam sungai",
+          "Barbonymus schwanenfeldii"
+        ],
+        [
+          "",
+          "Tenggalan",
+          "Puntius bulu"
+        ],
+        [
+          "",
+          "Terbol",
+          "Osteochilus vittatus"
+        ],
+        [
+          "",
+          "Loma",
+          "Thynnichthys thynnoides"
+        ],
+        [
+          "",
+          "Selat",
+          "Notopterus notopterus"
+        ],
+        [
+          "",
+          "Toman",
+          "Channa micropeltes"
+        ],
+        [
+          "",
+          "Sebarau",
+          "Hampala macrolepidota"
+        ],
+        [
+          "",
+          "Seluang",
+          "Rasbora duonensis"
+        ],
+        [
+          "",
+          "Raja*",
+          "Cichla sp."
+        ],
+        [
+          "",
+          "Kawan",
+          "Labiobarbus fascinatus"
+        ],
+        [
+          "",
+          "Temperas",
+          "Cyclocheilichthys apogon"
+        ],
+        [
+          "",
+          "Kaloi",
+          "Osphronomenus gouramy"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Category",
+          "n",
+          "Taxa",
+          "Min distance (%)",
+          "Mean distance (%)",
+          "Max distance (%)"
+        ],
+        [
+          "Within species",
+          "36",
+          "14",
+          "0",
+          "1.38",
+          "1.38"
+        ],
+        [
+          "Within genera",
+          "3",
+          "1",
+          "13.58",
+          "13.8",
+          "13.8"
+        ],
+        [
+          "Within family",
+          "20",
+          "1",
+          "11.58",
+          "16.47",
+          "22.89"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "paragraphs": [
+    {
+      "text": "Primer Design, In Silico PCR and Optimum Annealing Temperature for Escherichia coli Detection in Refillable Drinking Water Samples",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Annisa Irna Putri1, Afifatul Achyar1,*, Dwi Hilda Putri1, Yuni Ahda1",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Negeri Padang, West Sumatera, Indonesia",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Email address: afifatul.achyar@fmipa.unp.ac.id",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Refill Drinking Water Depots (DAMIU) in the community are easy to find at affordable prices, which is a concern in the feasibility of refill drinking water quality. E.coli is one of the pathogenic bacteria present in drinking water that has poor quality. When it enters the body it can cause symptoms of diarrhea, fever, vomiting and others. The purpose of this study was to create a specific primer for E.coli that can be used to detect E.coli and determine the optimum temperature of primer annealing. Researchers do a new primer design because the existing design does not necessarily produce the same results due to various factors of different experimental conditions. The primer design was carried out on an in silico-based and had to meet the criteria for a good primer because it would be used in vitro. E.coli gene sequences was aligned with Shigella sp. using Pairwise Alignment. Primer candidates were analyzed using NCBI's Primer3 and Geneious Prime tools. The result is that the first primer pair is forward 5'–ATGCAGTGGTTCCTTATCTCACA-3' reverse 5'- ATCCTTAATGGCACTGCGCT-3', amplifying the amplicons along 417 bp in the yraJ gene. The second primer pair, forward 5'-CAGAACGTTTTTCATTCAGCAGG-3' reverse 5'-GCCACTACCAGATCGAGTCA-3' amplifies the 573 bp amplicon in the rne gene. The optimum annealing temperature for both pairs of primers was 59.5oC.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "E.coli, primer design, PCR in silico, annealing",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Drinking water is a very important need for the community, especially people in urban areas whose drinking water needs continue to increase due to the growing population. Refill Drinking Water Depot (DAMIU) took advantage of this opportunity to be used as a business field to help the community meet the needs of cheap and affordable drinking water. The use of drinking water managed by DAMIU must pay attention to the quality and feasibility of drinking water (Agustia et. al., 2019). There are many refill drinking water depots and they are easy to find in the community, but due to the lack of information in the form of the manufacturing process, licensing and monitoring of the depot, many people doubt the quality and feasibility of the water (Athena, Sukar & Haryono, 2004). If the quality of drinking water is bad, it will certainly have an impact on the health of the body that consumes it. Poor quality water will be a source of habitat for living bacteria and also a medium for the spread of certain diseases such as diarrheal disease (Winata & Hartantyo, 2013). If drinking water is found to have pathogenic microbes, it means that the water has been contaminated during the management process (Raharja, 2015).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Regulation of the Minister of Health of the Republic of Indonesia Number 492/Menkes/Per/IV/2010 states that the requirements for the quality of drinking water that are suitable for consumption are drinking water that meets the physical, chemical, radioactive and microbiological standards. The presence of E.coli is allowed and the total coliform bacteria is zero in the sample (Ministry of Health of the Republic of Indonesia, 2010). For this reason, it is necessary to develop a detection method for pathogenic microbial contamination that detects the presence of indicator microbes. If the indicator microbe present in food or drink is within certain limits, it indicates that the food or drink has been exposed and allows the proliferation of pathogenic microbes. So that these microbes are used as indicators for the safety and microbiological quality of the products consumed (BPOM, 2008).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "One of the pathogenic bacteria that may be found in contaminated water is the bacterium Escherichia coli Migula, 1895 or abbreviated as E.coli. E. coli is a bacterium that causes symptoms of diarrhea, fever, vomiting and so on (Entjang, 2003). E.coli will become pathogenic bacteria when it is not in the large intestine because the intestine is its natural habitat for life (Melliawati, 2009). E.coli is a rod-shaped bacterium with a length of about 2 micrometers and a diameter of 0.5 micrometers. E.coli is able to survive in a temperature range of 20-40oC with an optimum temperature of 37oC. E.coli is included in Gram negative bacteria (Sutiknowati, 2016). E.coli can not live in water and soil for a long time compared to other pathogenic bacteria. So that if E.coli is detected in the sample, it will indicate the possibility of other pathogenic bacteria (Agrippina, 2019).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Generally, drinking water quality testing uses a microbiological test method. However, this method still has several weaknesses, such as the culture technique takes a relatively long time and is quite difficult to culture the microorganisms in differentially selective media (Abd-El-Haleem, et. al., 2003). The other technique is using the PCR technique, because this method has several advantages that are more profitable than the microbiological method. Because the PCR method does not require a long time in the process and specificity, efficiency is also very high accuracy (Pesurnay, 2018).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Based on this, this study aims to conduct a PCR-based water quality test. However, prior to doing this, primers must be made first by designing specific E.coli primers, PCR in silico and optimizing the primer annealing temperature to be able to detect E. coli bacteria in refilled drinking water samples to be tested. Researchers design new primers because existing primer designs do not necessarily have the same results, there are many factors in different experimental conditions such as DNA template extraction methods, reagents and types of thermocyclers and PCR programs used. The advantage of designing new primers is that researchers can ensure their performance in optimizing methods and avoiding process or experimental data failures (Bustin & Hugget, 2017). In addition, the genomic sequences of E.coli and Shigella sp. Castellani and Chalmers, 1919 have a very high degree of similarity so that generally preexisting primary E.coli sequences can also amplify Shigella sp. therefore, in this study, it is necessary to re-design specific primers for E. coli as indicator microbes. Therefore, as a strategy to obtain specific primers for E.coli, the genomic sequence of E.coli will be aligned with Shigella sp. using Pairwise Alignment in BLASTn NCBI then regions specific for E.coli will be used as primary candidates.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The tools used for in silico testing are bioinformatics software in the form of BLAST tools on the NCBI and Geneious Prime sites. The tools used for in vitro tests are thermal cycler (SensoQuest), micropipette (COMECTA), tube PCR (ExtraGene), vortex (LSE vortex mixer), spindown (Bio Rad), tube's plate, ice box, electrophoresis machine (Thermofhiser), plastic frame, well comb and microwave (Sharp). The materials used for the in silico test were the genome sequences of Escherichia coli (NC_000913.3) and Shigella sp. (NC_004337.2) obtained from GenBank NCBI. The material used for the in vitro test is DNA isolated from the Escherichia coli bacterial culture collection of Dr. Dwi Hilda Putri, M.Biomed at the Microbiology Laboratory, Department of Biology, Faculty of Mathematics and Natural Sciences, Padang State University with her permission. The isolation process was carried out using the boiling method with Ultra Pure Distilled Water (ddH2O), isopropanol, 70% ethanol, spritus, micropipette tips of various sizes and tissue. Other materials used are nuclease-free water (NFW), 2x My Taq HS Red Mix Bioline, primer E.coli-AA-Fwd, E.coli-AA-Rev, E.coli-AIP-Fwd and E.coli-AIP-Rev, pure bacterial DNA, agarose, 1x TAE buffer, 100 bp DNA ladder, loading dye and GelRed.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2. Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.2.1. Pairwise Alignment",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Pairwise Alignment was carried out first because the E.coli (NC_000913.3) sequence with Shigella sp. (NC_004337.2) has a very similar sequence. Pairwise Alignment was performed using the BLASTn tools on the NCBI online site.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.2. Primer Analysis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The specific primer that has been selected is then checked using Geneious Prime. Primers must meet the criteria for a good primer, namely the primer length between 18-30 oligonucleotides (Borah, 2011). In addition, it also looks at %GC, dimer primers and melting temperature or Tm primers (Muhsinin, Sulastri & Dadih, 2018). Furthermore, the primers that have been designed will be checked for specificity using the PrimerBLAST tool on the NCBI site to ensure that the primers that have been designed are truly specific for detecting the E.coli gene.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.3. PCR in silico",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "In silico PCR was performed with the help of Geneious Prime software. The template used for in silico PCR is the E.coli genome sequence (NC_000913.3). Existing pairs of candidate primers were tested for their ability to attach to the E.coli genome sequence template.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.4. In vitro Annealing Temperature Optimization",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The annealing temperature optimization was carried out by in vitro Gradient PCR. The composition of the gradient PCR reaction to be tested is with a total volume of 10 µl per PCR tube consisting of 5 µl 2x My Taq HS Red Mix Bioline Master mix, 1 µl DNA template, 0.4 µl Primer Forward E.coli-AA 10 µM or E.coli-AIP 10 µM, 0.4 µl Primer Reverse E.coli-AA 10 µM or E.coli-AIP 10 µM. The DNA samples used were derived from Escherichia coli culture which was a collection of Dr. Dwi Hilda Putri, M. Biomed at the Microbiology Laboratory, Department of Biology, Faculty of Mathematics and Natural Sciences, Padang State University. To increase the volume to 10 µl, 3.2 µl of NFW (Nuclease-Free Water) was added. Then the PCR program is set to be as follows: initial denaturation at 95oC for 1 minute, cycle repetition stage 35 times consisting of denaturation stage at 95oC for 15 seconds, annealing stage at a temperature gradient of 50oC-60oC (Tm primer ± 5oC) for 15 seconds and the elongation temperature stage at 72oC for 10 seconds, after that the last stage of the final elongation cycle only once at 72oC for 5 minutes.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The PCR results were visualized by electrophoresis of 1.5% agarose gel which had been prepared previously by dissolving 1.5 g of agarose with 100 ml of TAE 1x. Then heated until dissolved and boiled in the microwave for 2-3 minutes. Cool the agarose at room temperature so it doesn't get too hot, then pour it into the previously prepared gel mold. After that, the well-forming comb was attached and allowed to stand until the agarose hardened. After that the results of PCR and DNA Ladder 100 bp each as much as 5 µl were inserted into the gel well. The electrophoresis process was carried out using 1x TAE buffer with a voltage of 100 volts within 30 minutes. After that the electrophoresis results were observed using a UV Transilluminator. The result is then analyzed which is the optimum annealing temperature based on the thickest, single DNA band and the appropriate amplicon size.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "From the results of pairwise alignment between the sequences of E.coli and Shigella sp. Two pairs of E.coli-specific primer candidates were obtained. The first primer pair is forward 5'–ATGCAGTGGTTCCTTATCTCACA-3' named E.coli-AA-Fwd, reverse 5'- ATCCTTAATGGCACTGCGCT-3' is named E.coli-AA-Rev while the second primer pair is forward 5'- CAGACGTTTTTCATTCAGCAGG- 3' is named E.coli-AIP-Fwd, reverse 5'-GCCACTACCAGATCGAGTCA-3' is named E.coli-AIP-Rev.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 1. The first pair of forward primer candidates from the pairwise alignment of E.coli (NC_000913.3) (Query) with Shigella sp. (NC_004337.2) (Sbjct)",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Figure 2. The first pair of reverse primer candidates from the pairwise alignment of E.coli (NC_000913.3) (Query) with Shigella sp. (NC_004337.2) (Sbjct)",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Figure 3. The second pair of forward primer candidates from the pairwise alignment of E.coli (NC_000913.3) (Query) with Shigella sp. (NC_004337.2) (Sbjct)",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Figure 4. The second pair of reverse primer candidates from the pairwise alignment of E.coli (NC_000913.3) (Query) with Shigella sp. (NC_004337.2) (Sbjct)",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "To ensure that the candidate primers have met the ideal criteria for the amplification process in the PCR machine in vitro, an analysis of the primary characteristics was carried out with the help of the Geneious Prime bioinformatics software (Kearse et al., 2012). In the selection of primers, there are things that must be considered such as primer length, melting temperature (Tm) and %GC. A good primer length is between 18-30 oligonucleotides. Primers that are too long or short will affect the specificity of the primers (Handoyo & Rudiretna, 2000).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Characteristics of the results of the first pair of primer designs",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "Table 2. Characteristics of the results of the second pair of primer designs",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "The first pair of primer sequences (Table 1) can amplify the PCR product length of 417 bp by showing that the forward primer has a base length of 23 bp and the reverse primer has a base length of 20 bp. The %GC of this primer pair were 43.5% and 50%, respectively. The difference in primary Tm between forward and reverse is 0.4oC. The forward primer has no secondary structure, while the reverse primer has 41.9 hairpins and 9.7 self dimers. Although there is a secondary structure, the results of the primary design are still acceptable because they are still relatively low and can be tolerated. Based on the ideal primary criteria, this primary pair has met the requirements of good primary criteria. This is also reinforced by the DNA Fold image which shows the absence of bonds between the nucleotide bases. After that, it was checked using the PrimerBLAST tool for the primary specificity test, it was seen that the template target species detected were:",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Table 3. First Primer Pair Specificity Test with PrimerBLAST",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "* means the number of mismatches at the 3' end of the primer",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "From Table 3 it can be seen that the primer amplifies Escherichia coli. Although the first primer pair was detected attached to Shigella flexneri and Salmonella sp. but there is a mismatch at the 3' end of the primer. In theory, if there is a mismatch at the 3' end of the primer, the area will not be amplified (Stadhouder, et. al., 2010) so from this result it can be concluded that the first primary pair specifically amplifies E.coli. As for the other bacteria not detected in this test.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The second pair of primer sequences (Table 2) can amplify the length of the PCR product 573 bp with a forward primer length of 23 bp and a reverse primer length of 20 bp. The %GCs of this primer pair were 43.5% and 55.0%, respectively. The difference in primer Tm between the forward and reverse primers is 0.1oC. The forward primer has no hairpin but there is a self dimer of 0.5 while the reverse primer does not have a secondary structure. The self-dimer in the forward is very low so its presence can be tolerated. Thus the primer has included the ideal primary criteria based on the above criteria. This is also reinforced by the DNA Fold image which does not show any bonds between the nucleotide bases. The sequences were then checked using PrimerBLAST for the primary specificity test, the template target sample species were detected in the form of:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 4. Second Primer Pair Specificity Test with PrimerBLAST",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "* means the number of mismatches at the 3' end of the primer",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "From Table 4 it can be seen that the primer amplifies Escherichia coli, while Shigella boydii, Shigella dysenteriae, Shigella sonnei and Shigella flexineri were detected from the Primer BLAST results but there was a mismatch at the 3' end of the reverse primer. Just as in the first primer pair, mismatch at the 3' end of the primer causes polymerization of new strand DNA cannot occur (Stadhouder, et. al., 2010). As for Salmonella sp. No primary attachment site was detected in the genome sequence. Thus, based on the results of the in silico primer specificity test, it can be concluded that the second primer pair is also specific for amplifying the E.coli gene.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Furthermore, primer pairs were tested by PCR in silico to simulate PCR through the Geneious Prime software application to see the accuracy of the primers in amplifying gene sequences. The results are shown (Figure 5) in the first pair (Table 1) attached to the genomic sequence of Escherichia coli (NC_000913.3), forward attaches to the 3.291.030 to 3.291.052 nucleotides and reverse attaches to the 3.291.427 to 3.291.446 nucleotides. This primer amplifies the yraJ gene with an amplicon length of 417 bp.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "The results of the in silico PCR for the second primer pair (Table 2) are shown in Figure 6, namely the primer attached to the Escherichia coli genome sequence (NC_000913.3) with the forward primer attached to the nucleotide sequence 1.143.108 to 1.143.130 and reverse attached to the nucleotide 1.143.660 to 1.143.680. This primer amplifies the rne gene with an amplicon length of 573 bp.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 5. PCR in silico first primer pair",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Figure 6. PCR in silico second primer pair",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "PCR in silico is also called virtual PCR because it simulates computationally amplified PCR using bioinformatics software. The results will be consistent with the results from PrimerBLAST. This in silico PCR test aims to prevent errors in primer design (Achyar, Atifah & Putri, 2021). Based on the test results that have been tested in silico, the primer has been attached to the target gene that matches the amplicon length which is also suitable. Thus, the primary design results can be ordered for further in vitro testing.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "The annealing temperature optimization was carried out by looking at the primer synthesis results to obtain the temperature range used in the PCR gradient. The synthesis results for the primary Tm of E.coli-AA-Fwd were 56.1oC, E.coli-AA-Rev 57.2oC, E.coli-AIP-Fwd 54.9oC and E.coli-AIP-Rev 56.2oC. With this result, the temperature gradient used is in the temperature range of 50oC - 60oC. Based on the results (Figure 7 and Figure 8) obtained the optimum temperature is 59.5oC (H) in both primers. This is based on the thickest band and closest to the size of the appropriate amplicon.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 7. Gradient PCR test results using E.coli-AA primers",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Figure 8. Gradient PCR test results using E.coli-AIP primers",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "E.coli specific primer design in this study obtained two pairs of primer candidates. The first pair is forward 5'–ATGCAGTGGTTCCTTATCTCACA-3' and reverse 5'- ATCCTTAATGGCACTGCGCT-3'. This primer-pair in silico PCR resulted in a 417 bp amplicon in the yraJ gene. The second primer pair, forward 5'-CAGAACGTTTTTCATTCAGCAGG-3' and reverse 5'-GCCACTACCAGATCGAGTCA-3' PCR in silico this primer pair resulted in a 573 bp amplicon in the rne gene. The optimum annealing temperature for both pairs of primers was 59.5oC.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "A.A., D.H.P. & Y.A. designed the research and supervised all the process, A.A. & A.I.P. collected and analyzed the data and wrote the manuscript.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "A.A. who providing language help, writing assistance, proofreading the article, article feedback, research guidance, ect. D.B.P. & O.Y. who providing research assistance.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conflict of Interest",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The researcher expresses high appreciation and thanks to the Institute for Research and Community Service, Universitas Negeri Padang, which has funded this research with a research contract 675/UN35.13/LT/2021.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Abd-El-Haleem, D., Kheiralla, Z. H., Zaki, S., Rushdy, A. A., & Abd-El-Rahiem, W. (2003). Multiplex-PCR and PCR-RFLP assays to monitor water quality against pathogenic bacteria. J. Environ. Monit, 5, 865–870.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Achyar, A., Atifah, Y., & Putri, D. H. (2021). In silico study of developing a method for detecting pathogenic bacteria in\trefillable drinking watersamples. Journal of Physics: Conference Series (Vol. 1940, No. 1, p.012061). IOP Publishing.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Agrippina, Fidela Devina. (2019). Identifikasi coliform dan Escherichia coli pada\tair minum dalam kemasan (AMDK) di Bandar Lampung. Majalah Teknologi Agro Industri (Tegi), 11(2), 54-57.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Agustia, T., Zahra, V. D., Hardin, W. M., Irfanolla, Y., Saputra, A., Edgar, N. R., et al. (2019). Kualitas air minum yang diproduksi depot air minum isi ulang di universitas negeri padang berdasarkan persyaratan mikrobiologi. Jurnal\tKapita Selekta Geografi, 2(5), 1-6",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Athena, Sukar, & Haryono. (2004). Kandungan bakteri total coli dan Eschereclria coli/ fecal coli air minum dari depot air minum isi ulang di jakarta, tangerang, dan bekasi. Bul. Penel. Kesehatan, 32(3), 135-143.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Borah, P., (2011). Primer designing for PCR. Science Vision., vol. 11(3): 134-136.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "BPOM. RI. (2008). Pengujian mikrobiologi pangan. Pusat Pengujian Obat dan Makanan. Jakarta: Badan Pengawasan Obat dan Makanan Republik Indonesia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bustin, S., & Huggett, J. (2017). qPCR primer design revisited. Biomolecular Detection and Quantification, 14, 19-28.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Entjang, I. (2003). Mikrobiologi dan Parasitologi untuk Akademi Keperawatan dan Sekolah Tenaga Kesehatan yang\tSederajat. Bandung: PT. Citra Aditya Bakti.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Handoyo, D., & Rudiretna, A. (2000). Prinsip umum dan pelaksanaan polymerase chain reaction (PCR) [General\tprinciples and implementation of polymerase chain reaction]. Unitas, 9(1), 17-29.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kearse Matthew, Richard M, Amy W, S Stones-Havas, M Cheung, S Sturrock, S Buxton, A Cooper, S Markowitz, C\tDuran, Tobias T, B Ashton, Peter M, and A Drummond. (2012). Geneious Basic: An integrated and extendable\tdesktop software platform for the organization and analysis of sequence data. Bioinformatics. 28(12): 1647–1649.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kementrian Kesehatan Republik Indonesia. (2010). Peraturan Menteri Kesehatan Republik Indonesia Nomor\t492/MENKES/PER/IV/2010 Tentang Persyaratan Kualitas Air Minum. Jakarta, Indonesia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Melliawati, R. (2009). Escherichia coli dalam kehidupan manusia. BioTrends, 4(1), 10-14.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Muhsinin, S., Sulastri, M. M., & Dadih, S. (2018). Deteksi cepat gen InvA pada Salmonella spp. dengan metode PCRm. Jurnal Sains Farmasi & Klinis, 5(3), 191-200.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Pesurnay, Y. (2018). Deteksi keberadaan bakteri Escherichia coli O157:H7 pada air galon penderita diare dengan metode\tpolymerase chain reaction (PCR). Bimafika, 9, 23-26.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Raharja, Z. T. (2015). Identifikasi Escherichia coli pada Air Minum Isi Ulang dari Depot di Kelurahan Pisangan dan Cirendeu Tahun 2015. Jakarta: Program Studi Pendidikan Dokter Fakultas Kedokteran dan Ilmu Kesehatan Universitas\tIslam Negeri Syarif Hidayatullah.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Stadhouders, R., Pas, S. D., Anber, J., Voermans, J., Mes, T. H., & Schutten, M. (2010). The effect of primer-template mismatches on the detection and quantification of nucleic acids using the 5′ nuclease assay. The Journal of Molecular Diagnostics, 12(1), 109-117.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sutiknowati, L. I. (2016). Bioindikator pencemar, bakteri Escherichia coli. Jurnal Oseana, 41(4), 63-71.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Winata, E., & Hartantyo, E. (2013). Kualitas air tanah disepanjang kali gajah wong ditinjau dari pola sebaran Escherichia coli (studikasus kecamatan umbulharjo). Jurnal Fisika Indonesia, XVII(50), 9-11.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Characteristics Primer",
+          "DNA Fold",
+          "Amplicon Size"
+        ],
+        [
+          "E. coli F\nSequence (5’ to 3’): ATGCAGTGGTTCCTTATCTCACA\nType: Primer\nLength: 23\nCreated by: primer3\n%GC: 43.5\nTm: 59.7\nHairpin Tm: None\nSelf Dimer Tm: None",
+          "",
+          "417 bp"
+        ],
+        [
+          "E. coli R\nSequence (5’ to 3’): ATCCTTAATGGCACTGCGCT\nType: Primer\nLength: 20\nCreated by: primer3\n%GC: 50.0\nTm: 60.1\nHairpin Tm: 41.9\nSelf Dimer Tm: 9.7",
+          "",
+          "417 bp"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Characteristics Primer",
+          "DNA Fold",
+          "Amplicon Size"
+        ],
+        [
+          "E. coli F\nSequence (5’ to 3’): CAGAACGTTTTTCATTCAGCAGG\nType: Primer\nLength: 23\nCreated by: primer3\n%GC: 43.5\nTm: 59.0\nHairpin Tm: None\nSelf Dimer Tm: 0.5",
+          "",
+          "573 bp"
+        ],
+        [
+          "E. coli R\nSequence (5’ to 3’): GCCACTACCAGATCGAGTCA\nType: Primer\nLength: 20\nCreated by: primer3\n%GC: 55.0\nTm: 58.9\nHairpin Tm: None\nSelf Dimer Tm: None",
+          "",
+          "573 bp"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Template Target",
+          "First Primer Pair"
+        ],
+        [
+          "Escherichia coli",
+          "Yes"
+        ],
+        [
+          "Shigella boydii Ewing, 1949",
+          "No"
+        ],
+        [
+          "Shigella dysenteriae Shiga, 1898",
+          "No"
+        ],
+        [
+          "Shigella sonnei Levine,1920",
+          "No"
+        ],
+        [
+          "Shigella flexneri Castellani and Chalmers, 1919",
+          "Yes*1"
+        ],
+        [
+          "Salmonella sp. Lignieres, 1900",
+          "Yes*1"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Template Target",
+          "First Primer Pair"
+        ],
+        [
+          "Escherichia coli",
+          "Yes"
+        ],
+        [
+          "Shigella boydii",
+          "Yes*1"
+        ],
+        [
+          "Shigella dysenteriae",
+          "Yes*1"
+        ],
+        [
+          "Shigella sonnei",
+          "Yes*1"
+        ],
+        [
+          "Shigella flexneri",
+          "Yes*1"
+        ],
+        [
+          "Salmonella sp.",
+          "No"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Information:",
+          "A",
+          ":",
+          "50,0 oC",
+          "E",
+          ":",
+          "55,6 oC"
+        ],
+        [
+          "",
+          "B",
+          ":",
+          "50,5 oC",
+          "F",
+          ":",
+          "56,7 oC"
+        ],
+        [
+          "",
+          "C",
+          ":",
+          "52,2 oC",
+          "G",
+          ":",
+          "58,7 oC"
+        ],
+        [
+          "",
+          "D",
+          ":",
+          "53,3 oC",
+          "H",
+          ":",
+          "59,5 oC"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

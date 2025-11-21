@@ -1,0 +1,741 @@
+{
+  "paragraphs": [
+    {
+      "text": "Analysis of VNTRs (Variable Number Tandem Repeat) D1S80 in Biology Students Class of 2022 FMIPA UNP",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sari Rahma Pinta1*, Andini Ovalia Pradila1, Engla Mutiara Z.P1, Rika Putri1, Afifatul Achyar1",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1 Universitas Negeri Padang, Jalan Prof. Dr. Hamka, Air Tawar Barat, Padang, West Sumatra, 25173",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Phone: 082283517037. Email address: 13saripinta@gmail.com",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "DNA can be obtained from all parts of the body with the same profile in each person.  The   oral mucosal epithelium is one of the DNA sources that is often used for individual identification because of taking it using a swab method that does not hurt the volunteers.  The purpose of this study was to determine DNA polymorphism in Biology students of Class of 2022.  The sample used in this study were 49 people with details, 34 female and 15 male students. After cheek mucosa was sampling, the PCR and electrophoresis was performed to see the DNA bands formed. The visible band was measured in length and calculated using a formula to see the repeatability of the D1S80 locus on the DNA band. From the 49 samples which were collected, the DNA bands were seen in 27 samples with DNA band lengths ranging from 400-600 bp. The number of bands in each sample were also different. The highest frequency of locus repetitions was 26 repetitions and the lowest was 14 repetitions.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Cheek mucosa, VNTRs, DNA",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Deoxyribonucleic acid (DNA) is a systematically arranged polymer of nucleic acids that is a carrier of genetic information passed onto offspring.  Genetic information is arranged in the form of codons in the form of three pairs of nucleotide bases. DNA is used in identification because it is more informative and resistant.  The same DNA genotype can be obtained from different body tissues, namely in blood, saliva, oral mucosa, sperm, hair, skin, and bones. DNA damage is one of the weaknesses of DNA as an identification aid that can be caused by exposure to the environment such as pH, temperature and so on. Therefore, it is necessary to handle appropriately and quickly in processing samples, one of which is related to the extraction process. In addition, it is not uncommon to find DNA sources whose number and quality are limited so that effective and efficient DNA extraction methods such as organic methods are needed, chelex, and FTA (Phillips et al., 2012).",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "DNA is the smallest unit of descent and is present in all living things ranging from microorganisms to higher organisms such as humans, animals and plants. According to Notosoehardjo, each tissue has different DNA content depending on the structure and composition of the cell. Tissues with many nucleated cells and few connective tissues generally have high levels of DNA. The selection of organs to be isolated by DNA for forensic case analysis is very important (Yudianto, 2016).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA is a biological fingerprint that can identify an individual's character through unique features in the individual's genome. As nucleotides, DNA is formed up of a group of phosphates, nitrogenous bases and five-carbon sugars (ribose in RNA and deoxyribose in DNA). In a DNA molecule there is one of four (adenine, guanine, thymine, and cytosine) nitrogenous bases for each nucleotide (Pray, 2008). This makes DNA a \"blueprint\"   for a characteristic that will be displayed in the individual.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "In the genome, there are DNA repeating regions known as variable number of tandem repeats (VNTRs) (Vergnaud and Pourcel, 2006). Locus VNTRs are a group of DNA sequences that represent the highest source of polymorphism markers for identifying individuals. This locus has a DNA repeating pattern with a length of 10-100 bp (Deghady et al, 2018). By amplifying specific VNTRs fragments on different DNA, as well as comparing them to agarose gel electrophoresis, it is possible to profile individuals to identify crimes (Mansoor et al, 2020). The technique used to analyse VNTR is called Restriction Fragment Length Polymorphism (RFLP) because of the use of restriction enzymes in DNA cutting around regions of VNTRs (Sreenan et al., 1997).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Polymerase chain reaction is a process in which a small amount of DNA can be amplified into a large number of copies to detect many diseases and other purposes (Hamzah and Hasso, 2019; Musimba, et al, 2015).  Analysis of Restriction Fragment Length Polymorphism (RFLP) of DNA is a difference in homologous DNA sequences that can be examined by the    difference in length after digestion of a DNA sample with the final nuclease of restriction certain. In the RFLP test, cutting the organism's DNA into fragments is carried out using restriction enzymes to produce a large number of short fragments of DNA.   These fragments are then visualised through agarose gel electrophoresis.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The Class of 2022 Biology is the youngest batch in the Department of Biology FMIPA UNP at this time. To determine the DNA polymorphism in the batch, it is necessary to analyse VNTRs (Variable Number Tandem Repeat) D1S80 in Biology Students Class of 2022 FMIPA UNP.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Materials",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The tools needed in this research are micropipettes, microtubes, PCR tubes, tips (blue, yellow, white), PCR machines, moulds and electrophoresis machines, gel doc, spindowner, and vortex. While the materials include; chelex, TE buffer 1X, Primer D1S80 (forward and reverse), PCR master mix, Nuclease-free water, agarose powder, TAE 1X, gel red, loading dye, ladder 100 bp, glass plastic and toothpick were prepared.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2. Methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.2.1. Cheek Mucosal DNA Extraction",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA sampling from volunteers is carried out in the following way.  First, the volunteer gargles; meanwhile, a PCR tube is prepared and labelled with the volunteer's name. A total of 50 μl of extraction buffer was pipetted into PCR tubes. Using a toothpick, the inner cheek is rubbed repeatedly.   The toothpick is rotated in the extraction buffer, then clogged inside the PCR machine at 95oC for 10 minutes.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.2. PCR DNA Forensic VNTR D1S80",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "For making PCR mixes, the number of each component is adjusted to the number of samples to be used.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. PCR Reaction Composition",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "* Volume is calculated using the V1 dilution formula. M1 = V2. M2 with V2 = 10 μL.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "**The number of reactions is the number of DNA samples, plus 10% of the number of samples.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Next, mix PCR were vortexed for 3 seconds to mix all components, then spin-down.  Mix PCR is divided into each PCR tube with volume @ 8 μL, then added 2 μLof DNA template.  To ensure the absence of bubbles, the PCR tube is then spinned down.  The temperature condition and PCR cycle (PCR program) are set on the thermal cycler machine according to the table below.  The PCR containing the sample is then inserted into the thermal cycler wells (PCR machine), then press RUN.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 2. PCR Reaction Stages",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "2.2.3. Electrophoresis",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Observation of the formed DNA bands is carried out by electrophoresis with the following stages.  A 1.5% agarose is made by dissolving 1.5 grams of agarose powder into 100 ml of TAE 1X and heating it in a microwave.  Then, liquid agarose is poured into a gel mould and put on a well-forming comb.  When it hardens, the gel is put into an electrophoresis machine and filled with TAE 1X until the entire gel is submerged in the buffer. On top of the parafilm mixed:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "●       15 μL gel red, 3 μL ladder and 1 μL loading dye (for ladder mix)",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "●       5 μL red gel, 5 μL PCR DNA sample (for sample mix)",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Each mixture was put into the wells contained in the agarose gel. Electrophoresis machine was closed and switched on with an electric current of 100 volts for 25 minutes.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2.2.4. DNA Band Measurement",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The DNA bands seen in GelDoc were further measured in band length.  Using the   formula below, the number of repetitions that occur in the DNA sample is calculated.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "D1S80 VNTR Repetition Formula:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Analysis of VNTRs was performed to see the presence of repeats D1S80 locus along the DNA band.  By knowing the number of repetitions, it will also be known polymorphism in the individual.   D1S80 locus analysis is usually used in the forensic world to compare the DNA contained in the victim with the   DNA of the suspect. In this study, VNTRs analysis was carried out on the Biology Student class of 2022 sample to calculate the repetition of the D1S80 allele in each sample.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA samples are taken and then extracted using Chelex-TE and incubated to ensure DNA samples are protected from DNAse enzymes that can damage and dissolve DNA. After incubating inside the thermal cycler machine, samples can be stored at 4 0C for up to 4 months.   The sample is then amplified until more DNA bands are formed.  Polymerase Chain Reaction (PCR) method and agarose gel electrophoresis can determine the specifications of the amplicon formed (Joshi &; Deshpande, 2010).   Amplicon visualisation can be seen using agarose gel electrophoresis, where the bands formed on the gel are amplified DNA fragments and show pieces of the number of base pairs (Klug &; Hazel, 1998). The band length of the sample visualisation can be estimated by comparing the band migration with DNA fragments of previously known length (DNA ladder) (Martin, 1996).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "From samples that have been amplified and visualised, results are obtained as shown below.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Figure 1. Visual appearances of DNA tape in electrophoresis. Numbers indicate length of each DNA band.",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "Based on the image above, it can be seen that, from the 49   samples electrophoresis, only 27 samples were visible DNA bands. This can be caused by an imperfect sampling process (cheek mucosa is not taken at the time of swab) so that the extracted DNA sample is minimum or even almost nothing. This is in line with what Harahap (2018) said that the volume of amplified DNA is one of the factors that affect the visualisation results in electrophoresis results.   In addition, in samples No.4, 5, 7, 8, 12 and several other samples there is also a DNA band under the ladder used. The bands are likely to be dimer primers.  The formation of the primary dimer is one of the signs of error in the amplification process with the formation of bands under the length of the ladder / marker used (Yuwono, 2009). This can be caused by minimum or almost no sample DNA so that the primers will bind to each other to form a dimer.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "DNA band length data that has been obtained and then counted the number of repeats from the D1S80 locus indicating polymorphism in DNA.  The number of repetitions is calculated using a formula and results are obtained according to the following table.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Table 3. Interpretation of DNA Sample in Electrophoresis",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "From the data above, it is known that the length of the DNA band formed varies in each sample and ranges from 400-600 bp.  The highest frequency  of repetition was  26 times in samples No.6, 9, 10, 13, 15, 16, 19 and 47.  Meanwhile, the  lowest frequency of repetition was 14 repetitions in samples No. 3, 10, 13,  14,  16, 18, 21, 30, 31, 33, 34 and 35. In the sample resulting in 1 band showed that the  individual was homozygous for the  D1S80 locus. In the sample showing 2 bands of different lengths, the individual is heterozygous for the D1S80 locus. In sample 37, the band formed was thicker than the other bands. This is likely to be 2 different D1S80 alleles on a single repeating unit (Siebers et al, 2021).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Analysis of VNTRs showed repeats of the D1S80 locus in the sample's DNA.  The more repetitions of the locus, the   higher the polymorphism of the individual. From the results of 49   DNA samples, only 27 samples were visible after electrophoresis. The length of the band formed ranges from 400-600 bp with many bands in each sample also different.  The highest frequency   of locus repetitions was 26 repetitions and the lowest was 14 repetitions.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Rika Putri and Andini Ovalia Pradila collected the sample, Engla Mutiara Z.P did the PCR and Electrophoresis, Sari Rahma Pinta analysed the data and wrote the manuscript, Afifatul Achyar designed the research and supervised all the process.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "We sincerely thank Mrs. Afifatul Achyar, S.Si.M.Si., and Kak Ruri for guiding and directing us during this research.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conflict of Interest",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The authors declare no conflict of interest.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Hamzah, K.J.&Hasso, S.A.2019. Molecular prevalence of Anaplasma phagocytophilum in sheep from Iraq. Open Veterinary Journal, 9(3), 238–245. DOI: 10.4314/ovj.v9i3.8",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Harahap M R. 2018. Elektroforesis: Analisis Elektronika Terhadap Biokimia Genetika. Jurnal Ilmiah Pendidikan Teknik Elektro.1(2): 21-26. http://dx.doi.org/10.22373/crc.v2i1.3248",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Joshi M, Deshpande JD. 2010. Polymerase Chain Reaction: Methods, principles, and application. Int J Biomed Res.1(5):81–97. www.ssjournals.com",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Klug W S, Hazel p.1998. Analytical Biochemistry. England: Pearson Education.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Mansoor,Sami Khlaif ., Ehsan F. Hussein, Aqeel Khaleel Ibraheem.2020. Use the Variable Number of Tandem Repeats (VNTR) in DNA fingerprinting and its application in biological sciences. EurAsian Journal of BioSciences. 14: 2835-2839.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Martin R. 1996. Gel Electrophoresis: Nucleic Acids. Oxford: Bios Scientific Publisher",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Musimba, N., Kimatu, J. N., Mweu, B., Mburu, M. W. K., & Nguluu, S. 2015. Germination Effects of Purposive Bruchid Screening of African Ebony (Dalbergia Melanoxylon) Seeds in the Arid and Semi-Arid Region of South Eastern Kenya. Current Research in Agricultural Sciences, 2(2), 60-66. DOI: 10.18488/journal.68/2015.2.2/68.2.60.66",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Phillips, K., N. McCallum, and L. Welch. 2012. A comparison of methods for forensic DNA extraction: Chelex-IOO and the QIAGEN DNA investigator kit (manual and automated). Forensic Science International: Genetics,6(2), 282-285. https://doi.org/10.1016/j.fsigen.2011.04.018",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Pray, L. 2008. Discovery of DNA structure and function: Watson and Crick. Nature Education, 1(1), 100. https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Siebers, M., Walla, A., Rütjes, T., Müller, M.F. and von Korff, M., 2021. Application of DNA Fingerprinting using the D1S80 Locus in Lab Classes. JoVE (Journal of Visualized Experiments).173).pe 62305. DOI: 10.3791/62305",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Sreenan, J. J;Pettay, J. D.;Tbakhi, A.;Totos, G.;Sandhaus, L. M.;Miller, M. L.;Bolwell, B. & Tubbs, R. R. 1997. The use of amplified variable number of tandem repeats (VNTR) in the detection of chimerism following bone marrow transplantation: a comparison with restriction fragment length polymorphism (RFLP) by Southern blotting. American journal of clinical pathology, 107(3), 292-298. https://doi.org/10.1093/ajcp/107.3.292",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Yudianto, A., & Sispitasari, Y. E. 2016. Isolasi DNA dari Bercak Urine Manusia sebagai Bahan Alternatif Pemeriksaan Identifikasi Personal. MPI (Media Pharmaceutica Indonesiana), 1(1), 53-61.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Yuwono, T. 2009. Teori dan Aplikasi Polymerase Chain Reaction. Yogyakarta: Penerbit Andi",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Vergnaud, G., & Pourcel, C. 2006. Multiple locus VNTR (variable number of tandem repeat) analysis. Molecular identification, systematics, and population structure of prokaryotes, 83-104.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "PCR components",
+          "Initial concentration",
+          "Final concentration",
+          "Volume (μL)*",
+          "X number of reactions**",
+          "Mix PCR"
+        ],
+        [
+          "PCR master Mix",
+          "2x",
+          "1x",
+          "5",
+          "",
+          ""
+        ],
+        [
+          "Primer D1S80 Forward",
+          "10 μM",
+          "0.5 μM",
+          "0.5",
+          "",
+          ""
+        ],
+        [
+          "Primer D1S80 Reverse",
+          "10 μM",
+          "0.5 μM",
+          "0.5",
+          "",
+          ""
+        ],
+        [
+          "Nuclease-free water",
+          "-",
+          "-",
+          "2",
+          "",
+          ""
+        ],
+        [
+          "DNA sample",
+          "-",
+          "-",
+          "2",
+          "",
+          ""
+        ],
+        [
+          "Final volume",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "PCR stage",
+          "Temperature (0C)",
+          "Duration",
+          "Cycle"
+        ],
+        [
+          "Initial denaturation",
+          "94",
+          "30 seconds",
+          ""
+        ],
+        [
+          "Advanced denaturation \nAnnealing",
+          "94\n65",
+          "15 seconds\n30 seconds",
+          "32 times"
+        ],
+        [
+          "Elongation",
+          "72",
+          "40 seconds",
+          "32 times"
+        ],
+        [
+          "Final elongation",
+          "72",
+          "30 seconds",
+          ""
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "Sample",
+          "DNA Band Length",
+          "DNA Band Length",
+          "Repeats",
+          "Information"
+        ],
+        [
+          "Sample",
+          "1 (bp)",
+          "2 (bp)",
+          "Repeats",
+          "Information"
+        ],
+        [
+          "Sample 1",
+          "500",
+          "",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 2",
+          "500",
+          "",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 3",
+          "500",
+          "",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 6",
+          "600",
+          "",
+          "26",
+          "Homozygous"
+        ],
+        [
+          "",
+          "",
+          "500",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 9",
+          "600",
+          "",
+          "26",
+          "Homozygous"
+        ],
+        [
+          "Sample 10",
+          "600",
+          "",
+          "26",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 13",
+          "600",
+          "",
+          "26",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 14",
+          "500",
+          "",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 15",
+          "600",
+          "",
+          "26",
+          "Homozygous"
+        ],
+        [
+          "Sample 16",
+          "600",
+          "",
+          "26",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 18",
+          "500",
+          "",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 19",
+          "600",
+          "",
+          "26",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "500",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "Sample 21",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 25",
+          "550",
+          "",
+          "23",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "500",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "Sample 28",
+          "550",
+          "",
+          "23",
+          "Homozygous"
+        ],
+        [
+          "Sample 30",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 31",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 32",
+          "550",
+          "",
+          "23",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "500",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "Sample 33",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 34",
+          "500",
+          "",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 35",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 37",
+          "500",
+          "",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 38",
+          "500",
+          "",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 39",
+          "500",
+          "",
+          "20",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ],
+        [
+          "Sample 43",
+          "400",
+          "",
+          "14",
+          "Homozygous"
+        ],
+        [
+          "Sample 44",
+          "500",
+          "",
+          "20",
+          "Homozygous"
+        ],
+        [
+          "Sample 47",
+          "600",
+          "",
+          "26",
+          "Heterozygous"
+        ],
+        [
+          "",
+          "",
+          "400",
+          "14",
+          "Heterozygous"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

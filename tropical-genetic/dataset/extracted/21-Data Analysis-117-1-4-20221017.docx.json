@@ -1,0 +1,735 @@
+{
+  "paragraphs": [
+    {
+      "text": "Development of species-specific Cichla species eDNA primers for rapid alien invasive species (AIS) monitoring.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Nurul Fizatul Nabilah O1, Adibah A.B.1, Ramizah A.R.1, Syazwan S1, Intan Faraha A.G.2, Amirrudin A3, Siti Azizah M.N4",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1 Department of Biology, Faculty of Science and Mathematics, Universiti Pendidikan Sultan Idris (UPSI), 35900, Tanjong Malim, Perak, Malaysia",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2 Department of Science and Biotechnology, Faculty of Engineering and Life Sciences, Universiti Selangor (UNISEL), Jalan Timur Tambahan, 45600 Batang Berjuntai, Selangor, Malaysia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3 School of Marine and Environmental Sciences, Universiti Malaysia Terengganu (UMT), Kuala Nerus 21300, Terengganu, Malaysia",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "4Institute of Marine Biotechnology, Universiti Malaysia Terengganu (UMT), 21030, Kuala Terengganu, Terengganu, Malaysia.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. Tel.: +60 13-291 1205. Email address: adibah@fsmt.upsi.edu.my",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "Abstract",
+      "style": "Normal",
+      "label": "Abstract"
+    },
+    {
+      "text": "Peacock bass or the cichlids are known locally as top predator fishes which are invasive in Malaysia freshwater system. Detection probabilities for these fishes are typically low, especially using the conventional capture-survey method due to the fish’s behaviour of hiding beneath the water’s surface. Hence, environmental DNA (eDNA) monitoring is a relatively new non-invasive and rapid approach that can be used to assess the distribution of these invasive fishes. Here, we report the strategy i) to develop small fragment (280- 400bp) specific-specific primers for three selected invasive Cichla species namely, C. kelberi, C. ocellaris, and C. monoculus based on mitochondrial DNA (mtDNA) COI gene sequences, ii) how high quality of DNA and e-DNA should be extracted and iii) how to validate primers for specificity, (iv) developed and tested a new quantitative PCR (qPCR) assay to detect the presence of C. kelberi, and C. ocellaris, environmental DNA (eDNA) in water samples. Current research showed that the cytochrome oxidase I (COI) gene can be used to developed species- specific primers for selected species. However, several primer-designed parameters need to be adjusted to improve the specificity of primers. These were discussed in detail with future recommendations for the researcher’s references. Moreover, we found the isolation of e-DNA needs to be done within 22 days of capture to prevent false-negative results. This data can be easily applied in any fish genomic-based lab with the low-cost setting as only AGE (Agarose Gel Electrophoresis) analysis was needed for validation procedures. Overall, e-DNA analysis with species- specific primers represents new monitoring tool in detection of Aquatic Invasive Species (AIS) for management and conservation purpose.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Species-specific primer, COI primer, e-DNA marker, invasive species.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1. Introduction",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Being a region surrounded by water, Malaysia is not left behind in the introduction of alien species since the early 19th century (Othman & Hashim 2003); (Rahim et al. 2013). Non-native or alien species is globally defined as an organism that is translocated from its natural or historical habitat, either accidentally or on purpose, and subsequently successful in residing in its new environment (Rahim et al. 2013). Most of the species introduced in Malaysia have been brought in from the Amazon River (South America) and introduced as popular game fishes usually in lakes (Department of Fisheries DOF 2007). The commonly known invasive alien fish species in the local water system are Arapaima gigas, Oreochromis mossambicus, Pygocentrus nattereri, Claria gariepinus, Belone belone and Cichla ocellaris (Zakaria 2019). However, the extended invasion status of alien species in this country is still not known.",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "The major reason for the introduction and establishment of alien fish species in Malaysia is due to recreational fishing. The most prominent example is the peacock bass (Cichla sp.) which was intentionally released into rivers or lakes made from former mining areas by irresponsible anglers for sport fisheries (Rahim et al. 2013). The peacock bass is known as a good sport fish (Chong et al. 2010) but the uncontrolled spread and unintentional release of this species had caused a negative impact globally on the declining of native fish species (Rahim et al. 2013). Thus, the peacock bass was also labelled as alien invasive species (AIS) due to the threat it caused to local freshwater biodiversity. It is an urgent need to monitor AIS to preserve our native fish species but local authorities are still dependable to the common method of long term surveys and large fish catchment. This so-called traditional field capture technique is often considered to be costly and labour-intensive (Farley et al. 2018). Moreover, detection probabilities typically are low due to the AIS behaviour that prefers to be hidden beneath the water’s surface. Such fish surveillance programs also employ nets or electrofishing gear but these tools often lead to major false sighting as the target AIS species is unable to be predicted underwater (Gu & Swihart 2004)",
+      "style": "Normal",
+      "label": "Introduction"
+    },
+    {
+      "text": "Currently, an alternative and rapid new technique is known as environmental DNA (eDNA) has gained much attention by AIS researchers as it enables the detection of organisms in the environment using the analysis from water samples (Bohmann et al. 2014). Environmental DNA (eDNA) is defined as DNA that has been released by an organism into the environment, via faeces, hair, urine, skin or gametes (Valentini et al 2016). This DNA can be extracted from environmental samples such as soil, water or faeces without having to isolate the target organism (Dejean et al. 2011). This DNA can be amplified by polymerase chain reaction (PCR) technology and delimit organisms that were present in a given water sample. eDNA also permits early detection of AIS even at very low densities, and at any life stage (Dejean et al. 2011); (Ficetola et al. 2008); (Jerde et al. 2011). This has been proven in several studies, of which the best-known examples are on invading Asian carp in European water systems (Jerde et al. 2011). Positive feedbacks have been vastly reported upon the application of this method as it strongly aids in Aquatic Invasive Species (AIS) monitoring and management effort (Valentini et al. 2016).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Because eDNA is still new and has not been implemented frequently in the tropical environment especially in Malaysia, we report here our development strategy to produce species-specific primers that can be utilized to detect the peacock bass fishes by the eDNA-PCR and quantitative PCR (qPCR) methods to monitor presence and relative abundance of eDNA.",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2. Materials and methods",
+      "style": "Normal",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "2.1. Construction of species-specific primers",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "For this research, species-specific primers for Cichla kelberi, Cichla ocellaris, and Cichla monoculus were developed to target the mitochondrial cytochrome c oxidase (COI) genes. A primary survey among anglers showed that these three species are often been misidentified due to highly similar morphological features. Therefore, to design species- specific primers for each, Cichla sp. reference sequences (Table 1) in the form of FASTA format were downloaded from GenBank and screened manually for any ambiguous nucleotide data. These sequences were aligned using MEGA X (Kumar et al. 2008), and analysed through BLAST (Madden 2013) analysis. Using BLAST, the similarity and differentiation between retrieved sequences can be determined and subsequently, variable regions detected were used as potential species-specific primer annealing sites. Primer-BLAST tool (Ye at al 2012) was utilized to design hypothetical primers by targeting those variable regions. To achieve species specificity, we aimed to find primer sequence targets that differed from those of non-target species by at least two base pairs only. A thorough design analysis was conducted using five adjusted parameters; (1) primer must contain 18-23 nucleotide, (2) amplicon length must be between 280 to 400 bp, (3) a minimum of 2 mismatches at the 3’ end, (4) primer melting and annealing temperature must be between 50°C to 60°C, and (5) primer GC content between 20% to 60%.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 1. Cichla sp. reference sequences for primer design in details with FASTA format downloaded from GenBank.",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "2.2. Validation of designated primer through PRIMER BLAST and AGE (Agarose Gel Electrophoresis) analyses",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Using Primer Blast (Ye et al. 2012), each hypothetical primer were subjected to a specificity checking process. We followed Ye et al., (2012) default parameters but changes were made to the formerly mentioned parameters. The protocol was modified as stringent as possible to avoid the unintended target. A primer pair is considered to be specific only if it has no amplicon on any targets other than the specified Cichla species template. Otherwise, it is considered non-specific.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Cichla specimens were collected and identified as correctly as possible to species level according to (Kullander & Ferreira 2006). Each specimen was given a lab inventory ID and was photographed for future reference. Table 2 described details of the specimen used. Fish DNA was extracted using DNEasy Blood and Tissue Kit (Qiagen, USA) according to the manufacturer’s protocol with the modification described by Bakar et al., (2018). Eluted DNA was quantified using UV spectrophotometer Q3000 (Quawell, USA). DNA concentration was expected to be between 10 and 200 ng/ml and the purity of DNA in the range of 1.7-2.0 ratio of absorbance wavelength A260/A280. The final product than were stored at -20 ˚C for future use. Each primer was amplified using PCR in a 25 μL reaction mixture containing 2X EconoTaq PLUS PCR Master Mix solution (Sigma-Aldrich, Germany), 0.4 μM for each forward and reverse primer, and DNA template (120ng -500 ng). A negative control reaction was included by replacing the DNA template with ddH20. PCR reactions were carried out in a thermal cycler (T100 Biorad, USA) with an amplification profile consisting of an initial denaturation step at 95 ˚C for 2 minutes, 35 cycle of denaturation step at 94 ˚C for 30 seconds, an annealing step at the temperature set in Table 2 for 45 seconds, an elongation step at 72 ˚C for 1 minute 30 seconds and a final extension step at 72 ˚C for 5 minutes. Subsequently, a total of 5 μL of the PCR product were subjected for quality assessment by 2% Agarose Gel Electrophoresis (AGE) with 1ul GelRed dye (Sigma-Aldrich, Germany). The gel image was captured using GeneSnap software (Syngene, UK).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "3. Results and Discussion",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "3.1. Selection of mitochondrial gene for species-specific primer development",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Primer design of C. kelberi (CK), C. ocellaris (CO), and C. monoculus (CM) were designed based on sequence collected from GenBank as listed in Table 1. Approximately 8 primer pairs were generated for C. kelberi while 5 pairs of primer have been designed for each C. ocellaris and C. monoculus species (Table 2). All designated primer pairs consist of 18 to 23 base, annealing temperature in a range between 59.00 ˚C to 60.55 ˚C, with predicted amplified product 284 base pair up to 345 base pair.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The use of mitochondrial gene, as a molecular tool to aid in the discrimination of species, has long been applied (Chen et al. 2003); (Dettai & Lecointre 2005); (Farias et al 2001) (Zardoya & Doadrio 1999). However, the most commonly utilized and available genes for Cichla species in public sequence platforms (GenBank and BOLD) are mitochondrial cytochrome c oxidase (COI), Cytochrome B (Cyt B), 16s ribosomal RNA (rRNA), and Nicotinamide Adenine Dinucleotide (NAD) genes. In the current study, we found that only the COI gene produced species-specific primers for selected Cichla species. Cyt B, 16 rRNA and NAD genes were found to be highly conserved for Cichla species resulting in easy cross-amplification between sister-species DNA. Therefore, these three primers might be valuable as universal primers but for eDNA analysis which focuses on species-specific monitoring, such primers can cause false-positive results. Therefore, the results of this study showed that the genetic distances of the COI barcoding region are highly divergent among the Cichla species.",
+      "style": "Normal",
+      "label": "Results and Discussion"
+    },
+    {
+      "text": "Table 2. Details of developed primer pairs for C. kelberi (CK), C. monoculus (CM) and C. ocellaris (CO) species",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "3.3. Extraction of DNA and eDNA",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DNA of collected thirteen (13) specimens as listed in Table 2 were extracted. The quality and quantity of the isolated DNA were assessed by Agarose Gel Electrophoresis (AGE). All specimens showed clear formation of the band with a size 23 Kbp. For eDNA, Figure 1 represents the result from AGE analysis showing the intensity of the isolated eDNA from water samples that have been filtered and extracted by 3 days intervals with an approximate size of 23 Kbp. Lesser intensity of the band was observed for samples filtered at day 22 and after.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Preserving both high quality DNA and eDNA are challenging processes especially for the later as eDNA is usually found to be easily degraded and fragmented. In this experiment, the fin tissues were used to obtain high- the quality of isolated DNA and this method is widely applied as it will not damage the specimen (Muhammad et al. 2016). For eDNA, time of extraction and filtration, contribute to the variation of DNA yield (Figure 1). It is suggested to extract and filter eDNA not more than 22 days after collection. The extracted eDNA then need to handle and store properly to preserve high-quality template DNA before PCR. The poor handling technique and storage method may be contributed to the degradation of eDNA as DNA degrade over time. The smear band on the AGE test usually indicate the degradation of DNA as shown in Figure 1.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure 1. Intensity of the isolated eDNA from water samples extracted by 3 days interval with an approximate size of 23 Kbp",
+      "style": "Normal",
+      "label": "Figure Caption"
+    },
+    {
+      "text": "3.4. Validation of primer",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The designated primer sets were validated using thirteen (13) collected specimen as listed in Table 3. Initially, we amplified all developed primers with C. kelberi and C. ocellaris specimens. No C. monoculus specimens were found throughout sampling CK1 and CO1 primers showed intense single-band for respective species while CM1 showed no amplification to any specimens. The latter was expected as there is no C. monoculus found. This clarified that CM1 might be a potential species-specific marker for C. monoculus. Other primers showed multiple bands or no amplification after 3 replicate PCR trials. Subsequently, the three primers (CK1, CO1 and CM1) were amplified together with five (5) different species of native fishes (local fishes that were found in the same area where a specimen of Cichla species and eDNA were collected) as a negative control. The native fishes uses were: Puntioplites bulu (N1), Channa miropeltes (N2), Thynnichthys thynnoides (N3), Osteochilus hasseltii (N4), and Notopterus notopterus (N5). As shown in Figure 2, amplification of C. kelberi specimen PB4, PB6, PB7 PB8, and PB9 with CK1 (C. kelberi) primer showed the presence of a clear band with approximately 300 bp in size. CK1 primer was found to be specific for C. kelberi species as it does not amplify, PB1, PB2, PB3, PB5 (C. ocellaris), PB13 (C. piquiti), and all Native (N1- N5) specimens (Figure 2). Figure 3 shows amplification of CO1 primer for all PB specimen with size 300 bp while there is no amplification for native species. In contrast, Figure 4 shows no amplification for any specimen tested for both PB and native fish with CM1 (C. monoculus) primer.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Table 3. Description and details of the Cichla sp. used in the study.",
+      "style": "Normal",
+      "label": "Table Caption"
+    },
+    {
+      "text": "Specificity for PCR primer design is dependable on the length of the amplicon and the annealing temperature. As the main target for the designated primer sets is eDNA in which are fragmented, hence, short amplicon size between 280 to 400 bp were targeted. COI gene is a highly conserved region of mitochondria genome, which provide high specificity region used as a reference sequence for the species-specific primer design in this study. Short amplicon on highly conserved region produces high- specificity of primer as shown in Figure 2 as C. kelberi primer, CK1 only amplified C. kelberi specimen. However, C. ocellaris primer, labelled as CO1, managed to amplify all Cichla species. Although we have used the program of PrimerBlast to help identify the specificity of primers developed, in reality, CO1 primer is only usable for identification at the genus level. We hypothesized that either i) the region of COI used was too conserved, ii) the specimen used by Lin et al., (2016), which we retrieved from GenBank is misidentified, or iii) maybe the specimen used is a hybrid as Cichla species is also known to have the ability to naturally hybridize between sister species. As for CM1, we assumed our primer can amplify only C. monoculus. No amplification has been found for other sister species during this study. Our limitation is that there is no C.monoculus yet found although many specimens in Malaysia are mostly known as C.monoculus by researchers and local anglers.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure. 2. AGE result for PCR using CK1 amplify PB4, PB6, PB7, PB8, PB9 (C. kelberi) specimen size with estimated size 300 base pair while no band formation for other PB species (PB1, PB2, PB3, PB5, PB13) and another native fish specimen (N1, N2, N3, N4, N5) where –VE is a negative control",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure. 3. AGE result for PCR using C01 amplify all PB specimen with estimate size 300 base pair while no band formation for Native (N1, N2, N3, N4, N5) specimen where –VE is a negative control.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Figure. 4. AGE result for PCR using CM1 with no band formation for all PB and Native specimen where –VE is a negative control.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "4. Conclusions",
+      "style": "Normal",
+      "label": "Conclusions"
+    },
+    {
+      "text": "Issues of AIS invasion has become a worldwide concern especially in regards to the impact it has caused on national biodiversity and ecology. Due to the slow effect of the traditional method, it is timely that a rapid alternative strategy must be implemented such as eDNA monitoring. We hope the information on the strategy for developing species-specific eDNA primers for invasive Cichla species in current research will benefit researchers and AIS (alien invasive species) monitoring authorities as it permits early detection. These species-specific eDNA primers could be utilized for rapid assessment of ecological studies, including local biodiversity inventories, and determining AIS distributions. This data can be easily applied in any fish genomic-based lab with a low-cost setting as only AGE (Agarose Gel Electrophoresis) analysis was needed for validation procedures. However, it can also be further utilized in capture probe assay such as in RT-PCR for continuous detection effort. For future recommendations several precautions that must be undertaken by AIS researchers to improve the detection of AIS using species-specific primers. It is compulsory to identify as correct as possible unknown specimen firstly by morphology. Photographs of the specimen must be saved while meristic and morphometric measurements must be analysed in detail. Any discrepancy must be recorded for future reference. Thoroughly check retrieved sequence from public databases (eg: GenBank or BOLD) for any unknown or ambiguous base. Align the sequence with as many sequences as possible to determine variations in consensus alignment. Avoid using sequence with < than 95% and do not have information on reference specimen. During in-house lab procedures, make sure PCR amplification showed high intensity and sharp, clear band at the expected product size. Avoid sequencing products with low and unclear intensity as well as producing the double band. Re-amplify at least three times to check for reproducibility. It is advised to maintain a similar chemical brand to be used throughout the research period. Before deposition in a public reference database (eg: GenBank or BOLD), for protein-coding gene, make sure the sequence submitted does not contain stop codon within the sequence when translated into protein sequence.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Author contribution",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Nurul Fizatul Nabilah O. = Data collection, Data analysis and interpretation, Drafting the article, and Critical revision of the article.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Adibah A.B.= Conception or design of the work, Data collection, Data analysis and interpretation, Drafting the article, Critical revision of the article, and Final approval of the version to be published.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ramizah A.R.= Data collection, Data analysis and interpretation",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Syazwan S. =Data analysis and interpretation, Drafting the article, Critical revision of the article, and Final approval of the version to be published.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Intan Faraha A.G.= Data analysis and interpretation, Drafting the article, Critical revision of the article, and Final approval of the version to be published.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Amirrudin A. =Data analysis and interpretation, Drafting the article, Critical revision of the article, and Final approval of the version to be published.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Siti Azizah M.N. =Data analysis and interpretation, Drafting the article, Critical revision of the article, and Final approval of the version to be published.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Acknowledgments",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "This work was supported by the Ministry of Higher Education: Fundamental Research Grant Scheme 2019- 0007-107-02(FRGS/1/2018/STG05/UPSI/03/1).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Conflict of Interest",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "The authors declare that they have no known competing financial interests or personal relationships which have, or could be perceived to have, influenced the work reported in this article.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "References",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Ashley, A., Coble, Camille, A., Flinders, Jessica, A., Homyack, Brooke, E., Penaluna, Richard, C., Cronn & Weitemier, K. (2016). eDNA as a tool for identifying freshwater species in sustainable forestry: A critical review and potential future applications. Science of the Total Environment, 10.1016/j.scitotenv.2018.08.370, 649,1157-1170.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bakar, A. A., Adamson, E. A., Juliana, L. H., Nor Mohd, S. A., Wei-Jen, C., Man, A., & Md, D. N. (2018). DNA barcoding of Malaysian commercial snapper reveals an unrecognized species of the yellow-lined Lutjanus (Pisces: Lutjanidae). PloS one, 13(9), e0202945.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bashir, F.H., Othman, M.S., Mazlan, A.G., Rahim, S.M. & Simon, K.D. (2013). Heavy Metal Concentration in Fishes from the Coastal Waters of Kapar and Mersing, Malaysia. Turkish Journal of Fisheries and Aquatic Sciences, 13, 375-382. http://doi.org/10.4194/1303-2712-v13_2_21",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bohmann, K., Alice Evans, A., Gilbert, M.T.P., Carvalho, G.R., Creer, S., Knapp, M., Yu, D.W. & Erratum, M.B. (2014). Environmental DNA for wildlife biology and biodiversity monitoring Trends in Ecology & Evolution. Journal of Ecology and Evolution, 29 (8), 485. https://doi.org/10.1016/j.tree.2014.04.003Get",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Chen, H., Detmer, S.A., Ewald, A.J., Griffin, E.E., Fraser, S.E. & Chan, D.C. (2003). Mitofusins Mfn1 and Mfn2 coordinately regulate mitochondrial fusion and are essential for embryonic development. Journal of Cell Biology, 160 (2), 189– 200. doi: https://doi.org/10.1083/jcb.200211046",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Chong, V.C., Lee, P.K.Y. & Lau, C.M. (2010). Diversity, extinction risk and conservation of Malaysian fishes. Journal of Fish Biology, 76,2009- 2016. https://doi.org/10.1111/j.1095-8649.2010.02685.x",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Danial, H.Z.A. & Noor, A.M.A. (2019). Environmental DNA (eDNA) Metabarcoding as a Sustainable Tool of Coastal Biodiversity Assessment. In: Leal Filho W. et al., (eds) Universities as Living Labs for Sustainable Development. World Sustainability Series. Springer, Cham.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Dejean, T., Valentini, A., Duparc, A., PellierCuit, S., Pompanon, F., Taberlet, P. & Miaud, C. (2011) Persistence of environmental DNA in freshwater ecosystems. PLoS One, 6, e23398.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Department of Fisheries (DOF) (2007). Action Plan for Aquatic Invasive Alien Species in Malaysia. Retrieved February 09, 2018, from http://www.seafdec.org.my/.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Dettai, A. & Lecointre, G. (2005). Further support for the clades obtained by multiple molecular phylogenies in the acanthomorph bush. Comptes Rendus Biologies, 328 (7), 674- 689. https://doi.org/10.1016/j.crvi.2005.04.002.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Farias, I., Ortí, G., Sampaio, I. et al. (2001). The Cytochrome b Gene as a Phylogenetic Marker: The Limits of Resolution for Analyzing Relationships Among Cichlid Fishes. J Mol Evol 53, 89–103. https://doi.org/10.1007/s002390010197",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Farley, S.S., Dawson, A., Goring, S.J. & Williams, J.W. (2018). Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions. BioScience, 68 (8), 563–576. https://doi.org/10.1093/biosci/biy068",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ficetola, G.F., Miaud, C., Pompanon, F. & Taberlet, P. (2008). Species detection using environmental DNA from water samples. Biology Letters, 4, 423.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Gu, W. & Swihart, R.K. (2004). Absent or undetected? Effects of non-detection of species occurrence on wildlife- habitat models. Biol Cons. 116, 195–203.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Hamid, Z.A. (2019, March 4). Protect our native fishes and river ecosystem. Retrieved from",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "https://www.nst.com.my/opinion/columnists/2019/03/465961/protect-our-native-fishes-and-river-ecosystem",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Jerde, C.L., Mahon, A.R., Chadderton, W.L. & Lodge, D.M. (2011). « Sightunseen » detection of rare aquatic species using environmental DNA. Conservation Letters, 4, 150–157.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kullander, S. O. & Silfvergrip, A.M. (2006). Review of the South American cichlid genus Mesonauta Günther (Teleostei, Cichlidae) with descriptions of two new species. Revue Suisse De Zoologie, 98, 407-448. doi:10.5962/bhl.part.79799",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kullander, S.O. & Ferreira E.J.G. (2006). A review of the South American cichlid genus Cichla, with descriptions of nine new species (Teleostei: Cichlidae) Ichthyol. Explor. Freshwaters, 17 (4), 289- 398. ISSN 0936-9902.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kumar S., Stecher, G., Li, M., Knyaz, C. & Tamura, K. (2018, June 6). MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms. Molecular Biology and Evolution, 35 (6), 1547– 1549. https://doi.org/10.1093/molbev/msy096",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Madden, T. (2013, Mar 15). The BLAST Sequence Analysis Tool: The NCBI Handbook [Internet]. 2nd edition. Bethesda (MD): National Center for Biotechnology Information (US) Available from: https://www.ncbi.nlm.nih.gov/sites/books/NBK153387/",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Muhammad, H., Iqbal, Z., Iqbal, M.U., Younas, T. & Bashir, Q. (2016). An efficient method of DNA extraction from fish fin. Pakistan Journal of Agricultural Sciences, 53(4), 843- 850. DOI: 10.21162/PAKJAS/16.3998 http://www.pakjas.com.pk .",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Kwok, S., Kellogg, D.E., McKinney, N., Spasic, D., Goda, L., Levenson, C. & Sninsky, J.J. (1990 Feb 25). Effects of primer-template mismatches on the polymerase chain reaction: Human immunodeficiency virus type 1 model studies. Nucleic Acids Research, 18 (4), 999- 1005. https://doi.org/10.1093/nar/18.4.999",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Othman, M.H. & Hashim, A.K.A. (2003). Prevention and Management of Invasive Alien Species. In Proceedings of a Workshop on Forging Cooperation throughout South- Southeast Asia. N. Pallewatta, J.K. Reaser and A.T. Gutierrez, Eds. Global Invasive Species Programme, Cape Town, South Africa.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Raboudi, F., Chavigny, P., Marrakchi, M., Makni, H., Makni, M. & Vanlerverghe, M. F. (2005). Characterization of polymorphic microsatellite loci in the aphid species Macrosiphum euphorbiae (Hemiptera:Aphididae). Molec. Ecol., Notes 5, 490-492.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Rahim, K.A.A., Esa, Y. & Arshad, A. (2013). The Influence of Alien Fish Species on Native Fish Community Structure in Malaysian Waters. Journal of Resource Science & Technology, 7 (1), 81- 93.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Thomsen, P.F. & Willerslev, E. (2015). Environmental DNA – An emerging tool in conservation for monitoring past and present biodiversity. Biological Conservation, 183, 4–18. doi: 10.1016/j.biocon.2014.11.019",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Valentini, A., Taberlet, P., Miaud, C., Civade, R., Herder, J., Thomsen, P. F., … Gaboriaud, C. (2016). Next‐generation monitoring of aquatic biodiversity using environmental DNA metabarcoding. Molecular Ecology, 25(4), 929– 942. https://doi.org/10.1111/mec.13428",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Von Dohlen, C.D. & Moran, N.A. (2000). Molecular data support a rapid radiation of aphids in the Cretaceous and multiple origins of host alternation. Biol. J. Linn. Soc., 71, 689-717.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Von Dohlen, C.D., Rowe, C.A. & Heie, O.E. (2006). A test of morphological hypotheses for tribal and subtribal relationships of Aphidinae (Insecta: Hemiptera: Aphididae) using DNA sequences. Molecular Phylogenetics and Evolution, 38, 316-329.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ye, J., Coulouris, G., Zaretskaya, I. et al. (2012). Primer- BLAST: A tool to design target-specific primers for polymerase chain reaction. BMC Bioinformatics, 13 (134), 2105-13-134 https://doi.org/10.1186/1471-",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Zakaria. R. (2019, February 22). Alien fish running riot in local rivers. Retrieved July 17, 2019, from https://www.nst.com.my/news/nation/2019/02/462647/hobbyists-should-not-dump- alien-fish-rivers.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Zakaria, R. (2019, February 22). Alien fish devouring local species in Sg Pahang. Retrieved from https://www.nst.com.my/news/nation/2019/02/462595/alien-fish-devouring-local-species-sg-pahang.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Zardoya, R., Doadrio, I. (1999). Molecular Evidence on the Evolutionary and Biogeographical Patterns of European Cyprinids. J Mol Evol, 49, 227– 237. https://doi.org/10.1007/PL0000654",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "No",
+          "Species Name",
+          "Acession number",
+          "Sequence length (bp)"
+        ],
+        [
+          "1",
+          "C. kelberi",
+          "JN988796.1",
+          "636"
+        ],
+        [
+          "2",
+          "C. ocellaris",
+          "NC_030272.1",
+          "16, 526"
+        ],
+        [
+          "3",
+          "C. monoculus",
+          "JN988798.1",
+          "630"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "No",
+          "Primer",
+          "Sequence Forward (F) and Reverse (R) 5’- 3’",
+          "Tm (⁰c)",
+          "GC Content (%)",
+          "Product size (bp)"
+        ],
+        [
+          "1",
+          "CK 1",
+          "F-GCTTCTGGCTTCTTCCCCTT\nR-AATGGTAATCCCAGCGGCAA",
+          "59.96\n60.03",
+          "55.0\n50.0",
+          "323"
+        ],
+        [
+          "2",
+          "CK 2",
+          "F-ATTGGTGCCCCAGACATAGC\nR-AAAGGAGAAGAAGGACGGCG",
+          "60.11\n60.04",
+          "55.0\n55.0",
+          "334"
+        ],
+        [
+          "3",
+          "CK 3",
+          "F-GAGCAGAACTGAGCCAACCT\nR-CTTGCCAGTGGGGGATAGAC",
+          "59.96\n59.82",
+          "55.0\n60.0",
+          "289"
+        ],
+        [
+          "4",
+          "CK 4",
+          "F-TGTCTATCCCCCACTGGCAA\nR-CTCCTCCTGCAGGGTCAAAG",
+          "59.55\n60.04",
+          "55.0\n60.0",
+          "296"
+        ],
+        [
+          "5",
+          "CK 5",
+          "F-CCCTGACATAGCCTTTCCCC\nR-GCAGCAAGAACTGGAAGGGA",
+          "59.82\n60.25",
+          "60.0\n55.0",
+          "345"
+        ],
+        [
+          "6",
+          "CK 6",
+          "F-ACTAAGCCAACCAGGCTCTC\nR-CACCGGCTAGGTGAAGTGAA",
+          "59.38\n59.68",
+          "55.0\n55.0",
+          "344"
+        ],
+        [
+          "7",
+          "CK 7",
+          "F-TCGGAGGCTTTGGGAATTGA\nR-TATTGGGAGATAGCCGGGGG",
+          "59.30\n60.55",
+          "50.0\n60.0",
+          "313"
+        ],
+        [
+          "8",
+          "CK 8",
+          "F-CGAGCAGAACTAAGCCAACC\nR-AGCGGAGGGTAGACAGTTCA",
+          "59.92\n60.25",
+          "55.0\n55.0",
+          "284"
+        ],
+        [
+          "9",
+          "CM1",
+          "F-AGTGGGAACTGCACTAAGCC\nR-TTCCCGCTAGTGGAGGGTAG",
+          "59.96\n60.40",
+          "55.00\n60.00",
+          "320"
+        ],
+        [
+          "10",
+          "CM2",
+          "F-TTGGTGCTTGAGCCGGAATA\nR-CCCGCTAGTGGAGGGTAGA",
+          "59.67\n59.77",
+          "50.00\n63.16",
+          "337"
+        ],
+        [
+          "11",
+          "CM3",
+          "F-TATTTGGTGCTTGAGCCGGA\nR-TCCCGCTAGTGGAGGGTAG",
+          "59.67\n59.77",
+          "50.00\n63.16",
+          "341"
+        ],
+        [
+          "12",
+          "CM4",
+          "F-TGAGCCGGAATAGTGGGAAC\nR-TCCCGCTAGTGGAGGGTAGA",
+          "59.46\n61.28",
+          "55.00\n60.00",
+          "330"
+        ],
+        [
+          "13",
+          "CM5",
+          "F-AGCCGGAATAGTGGGAACTG/\nR-TTTCCCGCTAGTGGAGGGTAG",
+          "59.46\n60.96",
+          "55.00\n57.14",
+          "330"
+        ],
+        [
+          "14",
+          "CO1",
+          "F-GTCCTCAATCCTTGGGGCAA\nR-CCAAATCCGGGGAGGATCAG",
+          "59.96\n59.89",
+          "55.00\n60.00",
+          "291"
+        ],
+        [
+          "15",
+          "CO2",
+          "F-CTGATCCTCCCCGGATTTGG\nR-TGTTAGGCCTCCTACGGTGA",
+          "59.89\n59.96",
+          "60.00\n55.00",
+          "327"
+        ],
+        [
+          "16",
+          "CO3",
+          "F-CCGGTGTGTCCTCAATCCTT\nR-ATCATGCCAAATCCGGGGAG",
+          "59.68\n60.18",
+          "55.00\n55.00",
+          "304"
+        ],
+        [
+          "17",
+          "CO4",
+          "F-CTCCCCGGATTTGGCATGAT\nR-TCCTGTTAGGCCTCCTACGG",
+          "60.18\n60.40",
+          "55.00\n60.00",
+          "324"
+        ],
+        [
+          "18",
+          "CO5",
+          "F-TCCCCGGATTTGGCATGATT\nR-CTGTTAGGCCTCCTACGGTG",
+          "59.74\n59.54",
+          "50.00\n60.00",
+          "321"
+        ]
+      ],
+      "label": "Table"
+    },
+    {
+      "content": [
+        [
+          "No",
+          "Species",
+          "Sample ID",
+          "Specimen collection",
+          "Location GPS coordinate"
+        ],
+        [
+          "1.",
+          "C. ocellaris",
+          "PB 1",
+          "",
+          "3.076472, 101.491916"
+        ],
+        [
+          "2.",
+          "C. ocellaris",
+          "PB 2",
+          "",
+          "3.076472, 101.491916"
+        ],
+        [
+          "3.",
+          "C. ocellaris",
+          "PB3",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "4.",
+          "C. ocellaris",
+          "PB 5",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "5.",
+          "C. ocellaris",
+          "PB 10",
+          "",
+          "5.016356, 00.987212"
+        ],
+        [
+          "6.",
+          "C. ocellaris",
+          "PB 11",
+          "",
+          "4.995440, 100.952879"
+        ],
+        [
+          "7.",
+          "C. ocellaris",
+          "PB 12",
+          "",
+          "5.016356, 00.987212"
+        ],
+        [
+          "8.",
+          "C. kelberi",
+          "PB 4",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "9.",
+          "C. kelberi",
+          "PB 6",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "10",
+          "C. kelberi",
+          "PB 7",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "11.",
+          "C. kelberi",
+          "PB 8",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "12.",
+          "C. kelberi",
+          "PB 9",
+          "",
+          "3.708263, 101.482125"
+        ],
+        [
+          "14.",
+          "C. piquiti",
+          "PB 13",
+          "No picture as only fin were supplied",
+          "Local fish shop"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}

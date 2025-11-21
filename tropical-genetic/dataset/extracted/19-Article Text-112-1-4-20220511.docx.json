@@ -1,0 +1,271 @@
+{
+  "paragraphs": [
+    {
+      "text": "Optimasi Isolasi DNA Sampel Daun Kering Tanaman Terancam Punah Dipterocarpus cinereus",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Ruri Fitriyani1, Afifatul Achyar1*, Iyan Robiansyah2",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "1Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Negeri Padang Jl. Prof. Dr. Hamka, Air Tawar, Padang, Sumatera Barat 25132",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "2Research Center for Plant Conservation and Botanical Gardens, Indonesian Institute of Sciences, Bogor, West Java 16911",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "*Corresponding author. e-mail address: afifatul.achyar@fmipa.unp.ac.id",
+      "style": "Normal",
+      "label": "Corresponding Email"
+    },
+    {
+      "text": "ABSTRAK",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Dipterocarpus cinereus (Lagan bras) merupakan pohon endemik Mursala, sebuah pulau kecil di Tapanuli Tengah, Sumatera Utara. Lagan bras merupakan pohon yang memiliki kualitas baik untuk bahan pembuatan kapal atau konstruksi. Tumbuhan ini berstatus kritis oleh IUCN Red List 2020 sehingga perlu dilakukan upaya konservasi. Upaya konservasi yang dilakukan masih terbatas pada status konservasi, ekologi dan distribusi serta perbanyakan vegetatif sedangkan studi molekuler belum pernah dilakukan. Oleh karena itu, perlu diketahui metode isolasi DNA yang optimum karena kualitas DNA sangat penting sebagai penentu keberhasilan analisis molekuler seperti PCR. Berbagai teknik dapat dilakukan untuk mengisolasi DNA, tergantung dari jenis tanaman tanaman yang digunakan. Setiap jenis tanaman memiliki kandungan senyawa metabolit sekunder yang berbeda-beda sehingga membutuhkan metode isolasi yang optimum. Penelitian ini bertujuan untuk mendapatkan metode isolasi DNA yang optimum dan menghasilkan DNA genomik yang berkualitas baik dari tanaman Dipterocarpus cinereus yang telah dikeringkan koleksi Pusat Penelitian Konservasi Tumbuhan dan Kebun Raya LIPI. Penelitian ini dilakukan di Laboratorium Genetika dan Bioteknologi FMIPA Universitas Negeri Padang pada Oktober 2021. Metode isolasi DNA yang dilakukan adalah metode CTAB yang dimodifikasi dengan variasi ukuran daun, penggunaan PVP, dan penggerusan dengan dan tanpa nitrogen cair serta metode Kit isolasi Promega dan Kit Qiagen. Hasil penelitian menunjukkan bahwa kuantitas DNA yang banyak dan kualitas DNA yang tinggi dapat dihasilkan pada sampel tanaman dengan cara modifikasi isolasi DNA menggunakan metode Cetyl Trimethyl Ammonium Bromide (CTAB) serta penambahan antioksidan polivinilpolipirolidon (PVP) dan penggunaan nitrogen cair  dengan ukuran daun 2x2 cm.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Keywords:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Isolasi DNA, Dipterocarpus cinereus, CTAB, PVP, Nitrogen cair",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Introduction",
+      "style": "List Paragraph",
+      "label": "Introduction"
+    },
+    {
+      "text": "Dipterocarpus cinereus atau Lagan Bras merupakan anggota genus dipterocarpus yang memiliki diameter 40 cm. Pohon ini merupakan jenis pohon endemik Pulau Mursala, Sumatera Utara yang kayunya ditargetkan untuk konstruksi kapal. Sempat dikatakan punah pada tahun 1998, Lagan bras ditemukan kembali sebanyak 30 individu dewasa pada 2018 dan dimasukkan kedalam katerogi terancam punah dengan status kritis (Critically Endangered) oleh IUCN Red List (Robiansyah, 2020). Oleh karena itu, perlu dilakukan studi molekuler untuk mengetahui variasi genetik pada tumbuhan ini. Untuk memperoleh informasi genetik tumbuhan endemik ini, diperlukan metode isolasi yang optimal.",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Isolasi DNA merupakan proses pemisahan DNA dari komponen sel lainnya seperti protein, karbohidrat, lemak dan lain-lain. DNA yang memiliki kualitas baik digunakan untuk kegiatan seperti marka molekuler, pembuatan pustaka genom dan sekuensing. Isolasi DNA terdiri dari tiga tahap utama yakni perusakan dinding sel (lisis), pemisahan DNA dari komponen lainnya serta pemurnian DNA (Corkill, 2008). Kualitas DNA yang baik yang diperoleh dari hasil ekstraksi merupakan syarat awal yang harus dipenuhi dalam studi molekuler (Syafaruddin et al., 2011). Secara umum, prosedur ekstraksi DNA yang baik mencakup tiga hal penting yaitu harus bisa dihasilkan DNA dengan kemurnian tinggi, DNA harus utuh, dan konsentrasi yang tinggi (Romlah, 2018).",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Permasalahan utama yang sering muncul dalam proses isolasi DNA tumbuhan adalah adanya senyawa polisakarida, protein, polifenol, RNA dan senyawa metabolit sekunder lainnya yang terdapat pada tanaman yang menghambat tahapan isolasi DNA (Varma et al., 2007). Jumlah komponen ini bervariasi sesuai dengan spesies tanaman, bagian tanaman yang digunakan, kondisi lingkungan, dan kondisi lingkungan. Menurut Heikrujam (2020), umumnya daun segar berumur 15-20 hari lebih mudah untuk diisolasi. Tanaman yang diisolasi pada penelitian ini adalah daun yang telah dikering-anginkan menggunakan silica gel yang menyebabkan daun tidak segar lagi sehingga perlu dilakukan optimasi isolasi DNA agar mendapatkan hasil yang terbaik.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode Cetyl trimetyl ammonium bromide (CTAB) merupakan metode yang umum digunakan dalam ekstraksi DNA genom tanaman yang banyak mengandung polisakarida dan senyawa polifenol. Senyawa CTAB termasuk jenis surfaktan kationik yang digunakan untuk proses lisis dinding sel tanaman. Metode CTAB tidak membutuhkan biaya yang lebih mahal dibandingkan dengan menggunakan kit (Ardiana, 2009). Optimasi metode isolasi dapat dilakukan terhadap komposisi larutan buffer lisisnya ataupun teknik penanganan fisik dalam pemisahan DNA genom dari senyawa lainnya. Pada prinsipnya optimasi metode isolasi bertujuan melindungi DNA genom dari degradasi akibat senyawa sekunder yang dilepaskan ketika sel dihancurkan atau kerusakan akibat penanganan fisik (Restu et al., 2012).",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Materials and Methods",
+      "style": "List Paragraph",
+      "label": "Materials and Methods"
+    },
+    {
+      "text": "Bahan",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bahan utama yang digunakan pada penelitian ini adalah sampel daun kering Dipterocarpus cinereus yang telah dikeringkan menggunakan silica gel. Sampel ini merupakan koleksi Kelompok Penelitian Konservasi Tumbuhan Terancam Punah Indonesia, Pusat Penelitian Konservasi Tumbuhan dan Kebun Raya LIPI. Bahan lainnya yang digunakan untuk isolasi DNA adalah cetyltrimethyl ammonium bromide (CTAB), sodium dodesil sulfat (SDS), polivinil pirolidon (PVP), nitrogen cair, trisbase, HCl, natrium chloride (NaCl), ethylene diamine tetra-acetic acid (EDTA), kit isolasi Promega, DNA Mini Kit Qiagen, Plant Mini Kit Qiagen, ultra-pure destilated water (ddH2O), chloroform, isopropanol alcohol, isoamyl, 70% ethanol dan buffer TE 1X pH 8. Alat yang digunakan adalah ice box, gunting, pulpen marker, plastik zip, mikropipet, micropestle, microtube 1,5 ml, rak microtube, spatula, waterbath, centrifuge, vortex, spin down, tabung falcon 15 ml, dan pinset.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Penelitian dilaksanakan di Laboratorium Genetika dan Bioteknologi Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Negeri Padang pada bulan Oktoter 2021. Optimasi isolasi DNA yang telah dilakukan adalah dengan menggunkan metode Doyle dan Doyle berbasis CTAB yang dimodifikasi, metode Kit Isolasi Promega, metode QIAamp DNA Mini Kit Qiagen dan metode DNeasy Plant Mini Kit Qiagen. Kegiatan penelitian meliputi tahapan:",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode modifikasi Doyle & Doyle (1990) berbasis CTAB",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Pada metode ini dilakukan variasi perlakuan yaitu variasi ukuran daun tanaman yang diisolasi, penggerusan dengan menggunakan nitrogen cair dan tanpa menggunakan nitrogen cair serta dengan penambahan dan tanpa penambahan PVP. Pertama-tama, memberi nama tabung dengan pulpen marker. Sampel daun dipotong lalu dihancurkan dengan nitrogen cair (tergantung perlakuan) dan dimasukkan kedalam microtube steril. Sebanyak 670 μL buffer ekstraksi ditambahkan kemudian sampel digerus dengan bantuan micropestle sampai homogen. Kemudian ditambahkan sebanyak 50 μL SDS 20%, lalu reaksi di vortex hingga homogen dan diinkubasi di waterbath pada suhu 65℃ selama 15 menit. Kemudian sebanyak 100 μL NaCl 5 M dimasukkan kedalam tabung, lalu tabung dibolak-balik secara perlahan. Sebanyak 100 μL CTAB 1X ditambahkan kedalam tabung sampel lalu divortex dan ditambahkan PVP (tergantung perlakuan) seujung spatula pada tabung yang telah ditentukan. Sampel diinkubasi pada suhu 65℃ selama 15 menit di waterbath lalu di sentrifugasi pada kecepatan 12.000 rpm selama 15 menit.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Bagian supernatan dipindahkan kedalam microtube baru dan ditambahkan 900 μL kloroform:isoamyl alkohol (24:1) kemudian divortex. Sampel di sentrifugasi pada kecepatan 12.000 rpm selama 15 menit. Supernatan kembali dipindahkan ke microtube baru dan ditambahkan 600 μL isopropanol dingin dan tabung dibolak-balik secara perlahan. Pada tahap ini DNA akan terlihat seperti untaian benang putih. Kemudian sampel disentrifugasi pada kecepatan 12.000 rpm selama 15 menit. Supernatan dibuang, dan pelet dicuci dengan 200 μL etanol 70%. Sampel disentrifugasi pada kecepatan 12.000 rpm selama 5 menit. Supernatant (etanol) dibuang lalu pelet dikeringkan diatas tisu kering bersih selanjutnya pelet dilarutkan dalam TE 1X pH 8. Sampel DNA dapat disimpan pada kulkas -20℃ atau dapat diukur konsentrasi dan kemurniannya.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode Kit Promega",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Daun berukuran 2x2 cm dimasukkan ke microtube lalu dibekukan menggunakan nitrogen cair dan dihaluskan dengan bantuan micropestle. Selanjutnya sebanyak 600 μL nucleid acid solution ditambahkan lalu divortex. Sampel diinkubasi pada suhu 65℃ selama 15 menit. Selanjutnya sampel ditambahkan 200 μL protein precipitation solution dan divortex pada kecepatan tinggi lalu sentrifugasi pada 13.000 rpm selama 3 menit sehingga protein akan mengendap. Selanjutnya adalah tahap presipitasi DNA, supernatan dipindahkan kedalam tabung baru yang sudah berisi 600 μL isopropanol lalu tabung dibolak-balik secara perlahan hingga benang DNA terlihat. Sentrifugasi pada kecepatan 13.000 rpm selama 1 menit. Selanjutnya tahap pencucian dan rehidrasi DNA dengan penambahan 600 μL ethanol 70% lalu tabung dibolak-balik secara perlahan. Selanjutnya disentrifugasi pada 13.000 rpm selama 1 menit. Supernatant dibuang lalu microtube dikeringkan dalam posisi terbalik diatas tisu selama 10-15 menit. Sebanyak 50 μL DNA rehydration solution ditambahkan dan diinkubasi selama 1 jam pada suhu 65℃ atau inkubasi 24 jam pada suhu 4℃. Konsentrasi dan kemurnian DNA dapat diukur dengan nanophotometer.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode QIAamp DNA Mini Kit",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Daun seukuran 2x2 cm dipotong dan disterilkan dengan alcohol 70% lalu dimasukkan kedalam microtube steril dan digerus dengan nitrogen cair dengan bantuan micropestle steril. Sebanyak 180 μL buffer ATL dan 20 μL ditambahkan kedalam tabung. Campuran divortex selama 5 detik dan diinkubasi di heatblock pada suhu 65℃ selama 1 jam. Sebanyak 200 μL buffer AL dan divortex selama 15 detik. Sampel diinkubasi di heatblock pada suhu 70℃ selama 10 menit. Microtube dispindown untuk memastikan tidak ada cairan di tutup tube. Sebanyak 200 μL ethanol absolut (96-100%) ditambahkan dan divortex selama 15 detik. Lisat dipipetkan ke QIAamp Mini spin column (in a 2 ml collection tube). Sentrifugasi selama 5 menit di 8.000 rpm. Sisa daun yang menempel di dinding tube dibuang dengan bantuan tips. Flow-through dan collection tube dibuang. QIAamp Mini spin column ditempatkan di collection tube baru, sebanyak 500 μL buffer AW1 lalu disentrifugasi pada 8.000 rpm selama 5 menit. Flow-through dan collection tube dibuang. QIAamp Mini spin column ditempatkan di collection tube baru, sebanyak 500 μL buffer AW2 lalu disentrifugasi pada 13.000 rpm selama 5 menit. Flow-through dibuang dan QIAamp Mini spin column ditempatkan di tube tadi dan disentrifugasi pada 13.000 rpm selama 2 menit (sentrifugasi kering). QIAamp Mini spin column ditempatkan di microtube steril 1,5 mL dan sebanyak 50 μL buffer AE dan diinkubasi di suhu ruang selama 1 menit. Sentrifugasi pada 13.000 rpm selama 1 menit untuk elusi 1. Ulangi Langkah sebelumnya untuk elusi 2.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode DNeasy Plant Mini Kit",
+      "style": "List Paragraph",
+      "label": "Unknown"
+    },
+    {
+      "text": "Seberat 100 mg dipotong dan dimasukkan kedalam microtube steril dan 400 μL buffer AP1 dan 4 μL RNase A ditambahkan lalu divortex dan diinkubasi selama 10 menit pada suhu 65℃ di heatblock. Selanjutnya 130 μL buffer P3 ditambahkan. Vortex dan inkubasi di kulkas -20℃. Sampel disentrifugasi selama 5 menit pada 13.500 rpm. Lisat dipipetkan kedalam QIAshredder spin column placed in a 2 ml collection tube dan disentrifugasi selama 2 menit pada 13.500 rpm. Flow-through dipindahkan kedalam microtube steril tanpa mengganggu pellet yang terbentuk. Sebanyak 1,5 volume buffer AW1 ditambahkan dan dicampur menggunakan mikropipet. Sebanyak 650 μL campuran dipindahkan kedalam a DNeasy Mini spin column placed in a 2 ml collection tube.  Sentrifugasi selama 1 menit pada 8.000 rpm. Flow-through dibuang. Spin coloumn dipindahkan ke collection tube baru dan 500 μL buffer AW2 ditambahkan lalu disentrifugasi selama 1 menit pada 8.000 rpm. Flow-through dibuang dan 500 μL buffer AW2 ditambahkan. Sentrifugasi selama 2 menit pada 13.500 rpm. Spin coloumn dipindahkan ke microtube 1,5 ml steril dan sebanyak 100 μL buffer AE untuk elusi lalu diinkubasi 5 menit di suhu ruang. Sentrifugasi selama 1 menit pada 8.000 rpm. Ulangi Langkah sebelumnya untuk elusi 2.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "HASIL DAN PEMBAHASAN",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Tabel 1. Hasil isolasi DNA yang berhasil dapat dilihat dari konsentrasi dan kemurnian DNA yang baik.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Hasil penelitian menunjukkan bahwa ukuran daun yang optimal digunakan untuk diisolasi adalah 2x2 cm dengan konsentrasi 127.50 ng/μL dan kemurnian pada panjang gelombang A260/280 adalah 1.326. Penggerusan sampel menggunakan nitrogen cair dan penambahan PVP menghasilkan konsentrasi 55.200 ng/μL dengan kemurnian 2.029. Metode ini menghasilkan kemuurnian yang paling baik diantara semua metode yang telah dicoba namun memiliki konsentrasi yang rendah. Pada penelitian ini dilakukan PCR RAPD terhadap sampel yang telah diisolasi untuk memastikan metode mana yang bisa digunakan agar sampel bisa teramplifikasi dengan baik. Primer RAPD yang digunakan pada penelitian ini adalah OPA-04 dan OPE-12.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Gambar 1. Hasil amplifikasi sampel hasil isolasi metode CTAB menggunakan Teknik PCR RAPD. A= OPA-04, B= OPE-12.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Gambar tersebut merupakan hasil isolasi sampel dengan metode CTAB yang dimodifikasi dan diamplifikasi menggunakan dua primer RAPD yang berbeda. Hasil isolasi menggunakan metode lainnya tidak menunjukkan adanya pita DNA yang teramplifikasi.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "KESIMPULAN",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Metode isolasi DNA yang paling optimal digunakan untuk tanaman terancam punah Dipterocarpus cinereus adalah metode Doyle & Doyle (1990) berbasis CTAB yang dimodifikasi dengan ukuran daun 2x2 cm, penggerusan menggunakan nitrogen cair dan penambahan PVP. Hasil PCR menunjukkan bahwa hasil isolasi menggunakan metode CTAB dengan penggerusan menggunakan nitrogen cair dan penambahan PVP dapat teramplifikasi sehingga dapat diamati variasi genetiknya. Metode CTAB juga hemat biaya daripada metode lainnya.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "DAFTAR PUSTAKA",
+      "style": "Normal",
+      "label": "References"
+    },
+    {
+      "text": "Ardiana, D. W., 2009. Teknik isolasi DNA genom tanaman papaya dan jeruk dengan menggunakan modifikasi buffer CTAB. Buletin Teknik Pertanian, 14(1), 12-16.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Restu, M, et al., 2012. Optimalisasi Teknik Ekstraksi dan Isolasi DNA Tanaman Suren (Toona Sureni Merr.) untuk Analisis Keragaman Genetik berdasarkan Random Amplified Polymorphic DNA (RAPD). Jurnal Natur Indonesia 14(2), Februari 2012: 138-142. ISSN 1410-9379.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Robiansyah, I., et al. 2020. Dipterocarpus cinereus. NS Daftar Merah Spesies Terancam IUCN 2020: e.T33374A125628179.DOI:https://dx.doi.org/10.2305/IUCN.UK.20201.RLTS.T33374A125628179.en.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Romlah, S. et al., 2018. PERBANDINGAN EFEKTIVITAS METODE ISOLASI DNA (BOILLING WATER DAN CTAB) PADA BAKTERI Klebsiella pneumoniae. Prosiding Pertemuan Ilmiah Nasional Penelitian & Pengabdian Masyarakat (PINLITAMAS 1) Dies Natalis ke-16 STIKES Jenderal Achmad Yani Cimahi PINLITAMAS 1 | Vol 1, No.1 ISSN 2654-5411.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Syafaruddin, et al., 2011. EFEKTIVITAS DAN EFISIENSI TEKNIK ISOLASI DAN PURIFIKASI DNA PADA JAMBU METE. Buletin RISTRI Vol 2 (2) 2011.",
+      "style": "Normal",
+      "label": "Unknown"
+    },
+    {
+      "text": "Varma, A. et al., 2007. Plant genomic DNA isolation: an art or a science. Journal Biotechnology. 2: 386-392.",
+      "style": "Normal",
+      "label": "Unknown"
+    }
+  ],
+  "tables": [
+    {
+      "content": [
+        [
+          "Metode",
+          "Konsentrasi (ng/ μL)",
+          "Kemurnian (A260/A280)"
+        ],
+        [
+          "CTAB-Ukuran daun 1x1 cm",
+          "55.300",
+          "1.301"
+        ],
+        [
+          "CTAB-Ukuran daun 2x2 cm",
+          "127.50",
+          "1.326"
+        ],
+        [
+          "CTAB-Ukuran daun 3x3 cm",
+          "135..50",
+          "1.313"
+        ],
+        [
+          "CTAB-Penggerusan dengan nitrogen cair dan penambahan PVP",
+          "55.200",
+          "2.029"
+        ],
+        [
+          "CTAB-Penggerusan dengan nitrogen cair tanpa penambahan PVP",
+          "65.000",
+          "1.427"
+        ],
+        [
+          "CTAB-Penggerusan tanpa nitrogen cair dan penambahan PVP",
+          "117.10",
+          "1.667"
+        ],
+        [
+          "Kit Promega",
+          "80.850",
+          "1.367"
+        ],
+        [
+          "QIAamp DNA Mini Kit Qiagen",
+          "123.60",
+          "1.680"
+        ],
+        [
+          "DNeasy Plant Mini Kit Qiagen",
+          "335.35",
+          "0.971"
+        ]
+      ],
+      "label": "Table"
+    }
+  ]
+}
